@@ -1,0 +1,71 @@
+body {
+  background: $light-gray;
+}
+
+.site-header {
+  background-image: url('http://i2.listal.com/image/1268344/936full-the-legend-of-zelda%3A-ocarina-of-time-artwork.jpg');
+  background-size: cover;
+  min-height: 100vh;
+  box-shadow: inset 500px 0px 196px -121px rgba(0,0,0,0.75);
+}
+
+.site-header__logo {
+  @include outer-container;
+}
+
+#logo {
+  width: 75px;
+  height: 75px;
+  display: block;
+  background-color: $white;
+  background-color: $color-alpha;
+  padding: 10px;
+}
+
+.logo__controller {
+  fill: $color-alpha;
+  fill: $white;
+  width: 100%;
+}
+
+#logo:hover .logo__controller {
+  //animation: colorchange 2s infinite;
+}
+
+#logo:hover {
+  animation: padding 2s infinite;
+}
+
+
+@keyframes colorchange
+{
+  0%   {fill: $color-beta;}
+  25%  {fill: $color-delta;}
+  50%  {fill: $color-alpha;}
+  75%  {fill: $color-gamma;}
+  100% {fill: $color-beta;}
+}
+
+@keyframes padding
+{
+  0%   {background: $color-alpha;}
+  25%  {background: $color-beta;}
+  50%  {background: $color-gamma;}
+  75%  {background: $color-delta;}
+  100% {background: $color-alpha;}
+}
+
+.cover-story {
+  @include outer-container;
+  margin-top: 6em;
+}
+
+.cover-story__tag {
+  color: $color-alpha;
+  margin: 0;
+}
+
+.cover-story__title,
+.cover-story__description {
+  color: $white;
+}

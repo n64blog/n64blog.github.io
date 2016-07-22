@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <h1>{{page.title}}</h1>
+        <p><strong>Developed by:</strong> {{page.developer}}</p>
+        <p><strong>Published by:</strong> {{page.publisher}}</p>
+        <p><strong>Released:</strong></p>
+        <ul>
+          <li>Japan: {{page.release-jpn | date: "%-d %B %Y" }}</li>
+          <li>North America: {{page.release-na | date: "%-d %B %Y" }}</li>
+          <li>Europe: {{page.release-eu | date: "%-d %B %Y" }}</li>
+        </ul>
+        <p><strong>Genre:</strong> {{page.genre}}</p>
+        <p><strong>Players:</strong>
+          {% if page.minplayers == page.maxplayers %}
+            {{page.minplayers}}
+          {% else %}
+            {{page.minplayers}} - {{page.maxplayers}}
+          {% endif %}
+        </p>
+        <p><strong>Cartridge size:</strong> {{page.cartridge}}</p>
+        <p><strong>Controller Pak:</strong> {{page.controllerpak | capitalize}}</p>
+        <p><strong>Rumble Pak:</strong> {{page.rumble | capitalize}}</p>
+        <p><strong>Expansion Pak:</strong> {{page.expansion | capitalize}}</p>
+
+
+        <p><strong>About: </strong> {{page.content}}</p>
+
+        <br>
+        <hr>
+        <br>
+
+        <p>{{page.url}}</p>
+        <p>{{page.tags}}</p>
+
+        <br>
+        <hr>
+        <br>
+
+        <h2>Related posts:</h2>
+        <ul>
+        {% for tags in page.tags %}
+        {% assign t = tags %}
+        {% for post in site.posts %}
+          {% if post.tags contains t %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+          </li>
+          {% endif %}
+        {% endfor %}
+        {% endfor %}
+        </ul>
+
+  </div>
+</div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
