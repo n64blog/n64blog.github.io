@@ -1,0 +1,56 @@
+<main class="main">
+  <div class="container">
+    <div class="page-content">
+      <div class="wrapper">
+        {% include nav.html %}
+        <h4>About</h4>
+        {{content}}
+
+        <article class="related-post">
+          <h2 class="related-post__title">Factfile</h2>
+          <p><strong>Developed by:</strong> {{page.developer}}</p>
+          <p><strong>Published by:</strong> {{page.publisher}}</p>
+          <p><strong>Released:</strong></p>
+          <ul>
+            <li>Japan: {{page.release-jpn | date: "%-d %B %Y" }}</li>
+            <li>North America: {{page.release-na | date: "%-d %B %Y" }}</li>
+            <li>Europe: {{page.release-eu | date: "%-d %B %Y" }}</li>
+          </ul>
+          <p><strong>Genre:</strong> {{page.genre}}</p>
+          <p><strong>Players:</strong>
+            {% if page.minplayers == page.maxplayers %}
+              {{page.minplayers}}
+            {% else %}
+              {{page.minplayers}} - {{page.maxplayers}}
+            {% endif %}
+          </p>
+          <p><strong>Cartridge size:</strong> {{page.cartridge}}</p>
+          <p><strong>Controller Pak:</strong> {{page.controllerpak | capitalize}}</p>
+          <p><strong>Rumble Pak:</strong> {{page.rumble | capitalize}}</p>
+          <p><strong>Expansion Pak:</strong> {{page.expansion | capitalize}}</p>
+        </article>
+
+
+
+
+
+
+
+        <article class="related-post">
+          <h2 class="related-post__title">Related posts</h2>
+          <ul class="related-post__list">
+          {% for tags in page.tags %}
+          {% assign t = tags %}
+          {% for post in site.posts %}
+            {% if post.tags contains t %}
+            <li>
+              <a href="{{ post.url }}">{{ post.title }}</a> by {{ post.author }}
+            </li>
+            {% endif %}
+          {% endfor %}
+          {% endfor %}
+          </ul>
+        </article>
+
+  </div>
+</main>

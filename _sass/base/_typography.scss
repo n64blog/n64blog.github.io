@@ -1,32 +1,30 @@
 body {
   color: $base-font-color;
   font-family: $base-font-family;
-  font-size: $base-font-size;
+  font-size: 16px;
   line-height: $base-line-height;
   text-rendering: optimizeLegibility;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   font-family: $heading-font-family;
-  //font-size: modular-scale(1);
   line-height: $heading-line-height;
-  margin: 0 0 $small-spacing;
+  margin: 0 0 $small-spacing 0;
+  font-weight: 900;
 }
 
 h1 {
-  font-size: 3.5em;
-  text-transform: uppercase;
-  font-weight: 900;
-  line-height: $heading-line-height--cap;
+  font-size: 3em;
+  @include media-above('large') {
+    font-size: 3.5em;
+  };
 }
 
 h2 {
-  font-size: 2.75em;
+  font-size: 2.5em;
+  @include media-above('large') {
+    font-size: 2.75em;
+  };
 }
 
 h3 {
@@ -43,6 +41,7 @@ h5 {
 }
 
 p {
+  font-size: $base-font-size;
   margin: 0 0 $base-spacing;
 }
 

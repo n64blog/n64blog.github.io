@@ -1,0 +1,116 @@
+/*
+
+
+.post-container {
+  @include clearfix;
+}
+
+.post {
+  position: relative;
+  @include clearfix;
+  margin: 0 0 ($base-spacing * 2) 0;
+  padding-left: 140px;
+}
+
+.post__thumb {
+  float: left;
+  display: block;
+  background-size: cover;
+  width: 120px;
+  height: 120px;
+  margin-left: -140px;
+}
+
+.post__badge {
+  background: $color-alpha;
+  padding: $base-spacing / 4 $base-spacing / 2;
+  display: inline-block;
+  color: $white;
+  font-weight: 800;
+  font-family: $heading-font-family;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  margin: 0 0 ($base-spacing / 4) 0;
+}
+
+.post h3 {
+  margin: 0 0 ($base-spacing / 4) 0;
+}
+
+*/
+// Individual post
+
+.post-head {
+  padding: $base-spacing;
+  @include media(720px) {
+    padding: ($base-spacing * 3);
+  }
+}
+
+.post-head__badge {
+  background: $color-alpha;
+  padding: $base-spacing / 4 $base-spacing / 2;
+  color: $white;
+  font-weight: 800;
+  font-family: $heading-font-family;
+  font-size: 0.825em;
+  text-transform: uppercase;
+  margin: 0 0 ($base-spacing / 2) 0;
+  display: inline-block;
+  -webkit-box-shadow: 10px 10px 0px 0px rgba(0,0,0,0.4);
+  -moz-box-shadow: 10px 10px 0px 0px rgba(0,0,0,0.4);
+  box-shadow: 5px 5px 0px 0px rgba(0,0,0,0.4);
+}
+
+.post-head__title,
+.post-head__author,
+.post-head__subtitle {
+  color: $white;
+  line-height: 1;
+  @include media-above(medium) {
+    margin: 0 0 $base-spacing 0;
+  };
+}
+
+.post-head__subtitle {
+  font-size: 1.75em;
+  font-weight: 400;
+  font-family: "freight-sans-pro", sans-serif;
+}
+
+.post-head__author {
+  font-size: 1.25em;
+  font-weight: 800;
+  font-family: $heading-font-family;
+  margin: 0;
+  border-top: 2px solid $white;
+  padding-top: $base-spacing;
+}
+
+.post-content {
+  @include media-above('medium') {
+    margin: 0 0 ($base-spacing * 3) 0;
+  };
+}
+
+// Related games
+
+.related-game {
+  background-color: $white;
+  padding: ($base-spacing * 2.5) $base-spacing $base-spacing $base-spacing;
+  margin: 0 0 $base-spacing 0;
+  position: relative;
+}
+
+.related-game__title {
+  @include position(absolute, 0 null null 0);
+  padding: ($base-spacing / 2) $base-spacing;
+  background-color: $color-beta;
+  text-transform: uppercase;
+  color: $white;
+  font-size: 1em;
+}
+
+.related-game__list {
+  margin: 0;
+}

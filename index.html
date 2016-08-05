@@ -2,11 +2,13 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h2>Posts:</h2>
+<div class="post-container">
   {% for post in site.posts %}
+  <article class="post">
+    <div class="post__thumb" style="background-image: url(http://placekitten.com/450/500);"></div>
+    <span class="post__badge">Badge</span>
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <a href="{{ post.url }}">Read more</a></p>
+  </article>
   {% endfor %}
-
 </div>

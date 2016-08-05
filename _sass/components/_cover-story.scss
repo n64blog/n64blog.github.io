@@ -1,0 +1,32 @@
+.cover-story {
+  padding: $base-spacing;
+  @include media(720px) {
+    padding: ($base-spacing * 3);
+  }
+}
+
+.cover-story__badge {
+  background: $color-alpha;
+  padding: $base-spacing / 4 $base-spacing / 2;
+  color: $white;
+  font-weight: 800;
+  font-family: $heading-font-family;
+  font-size: 0.825em;
+  text-transform: uppercase;
+  margin: 0 0 ($base-spacing / 2) 0;
+  display: inline-block;
+  -webkit-box-shadow: 10px 10px 0px 0px rgba(0,0,0,0.4);
+  -moz-box-shadow: 10px 10px 0px 0px rgba(0,0,0,0.4);
+  box-shadow: 5px 5px 0px 0px rgba(0,0,0,0.4);
+}
+
+.cover-story__title,
+.cover-story__description {
+  color: $white;
+}
+
+.cover-story__description {
+  font-size: 1.5em;
+  font-weight: 400;
+  font-family: $heading-font-family;
+}

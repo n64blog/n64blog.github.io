@@ -1,0 +1,21 @@
+// Related posts
+
+.related-post {
+  background-color: $white;
+  padding: ($base-spacing * 2.5) $base-spacing $base-spacing $base-spacing;
+  margin: 0 0 $base-spacing 0;
+  position: relative;
+}
+
+.related-post__title {
+  @include position(absolute, 0 null null 0);
+  padding: ($base-spacing / 2) $base-spacing;
+  background-color: $color-beta;
+  text-transform: uppercase;
+  color: $white;
+  font-size: 1em;
+}
+
+.related-post__list {
+  margin: 0;
+}

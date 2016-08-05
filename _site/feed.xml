@@ -6,19 +6,80 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Jul 2016 00:20:31 +0100</pubDate>
-    <lastBuildDate>Fri, 15 Jul 2016 00:20:31 +0100</lastBuildDate>
+    <pubDate>Fri, 05 Aug 2016 23:44:01 +0100</pubDate>
+    <lastBuildDate>Fri, 05 Aug 2016 23:44:01 +0100</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
-        <title>This is a post about Zelda and Mario</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+        <title>Title of the post</title>
+        <description>&lt;h3 id=&quot;heading&quot;&gt;Heading&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et consequat eros. Proin sollicitudin tincidunt elit, a volutpat augue blandit ut. Nullam ultrices turpis ut purus dignissim pretium. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis at venenatis lacus, quis pulvinar nunc. Nam et dui ac &lt;a href=&quot;tellus&quot;&gt;text&lt;/a&gt; vulputate maximus. Suspendisse rutrum enim eu hendrerit ultricies. Vivamus sit amet massa in purus egestas dignissim. Duis lacinia bibendum ipsum eget iaculis. Nulla blandit lacinia leo at sagittis.&lt;/p&gt;
+
+&lt;p&gt;Quisque eu quam fermentum, tempus diam sed, dictum sem. Donec finibus, mauris vel mollis viverra, ante risus dapibus tortor, ac congue lacus enim non enim. Fusce luctus at nisi id dignissim. Duis pellentesque nisl vel nisi facilisis, vel pharetra justo tincidunt. Aliquam pretium quam vel porta tempus. Quisque aliquam egestas blandit. Nulla elementum commodo est, sit amet rutrum ex ultricies volutpat. Integer rhoncus cursus tellus nec sollicitudin.&lt;/p&gt;
+
+&lt;h4 id=&quot;heading-1&quot;&gt;Heading&lt;/h4&gt;
+
+&lt;p&gt;Ut pellentesque ex et eleifend consectetur. Donec vulputate lectus urna, vitae porta ipsum tristique vel. Praesent tempor iaculis nibh vel suscipit. Aenean dapibus lacus nec venenatis sollicitudin. Nunc eget imperdiet massa, et dignissim tortor. Praesent vestibulum euismod nunc vitae maximus. Integer non ultricies nunc.&lt;/p&gt;
+
+&lt;p&gt;Etiam laoreet, urna vel maximus fermentum, &lt;em&gt;arcu&lt;/em&gt; lectus maximus libero, in dignissim massa eros quis felis. Suspendisse nec tincidunt nisl. Proin dictum purus massa, pulvinar accumsan magna consectetur at. Pellentesque eu tincidunt quam, non &lt;strong&gt;dapibus leo.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ut in mauris placerat, tincidunt sem sed, pharetra dui. Mauris sed commodo velit. Donec eu dignissim arcu. Donec iaculis mollis ex, eget faucibus urna. Morbi nulla dolor, sagittis non laoreet ac, tristique nec nisl. Curabitur in lacus volutpat, efficitur nisl quis, viverra sem. Nulla laoreet rhoncus nisi, congue mattis erat aliquet accumsan. Ut viverra faucibus felis. Vivamus mattis mi euismod euismod pellentesque. Curabitur ac arcu sit amet turpis facilisis venenatis convallis sit amet risus.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Tables&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Are&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Cool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;col 3 is&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;right-aligned&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;col 2 is&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;zebra stripes&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Fusce mollis maximus dolor. Quisque pulvinar libero vel magna pharetra eleifend. Nulla augue eros, pharetra in aliquam a, tristique eu leo. Aenean elementum semper ipsum, eu luctus sem facilisis vehicula. Nunc vulputate facilisis purus, quis vehicula arcu facilisis in. Quisque varius feugiat dui, eu ornare turpis convallis eget. Curabitur id augue lorem. Etiam cursus massa et tortor rhoncus egestas.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Quisque eu quam fermentum, tempus diam sed, dictum sem. Donec finibus, mauris vel mollis viverra, ante risus dapibus tortor, ac congue lacus enim non enim. Fusce luctus at nisi id dignissim. Duis pellentesque nisl vel nisi facilisis, vel pharetra justo tincidunt. Aliquam pretium quam vel porta tempus. Quisque aliquam egestas blandit. Nulla elementum commodo est, sit amet rutrum ex ultricies volutpat. Integer rhoncus cursus tellus nec sollicitudin.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum a sem at mauris elementum dignissim. Quisque volutpat, risus et laoreet convallis, nisl libero tristique velit, eget aliquet nisi massa vitae magna. Nulla facilisi. Etiam vestibulum metus ac cursus pellentesque. Vivamus fermentum nulla egestas turpis lobortis consequat. Duis luctus est rutrum, fermentum elit vitae, dapibus neque. Nullam vitae nisi posuere, scelerisque ex a, congue nunc. Vivamus eu porta nulla, et dignissim lorem. Praesent lacinia luctus nulla vel scelerisque. Donec non malesuada velit. Nullam at cursus risus. Donec ut aliquet urna. Etiam sit amet mauris in leo hendrerit finibus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://static.comicvine.com/uploads/original/11118/111188772/4290612-heres%2Ba%2Bpretty%2Bcool%2Blink%2Bwallpaper%2Bfor%2Banyone%2Bwho%2Bmight%2B_5bad7f2d034643bc4059ae814cb067c6.jpg&quot; alt=&quot;alt text&quot; title=&quot;Logo Title Text 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Proin ex est, accumsan eget tortor ut, imperdiet tempor metus. Nullam eu porttitor leo, vel tempor purus. Ut risus diam, commodo pulvinar lorem quis, malesuada hendrerit diam. Proin arcu lectus, dapibus vel ultrices posuere, euismod et augue. Ut id odio et arcu ornare semper non a arcu. Pellentesque quis tellus id sapien maximus efficitur sit amet facilisis massa. Aliquam ut augue sagittis, auctor purus ut, imperdiet enim. Sed nulla felis, vestibulum at metus non, rhoncus blandit sapien.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse ac euismod nunc, at ornare ipsum. Ut eleifend ipsum nec finibus feugiat. Nunc mi mauris, pellentesque ac ligula non, accumsan ultricies lacus. Integer bibendum nec metus non dapibus. Vestibulum sit amet posuere neque, eu tempor mi. Vestibulum rhoncus orci dolor, a sagittis leo iaculis eget. Mauris eu pulvinar nulla, ac maximus lectus. Aliquam erat volutpat. Duis porta elementum turpis a dictum.&lt;/p&gt;
+
+&lt;p&gt;Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec vitae porta ante, a suscipit urna. Nam id tempor nisl, eget pellentesque diam. Sed ligula nibh, rhoncus et lorem in, pulvinar gravida erat. Morbi interdum accumsan suscipit. Curabitur eu ullamcorper enim, nec luctus turpis. Donec gravida massa at fermentum condimentum. Suspendisse vitae turpis ut enim consequat tristique nec non ante. Proin eget ex sed ipsum tincidunt ornare. Pellentesque non erat commodo, iaculis mi quis, fringilla sem. Duis non urna at urna malesuada laoreet et vel lorem. Curabitur vitae leo non dui commodo sodales. Mauris semper turpis id ante fermentum, sed viverra orci fermentum. Etiam nec sodales nisi, at faucibus ex. Sed sapien metus, dignissim id libero sit amet, mollis tincidunt ante. Vivamus efficitur in libero id commodo.&lt;/p&gt;
+
+&lt;p&gt;Cras pretium, ante in consectetur dapibus, eros eros efficitur magna, quis gravida orci turpis non nisi. Duis commodo sagittis porttitor. Donec dictum arcu quis justo dapibus, sed eleifend ipsum congue. Aliquam feugiat purus eget tortor feugiat, et rutrum augue pretium. Quisque cursus mi ex, ut accumsan orci dignissim a. Etiam finibus facilisis ante, eget accumsan dui convallis at. Nunc vehicula ultricies massa at blandit. Ut pulvinar metus metus, sed hendrerit magna ornare a. Aliquam erat volutpat. Nullam at molestie nulla, ut egestas urna. Praesent imperdiet varius nibh sit amet gravida. Donec vitae cursus dui, eu vulputate arcu. Vestibulum vel nunc vel enim viverra consequat eu quis diam. Nullam a porttitor quam.&lt;/p&gt;
+
+&lt;p&gt;Proin tellus risus, pulvinar in justo a, venenatis elementum sem. Praesent elementum condimentum sem eu sollicitudin. Aenean ac convallis diam. Integer eleifend finibus nisi sit amet porttitor. Vivamus ullamcorper, ipsum in bibendum porta, nunc metus mollis sapien, eget dictum arcu ligula id orci. Ut at mattis quam. Pellentesque congue malesuada ligula quis auctor. Nunc turpis purus, facilisis at iaculis ac, pellentesque nec mauris.&lt;/p&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent lacinia, arcu non consectetur malesuada, ante massa volutpat erat, et convallis ligula mauris nec ante. Vestibulum pellentesque risus non felis gravida, vel placerat ante lacinia. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi vel sagittis leo. Morbi sagittis laoreet neque, ut ullamcorper arcu scelerisque non. Nunc tempor tempus laoreet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Jun 2016 00:12:45 +0100</pubDate>
         <link>http://yourdomain.com/article/2016/06/19/zeldapost1.html</link>
         <guid isPermaLink="true">http://yourdomain.com/article/2016/06/19/zeldapost1.html</guid>
         
-        <category>zelda</category>
+        <category>zelda-oot</category>
         
         <category>mario</category>
         

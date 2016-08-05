@@ -33,3 +33,20 @@
     }
   }
 }
+
+.btn {
+  padding: ($base-spacing / 4) ($base-spacing);
+  color: $white;
+  font-weight: 800;
+  font-family: $heading-font-family;
+  text-transform: uppercase;
+  margin: 0 0 ($base-spacing / 2) 0;
+  display: inline-block;
+  border: 2px solid $color-beta;
+  transition: ease 0.5s all;
+  &:hover{
+    color: $white;
+    background-color: $color-beta;
+    border: 2px solid $color-beta;
+  }
+}

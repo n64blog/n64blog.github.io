@@ -1,10 +1,13 @@
 // Breakpoints
-$medium-screen: 600px;
-$large-screen: 900px;
+$breakpoints: (
+  'small'  : 420px,
+  'medium' : 720px,
+  'large'  : 960px
+);
 
 // Typography
-$base-font-family: 'Open Sans', sans-serif;
-$heading-font-family: $base-font-family;
+$base-font-family: 'ff-tisa-web-pro', serif;
+$heading-font-family: 'freight-sans-pro', sans-serif;
 
 // Font Sizes
 $base-font-size: 1em;
@@ -23,7 +26,7 @@ $base-z-index: 0;
 // Colors
 $dark-gray: #333;
 $medium-gray: #999;
-$light-gray: #ddd;
+$light-gray: #F5F5F5;
 
 $black: #222222;
 $white: #FFFFFF;
@@ -39,7 +42,7 @@ $base-font-color: $dark-gray;
 $action-color: $color-alpha;
 
 // Border
-$base-border-color: $light-gray;
+$base-border-color: $color-gamma;
 $base-border: 1px solid $base-border-color;
 
 // Background Colors
