@@ -19,10 +19,11 @@
 
   <body>
 
-    <header class="site-header" style="background-image: url(http://pre07.deviantart.net/f377/th/pre/i/2014/275/9/0/smash_bros__new_warriors_aproaching___by_miitoons-d8031et.jpg)">
-  <div class="site-header__logo">
-    <a href="/" id="logo">
-      <?xml version="1.0" encoding="utf-8"?>
+    <header class="site-header">
+      <section class="site-header__container">
+        <div class="logo-container">
+          <a href="/" id="logo">
+            <?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" id="controller" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	  viewBox="-430 251 55 55" style="enable-background:new -430 251 55 55;" xml:space="preserve">
 <path id="Combined-Shape" class="logo__controller" d="M-377.7,289.3c2.9-4.5,2.1-8.2,2.1-8.2s1.3,0.2,0.1-2.3c-1.2-2.5-5-7.3-5-7.3
@@ -45,29 +46,26 @@
 	 M-400.4,280.9l-1.1-3.1l-2.9-1.4l-3.1,1.1l-1.4,2.9l1.1,3.1l2.9,1.4l3.1-1.1L-400.4,280.9z"/>
 </svg>
 
-    </a>
-  </div>
-  <article class="post-head">
-    <h1 class="post-head__title">Title of the post</h1>
-    <h3 class="post-head__subtitle">This is where the subtitle goes</h3>
-    <p class="post-head__author">by Martin Watts</p>
-  </article>
-</header>
-
-    <main class="main">
-  <div class="container">
-
-    <nav>
+          </a>
+        </div>
+        <nav>
   <ul class="site-nav">
-    <li><a href="#">News</a></li>
-    <li><a href="#">Features</a></li>
+    <li><a href="/news">News</a></li>
+    <li><a href="/articles">Articles</a></li>
     <li><a href="/games">Games</a></li>
+    <li><a href="/about">About</a></li>
   </ul>
 </nav>
 
+      </section>
+    </header>
 
-    <article class="post-content">
-      <h3 id="heading">Heading</h3>
+    <div class="site-body">
+      <section class="site-body__container">
+        <section class="post-content">
+  <div class="post-content__body">
+    <h1>Title of the post</h1>
+    <h3 id="heading">Heading</h3>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et consequat eros. Proin sollicitudin tincidunt elit, a volutpat augue blandit ut. Nullam ultrices turpis ut purus dignissim pretium. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis at venenatis lacus, quis pulvinar nunc. Nam et dui ac <a href="tellus">text</a> vulputate maximus. Suspendisse rutrum enim eu hendrerit ultricies. Vivamus sit amet massa in purus egestas dignissim. Duis lacinia bibendum ipsum eget iaculis. Nulla blandit lacinia leo at sagittis.</p>
 
@@ -130,46 +128,77 @@
 
 <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent lacinia, arcu non consectetur malesuada, ante massa volutpat erat, et convallis ligula mauris nec ante. Vestibulum pellentesque risus non felis gravida, vel placerat ante lacinia. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi vel sagittis leo. Morbi sagittis laoreet neque, ut ullamcorper arcu scelerisque non. Nunc tempor tempus laoreet. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 
-    </article>
-
-    <article class="related-game">
-  <h4 class="related-game__title">Related games</h4>
-  <ul class="related-game__list">
-  
-  
-  
-    
-  
-    
-  
-    
-    <li>
-      <a href="/games/zelda-oot.html">The Legend of Zelda: Ocarina of Time</a>
-    </li>
-    
-  
-  
-  
-  
-    
-    <li>
-      <a href="/games/Super-Mario-64.html">Super Mario 64</a>
-    </li>
-    
-  
-    
-  
-    
-  
-  
-  </ul>
-
-</article>
-
-
   </div>
-</main>
+  <div class="post-content__meta">
+    <section class="related-games">
+      <h4 class="related-games__heading">Mentioned</h4>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <article class="related-game">
+        <a href="/games/zelda-oot.html"><img class="related-game__img" src="https://upload.wikimedia.org/wikipedia/en/8/8e/The_Legend_of_Zelda_Ocarina_of_Time_box_art.png" alt="" /></a>
+        <a class="related-game__name" href="/games/zelda-oot.html">The Legend of Zelda: Ocarina of Time</a>
+      </article>
 
+      
+      
+      
+      
+      
+      
+      <article class="related-game">
+        <a href="/games/1080-snowboarding.html"><img class="related-game__img" src="https://upload.wikimedia.org/wikipedia/en/0/04/1080snowboardingbox.jpg" alt="" /></a>
+        <a class="related-game__name" href="/games/1080-snowboarding.html">Super Mario 64</a>
+      </article>
+
+      
+      
+      
+      <article class="related-game">
+        <a href="/games/Super-Mario-64.html"><img class="related-game__img" src="https://gamefiles.alphacoders.com/boxart/original/front/216-1.jpg" alt="" /></a>
+        <a class="related-game__name" href="/games/Super-Mario-64.html">Super Mario 64</a>
+      </article>
+
+      
+      
+      
+      <article class="related-game">
+        <a href="/games/banjo-kazooie.html"><img class="related-game__img" src="http://vignette3.wikia.nocookie.net/banjokazooie/images/6/67/Banjo-Kazooie_Boxart_(North_America).png" alt="" /></a>
+        <a class="related-game__name" href="/games/banjo-kazooie.html">Super Mario 64</a>
+      </article>
+
+      
+      
+      
+      
+      
+      <article class="related-game">
+        <a href="/games/zelda-mm.html"><img class="related-game__img" src="https://www.loveroms.com/assets/data/nintendo-64/legend-of-zelda-the-majoras-mask-nintendo-64.jpg" alt="" /></a>
+        <a class="related-game__name" href="/games/zelda-mm.html">The Legend of Zelda: Majora's Mask</a>
+      </article>
+
+      
+      
+      
+      
+      
+    </section>
+  </div>
+</section>
+
+      </section>
+    </div>
 
   </body>
 

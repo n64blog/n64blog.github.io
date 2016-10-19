@@ -19,7 +19,8 @@ expansion: "no"
 transfer: "no"
 tags: [zelda-oot]
 aka:
-bg: "https://upload.wikimedia.org/wikipedia/en/a/a1/OcarinaOfTimeBattle.JPG"
+boxart: "https://upload.wikimedia.org/wikipedia/en/8/8e/The_Legend_of_Zelda_Ocarina_of_Time_box_art.png"
+bg: "http://cdn.thepocketplayers.com/wp-content/uploads/2013/07/Ocarina-3D-Sheik.jpg"
 ---
 
 Brum Broooooom

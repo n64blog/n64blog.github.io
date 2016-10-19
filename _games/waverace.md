@@ -1,9 +1,25 @@
 ---
 layout: game
 title: "Wave Race 64"
-release: 1999
-genre: "Sports"
+meta-name: ""
+meta-description: ""
+meta-keyword: ["1","2"]
+developer: ["Nintendo EAD"]
+publisher: ["Nintendo","Nintendodsfsdg"]
+release-jpn: 1996-6-23
+release-na: 1996-9-29
+release-eu: 1997-3-1
+genre: ["3D platformer"]
+minplayers: 1
+maxplayers: 2
+cartridge: 8
+controllerpak: yes
+rumble: "no"
+expansion: "no"
+transfer: "no"
 tags: [waverace]
+boxart: "http://www.mobygames.com/images/covers/l/78637-wave-race-64-kawasaki-jet-ski-nintendo-64-front-cover.png"
+aka:
 ---
 
 Brum Broooooom

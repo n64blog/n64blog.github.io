@@ -1,29 +1,30 @@
 body {
-  color: $base-font-color;
-  font-family: $base-font-family;
+  color: $black;
+  font-family: $base-font;
   font-size: 16px;
-  line-height: $base-line-height;
+  line-height: 1.5;
   text-rendering: optimizeLegibility;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $heading-font-family;
-  line-height: $heading-line-height;
+  font-family: $heading-font;
+  line-height: 1;
   margin: 0 0 $small-spacing 0;
   font-weight: 900;
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 2.5em;
+  color: $color-gamma;
   @include media-above('large') {
-    font-size: 3.5em;
+    font-size: 2.75em;
   };
 }
 
 h2 {
-  font-size: 2.5em;
+  font-size: 2.15em;
   @include media-above('large') {
-    font-size: 2.75em;
+    font-size: 2.25em;
   };
 }
 
@@ -41,24 +42,24 @@ h5 {
 }
 
 p {
-  font-size: $base-font-size;
+  font-size: 1em;
   margin: 0 0 $base-spacing;
 }
 
 a {
-  color: $action-color;
+  color: $color-alpha;
   text-decoration: none;
-  transition: color $base-duration $base-timing;
+  transition: color 1 0.5s;
 
   &:active,
   &:focus,
   &:hover {
-    color: shade($action-color, 25%);
+    color: shade($color-alpha, 25%);
   }
 }
 
 hr {
-  border-bottom: $base-border;
+  border-bottom: 1px solid $black;
   border-left: 0;
   border-right: 0;
   border-top: 0;

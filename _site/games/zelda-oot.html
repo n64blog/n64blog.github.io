@@ -19,10 +19,11 @@
 
   <body>
 
-    <header class="site-header" style="background-image: url(https://upload.wikimedia.org/wikipedia/en/a/a1/OcarinaOfTimeBattle.JPG)">
-  <div class="site-header__logo">
-    <a href="/" id="logo">
-      <?xml version="1.0" encoding="utf-8"?>
+    <header class="site-header">
+      <section class="site-header__container">
+        <div class="logo-container">
+          <a href="/" id="logo">
+            <?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" id="controller" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	  viewBox="-430 251 55 55" style="enable-background:new -430 251 55 55;" xml:space="preserve">
 <path id="Combined-Shape" class="logo__controller" d="M-377.7,289.3c2.9-4.5,2.1-8.2,2.1-8.2s1.3,0.2,0.1-2.3c-1.2-2.5-5-7.3-5-7.3
@@ -45,80 +46,83 @@
 	 M-400.4,280.9l-1.1-3.1l-2.9-1.4l-3.1,1.1l-1.4,2.9l1.1,3.1l2.9,1.4l3.1-1.1L-400.4,280.9z"/>
 </svg>
 
-    </a>
-  </div>
-  <article class="cover-story">
-    <h3 class="cover-story__title">The Legend of Zelda: Ocarina of Time</h3>
-    <img src="https://upload.wikimedia.org/wikipedia/en/8/8e/The_Legend_of_Zelda_Ocarina_of_Time_box_art.png" alt="" />
-  </article>
-</header>
-
-    <main class="main">
-  <div class="container">
-    <div class="page-content">
-      <div class="wrapper">
+          </a>
+        </div>
         <nav>
   <ul class="site-nav">
-    <li><a href="#">News</a></li>
-    <li><a href="#">Features</a></li>
+    <li><a href="/news">News</a></li>
+    <li><a href="/articles">Articles</a></li>
     <li><a href="/games">Games</a></li>
+    <li><a href="/about">About</a></li>
   </ul>
 </nav>
 
-        <h4>About</h4>
-        <p>Brum Broooooom
+      </section>
+    </header>
+
+    <div class="site-body">
+      <section class="site-body__container">
+        <section class="post-content">
+  <div class="post-content__body">
+    <h1>The Legend of Zelda: Ocarina of Time</h1>
+    <p>Brum Broooooom
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-
-        <article class="related-post">
-          <h2 class="related-post__title">Factfile</h2>
-          <p><strong>Developed by:</strong> Nintendo EAD</p>
-          <p><strong>Published by:</strong> Nintendo</p>
-          <p><strong>Released:</strong></p>
-          <ul>
-            <li>Japan: 21 November 1998</li>
-            <li>North America: 23 November 1998</li>
-            <li>Europe: 11 December 1998</li>
-          </ul>
-          <p><strong>Genre:</strong> Action Adventure</p>
-          <p><strong>Players:</strong>
-            
-              1
-            
-          </p>
-          <p><strong>Cartridge size:</strong> 32</p>
-          <p><strong>Controller Pak:</strong> No</p>
-          <p><strong>Rumble Pak:</strong> Yes</p>
-          <p><strong>Expansion Pak:</strong> No</p>
-        </article>
-
-
-
-
-
-
-
-        <article class="related-post">
-          <h2 class="related-post__title">Related posts</h2>
-          <ul class="related-post__list">
-          
-          
-          
-            
-            <li>
-              <a href="/article/2016/06/19/zeldapost1.html">Title of the post</a> by Martin Watts
-            </li>
-            
-          
-            
-          
-          
-          </ul>
-        </article>
-
+    <hr>
+    <h3>Related posts</h3>
+    
+    
+    
+      
+      <article class="related-post">
+        <a class="related-post" href="/article/2016/06/19/zeldapost1.html">Title of the post</a>
+        <p class="date">June 19, 2016</p>
+      </article>
+      
+    
+      
+    
+    
   </div>
-</main>
+  <div class="post-content__meta">
+    <img class="game-info__boxart" src="https://upload.wikimedia.org/wikipedia/en/8/8e/The_Legend_of_Zelda_Ocarina_of_Time_box_art.png" alt="" />
+    <section class="game-info">
+      <dl>
+        
+        <dt>Developer</dt>
+        
+        
+        <dd>Nintendo EAD</dd>
+        
 
+        
+        <dt>Publisher</dt>
+        
+        
+        <dd>Nintendo</dd>
+        
+
+        <dt>Released</dt>
+        <dd>21 November 1998</dd>
+        <dd>23 November 1998</dd>
+        <dd>11 December 1998</dd>
+
+        <dt>Genre</dt>
+        
+        <dd>Action Adventure</dd>
+        
+
+        <dt>Players</dt>
+        
+        <dd>1 player</dd>
+        
+      </dl>
+    </section>
+  </div>
+</section>
+
+      </section>
+    </div>
 
   </body>
 

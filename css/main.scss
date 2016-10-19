@@ -12,14 +12,12 @@
 @import "helpers/bourbon/bourbon";
 @import "helpers/neat/neat";
 
-//Import base styles
-@import "base/base";
+// Import base styles
+@import "base/typography";
 
-// Components
+// Import components
 @import "components/logo";
-@import "components/header";
-@import "components/cover-story";
-@import "components/main";
+@import "components/layout";
 @import "components/nav";
-@import "components/post";
+@import "components/posts";
 @import "components/games";

@@ -1,6 +1,6 @@
 ---
 layout: game
-title: "Super Mario 64"
+title: "The Legend of Zelda: Majora's Mask"
 meta-name: ""
 meta-description: ""
 meta-keyword: ["1","2"]
@@ -18,7 +18,7 @@ rumble: "no"
 expansion: "no"
 transfer: "no"
 tags: [mario]
-boxart: "https://gamefiles.alphacoders.com/boxart/original/front/216-1.jpg"
+boxart: "https://www.loveroms.com/assets/data/nintendo-64/legend-of-zelda-the-majoras-mask-nintendo-64.jpg"
 aka:
 ---
 

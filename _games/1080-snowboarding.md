@@ -18,7 +18,7 @@ rumble: "no"
 expansion: "no"
 transfer: "no"
 tags: [mario]
-boxart: "https://gamefiles.alphacoders.com/boxart/original/front/216-1.jpg"
+boxart: "https://upload.wikimedia.org/wikipedia/en/0/04/1080snowboardingbox.jpg"
 aka:
 ---
 

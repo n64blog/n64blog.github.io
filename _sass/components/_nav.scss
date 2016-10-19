@@ -1,25 +1,28 @@
 .site-nav {
-  margin: 0 0 ($base-spacing * 3) 0;
-  padding: 0;
-  @include clearfix;
-  border-bottom: 2px solid $color-gamma;
-}
-
-.site-nav li {
-  display: inline-block;
-  float: left;
-  font-weight: 800;
-  font-family: $heading-font-family;
-  font-size: 0.825em;
-  text-transform: uppercase;
-}
-
-.site-nav li a {
-  padding: $base-spacing / 4 $base-spacing / 2;
-  color: $color-gamma;
-  display: block;
-  &:hover {
-    background: $color-gamma;
-    color: $white;
+  font-family: $heading-font;
+  font-size: 1em;
+  font-weight: 600;
+  list-style-type: none;
+  padding: 10px 0 0 0;
+  margin: 0 $base-spacing 0 90px;
+  & li {
+    display: inline-block;
+    margin-right: 10px;
   }
+  @include media-above('medium') {
+    padding: 0;
+    float: right;
+    margin: 90px $base-spacing 0 0;
+    & li {
+      text-align: right;
+      display: block;
+      margin-right: 0px;
+      & a {
+        color: $color-delta;
+        &:hover {
+          color: darken($color-delta, 20);
+        }
+      }
+    }
+  };
 }

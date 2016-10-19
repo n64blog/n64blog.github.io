@@ -5,7 +5,8 @@ body {
 
 .site-header {
   width: 100%;
-  box-shadow: inset 0px 1700px 400px -150px rgba(0,0,0,0.6);
+  background-color: $black;
+  //box-shadow: inset 0px 1700px 400px -150px rgba(0,0,0,0.6);
   background-size: cover;
   @include media(720px) {
     box-sizing: border-box;
@@ -15,4 +16,8 @@ body {
     position: fixed;
     overflow: scroll;
   }
+}
+
+.site-header--game {
+  background-position: center;
 }

@@ -5,8 +5,22 @@
 
   <body>
 
-    {% include header.html %}
-    {% include main.html %}
+    <header class="site-header">
+      <section class="site-header__container">
+        <div class="logo-container">
+          <a href="{{ site.baseurl }}/" id="logo">
+            {% include logo.svg %}
+          </a>
+        </div>
+        {% include nav.html %}
+      </section>
+    </header>
+
+    <div class="site-body">
+      <section class="site-body__container">
+        {{ content }}
+      </section>
+    </div>
 
   </body>
 

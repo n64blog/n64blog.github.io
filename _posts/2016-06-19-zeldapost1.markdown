@@ -6,7 +6,7 @@ date:   2016-06-19 00:12:45 +0100
 category: article
 tags: [zelda-oot, mario]
 author: Martin Watts
-hero: "http://pre07.deviantart.net/f377/th/pre/i/2014/275/9/0/smash_bros__new_warriors_aproaching___by_miitoons-d8031et.jpg"
+img: "http://vignette1.wikia.nocookie.net/zelda/images/3/35/Skull_Kid_(Hyrule_Warriors).png"
 ---
 
 ### Heading

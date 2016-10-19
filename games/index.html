@@ -2,8 +2,13 @@
 layout: default
 ---
 
-<h2>Games listings</h2>
-{% for game in site.games %}
-<h3><a href="{{ game.url }}">{{ game.title }}</a></h3>
-<p>{{ game.genre }}</p>
-{% endfor %}
+<div class="games-container">
+  <h1 class="games-title">Games</h1>
+  {% for game in site.games %}
+  <article class="games-card">
+    <a href="{{ game.url }}">
+      <div style="background-image:url('{{ game.boxart }}')" class="games-card__boxart"></div>
+    </a>
+  </article>
+  {% endfor %}
+</div>

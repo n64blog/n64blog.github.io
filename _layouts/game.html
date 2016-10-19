@@ -1,13 +1,64 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
 
-  {% include head.html %}
+<section class="post-content">
+  <div class="post-content__body">
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+    <hr>
+    <h3>Related posts</h3>
+    {% for tags in page.tags %}
+    {% assign t = tags %}
+    {% for post in site.posts %}
+      {% if post.tags contains t %}
+      <article class="related-post">
+        <a class="related-post" href="{{ post.url }}">{{ post.title }}</a>
+        <p class="date">{{ post.date | date: "%B %-d, %Y"  }}</p>
+      </article>
+      {% endif %}
+    {% endfor %}
+    {% endfor %}
+  </div>
+  <div class="post-content__meta">
+    <img class="game-info__boxart" src="{{ page.boxart }}" alt="" />
+    <section class="game-info">
+      <dl>
+        {% if page.developer.size == 1 %}
+        <dt>Developer</dt>
+        {% else %}
+        <dt>Developers</dt>
+        {% endif %}
+        {% for devs in page.developer %}
+        <dd>{{ devs }}</dd>
+        {% endfor %}
 
-  <body>
+        {% if page.publisher.size == 1 %}
+        <dt>Publisher</dt>
+        {% else %}
+        <dt>Publishers</dt>
+        {% endif %}
+        {% for publisher in page.publisher %}
+        <dd>{{ publisher }}</dd>
+        {% endfor %}
 
-    {% include game/header--game.html %}
-    {% include game/main--game.html %}
+        <dt>Released</dt>
+        <dd>{{ page.release-jpn | date: "%-d %B %Y"}}</dd>
+        <dd>{{ page.release-na | date: "%-d %B %Y"}}</dd>
+        <dd>{{ page.release-eu | date: "%-d %B %Y"}}</dd>
 
-  </body>
+        <dt>Genre</dt>
+        {% for genre in page.genre %}
+        <dd>{{ genre }}</dd>
+        {% endfor %}
 
-</html>
+        <dt>Players</dt>
+        {% if page.maxplayers == 1 %}
+        <dd>1 player</dd>
+        {% else %}
+        <dd>{{ page.minplayers }} &ndash; {{ page.maxplayers }} players</dd>
+        {% endif %}
+      </dl>
+    </section>
+  </div>
+</section>

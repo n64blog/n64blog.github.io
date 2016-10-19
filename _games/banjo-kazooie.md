@@ -18,7 +18,7 @@ rumble: "no"
 expansion: "no"
 transfer: "no"
 tags: [mario]
-boxart: "https://gamefiles.alphacoders.com/boxart/original/front/216-1.jpg"
+boxart: "http://vignette3.wikia.nocookie.net/banjokazooie/images/6/67/Banjo-Kazooie_Boxart_(North_America).png"
 aka:
 ---
 
