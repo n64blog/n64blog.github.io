@@ -5,19 +5,20 @@ meta-name: ""
 meta-description: ""
 meta-keyword: ["1","2"]
 developer: ["Nintendo EAD"]
-publisher: ["Nintendo"]
+publisher: ["Nintendo","Nintendodsfsdg"]
 release-jpn: 1996-6-23
 release-na: 1996-9-29
 release-eu: 1997-3-1
 genre: ["3D platformer"]
 minplayers: 1
-maxplayers: 1
+maxplayers: 2
 cartridge: 8
 controllerpak: yes
 rumble: "no"
 expansion: "no"
 transfer: "no"
 tags: [mario]
+boxart: "https://gamefiles.alphacoders.com/boxart/original/front/216-1.jpg"
 aka:
 ---
 

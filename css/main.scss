@@ -3,13 +3,21 @@
 ---
 @charset "utf-8";
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-// Import vendors
-@import "normalize";
+// Import reset
+@import "helpers/normalize";
 
+// Import helpers
+@import "helpers/variables";
+@import "helpers/mixins";
 @import "helpers/bourbon/bourbon";
 @import "helpers/neat/neat";
-@import "helpers/base/base";
-@import "helpers/mixins";
 
-@import "components/header";
+// Import base styles
+@import "base/typography";
+
+// Import components
+@import "components/logo";
+@import "components/layout";
+@import "components/nav";
+@import "components/posts";
+@import "components/games";

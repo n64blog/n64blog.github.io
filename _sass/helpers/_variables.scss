@@ -1,0 +1,32 @@
+// Typography
+$base-font: 'ff-tisa-web-pro', serif;
+$heading-font: 'proxima-nova', sans-serif;
+
+// Base spacing
+$base-spacing: 1.4em;
+$small-spacing: $base-spacing / 4;
+
+// Colors
+$dark-grey: #52616a;
+$medium-grey: #c9d6de;
+$light-grey: #f0f5f9;
+
+$black: #1e2022;
+$white: #FFFFFF;
+
+$color-alpha: #52AC00;
+$color-beta: #D0021B;
+$color-gamma: #3567B0;
+$color-delta: #F8BF28;
+$color-alpha: #52AC00;
+
+// Font Colors
+$base-font-color: $dark-grey;
+
+// Breakpoints
+$breakpoints: (
+  'small'  : 420px,
+  'medium' : 720px,
+  'large'  : 960px,
+  'xlarge'  : 1440px
+);

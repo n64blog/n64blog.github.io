@@ -1,0 +1,28 @@
+.site-nav {
+  font-family: $heading-font;
+  font-size: 1em;
+  font-weight: 600;
+  list-style-type: none;
+  padding: 10px 0 0 0;
+  margin: 0 $base-spacing 0 90px;
+  & li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  @include media-above('medium') {
+    padding: 0;
+    float: right;
+    margin: 90px $base-spacing 0 0;
+    & li {
+      text-align: right;
+      display: block;
+      margin-right: 0px;
+      & a {
+        color: $color-delta;
+        &:hover {
+          color: darken($color-delta, 20);
+        }
+      }
+    }
+  };
+}

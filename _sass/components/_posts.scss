@@ -1,0 +1,169 @@
+// Post index
+
+.featured {
+  display: block;
+  background-color: $color-beta;
+  background-image: url(../assets/hero.jpg);
+  background-size: cover;
+  margin: ($base-spacing * -1) ($base-spacing * -1) ($base-spacing * 2) ($base-spacing * -1);
+  padding: ($base-spacing * 2) $base-spacing;
+  @include media-above('large') {
+    @include size(100%, 100%);
+    margin: ($base-spacing * -1) 0 ($base-spacing * 2) 0;
+    padding: ($base-spacing * 4) ($base-spacing * 7) ($base-spacing * 4) ($base-spacing * 3);
+  };
+  &__title {
+    color: $white;
+  }
+  &__link {
+    color: $white;
+    font-family: $heading-font;
+    font-weight: 600;
+    &:hover {
+      color: $white;
+      opacity: 0.75;
+    }
+  }
+}
+
+
+.post-list {
+  @include media-above('large') {
+    //padding: 100px 0 0 0;
+  };
+}
+
+.post-list__container {
+  margin: 0 0 ($base-spacing * 2) 0;
+  padding: 0 0 ($base-spacing * 2) 0;
+  border-bottom: 2px solid $medium-grey;
+  position: relative;
+  @include media-above('large') {
+    @include size(100%, 100%);
+    margin: 0 0 ($base-spacing * 2) 0;
+    padding: 0 ($base-spacing * 7) ($base-spacing * 2) ($base-spacing * 3);
+  };
+  & img {
+    max-width: 300px;
+  }
+}
+
+.post-list__heading {
+  color: $color-gamma;
+  @include media-above('large') {
+    padding: 0 0 0 ($base-spacing * 3);
+  };}
+
+.post-list__content {
+  margin: 0 0 ($base-spacing / 2) 0;
+}
+
+.post-list__img {
+  display: block;
+  margin: 0 0 $base-spacing 0;
+}
+
+.post-list__link {
+  color: $color-beta;
+  font-family: $heading-font;
+  font-weight: 600;
+  &:hover {
+    color: darken($color-beta, 10);
+  }
+}
+
+.post-list__meta {
+  font-family: $heading-font;
+  font-size: 0.75em;
+  color: $dark-grey;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  & li {
+    display: inline-block;
+    &::before {
+      content: ' | ';
+      padding: 0 5px;
+    }
+    &:first-child {
+      &::before {
+        content: '';
+        padding: 0;
+      }
+    }
+    & a {
+      color: $dark-grey;
+    }
+  }
+}
+
+
+// Post show
+
+.post-content {
+  @include clearfix;
+  margin: 0 0 ($base-spacing * 2) 0;
+  padding: 0 0 ($base-spacing * 2) 0;
+  position: relative;
+  @include media-above('large') {
+    @include size(100%, 100%);
+    margin: 0 0 ($base-spacing * 2) 0;
+    padding: 0 0 ($base-spacing * 2) ($base-spacing * 3);
+  };
+  & img {
+    max-width: 100%;
+    display: block;
+  }
+}
+
+.post-content__body {
+  float: left;
+  width: 100%;
+  @include media-above('medium'){
+    width: calc(70% - #{$base-spacing});
+    margin-right: $base-spacing;
+  };
+
+}
+
+.post-content__meta {
+  float: left;
+  width: 100%;
+  @include media-above('medium'){
+    width: 30%;
+  };
+}
+
+.related-games {
+  background-color: tint($medium-grey, 50);
+  //background-color: $color-gamma;
+  padding: ($base-spacing) ($base-spacing) ($base-spacing) ($base-spacing);
+  //padding: 0 0 ($base-spacing / 2) 0;
+  &__heading {
+    font-size: 1.25em;
+    color: $color-alpha;
+    //display: inline-block;
+    //background-color: $color-delta;
+    //padding: ($base-spacing / 2) ($base-spacing / 2) 0 ($base-spacing / 2);
+    margin-bottom: ($base-spacing / 2);
+  }
+}
+
+.related-game {
+  margin: 0 0 $base-spacing 0;
+  &__img {
+    width: 100%;
+    display: block;
+    margin: 0 0 ($base-spacing / 4) 0;
+  }
+  &__name {
+    display: inline-block;
+    font-size: 0.75em;
+    font-family: $heading-font;
+    margin: 0;
+    //padding: ($base-spacing / 2) ($base-spacing / 2) 0 ($base-spacing / 2);
+  }
+  &:last-child {
+    margin: 0;
+  }
+}

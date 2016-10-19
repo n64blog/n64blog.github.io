@@ -1,0 +1,52 @@
+body {
+  background-color: $light-grey;
+}
+
+.site-header {
+  position: relative;
+  @include clearfix;
+  width: 100%;
+  background-color: $black;
+  box-sizing: border-box;
+  @include media-above('medium') {
+    width: 25%;
+    float: left;
+    height: 100vh;
+    position: fixed;
+    overflow-y: auto;
+  }
+  @include media-above('xlarge') {
+    width: 25%;
+  };
+}
+
+.site-body {
+  position: relative;
+  @include clearfix;
+  width: 100%;
+  box-sizing: border-box;
+  @include media-above('medium') {
+    width: 75%;
+    float: right;
+  };
+  @include media-above('xlarge') {
+    width: 75%;
+  };
+}
+
+.site-header__container {
+  position: relative;
+  box-sizing: border-box;
+  min-height: 75px;
+  @include media-above('large') {
+  };
+}
+
+.site-body__container {
+  position: relative;
+  padding: $base-spacing;
+  box-sizing: border-box;
+  @include media-above('medium') {
+    max-width:890px;
+  };
+}

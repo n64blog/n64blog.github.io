@@ -1,9 +1,26 @@
 ---
 layout: game
-title: "The Legend of zelda: Ocarina of Time"
-release: 1996
-genre: "Action Adventure"
-tags: [zelda]
+title: "The Legend of Zelda: Ocarina of Time"
+meta-name: ""
+meta-description: ""
+meta-keyword: ["1","2"]
+developer: ["Nintendo EAD"]
+publisher: ["Nintendo"]
+release-jpn: 1998-11-21
+release-na: 1998-11-23
+release-eu: 1998-12-11
+genre: ["Action Adventure"]
+minplayers: 1
+maxplayers: 1
+cartridge: 32
+controllerpak: "no"
+rumble: "yes"
+expansion: "no"
+transfer: "no"
+tags: [zelda-oot]
+aka:
+boxart: "https://upload.wikimedia.org/wikipedia/en/8/8e/The_Legend_of_Zelda_Ocarina_of_Time_box_art.png"
+bg: "http://cdn.thepocketplayers.com/wp-content/uploads/2013/07/Ocarina-3D-Sheik.jpg"
 ---
 
 Brum Broooooom
