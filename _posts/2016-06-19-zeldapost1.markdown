@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Title of the post"
+title: "This is a news post"
 subtitle: "This is where the subtitle goes"
-date:   2016-06-19 00:12:45 +0100
-category: article
+date: 2016-06-19 00:12:45 +0100
+category: news
 tags: [zelda-oot, mario]
 author: Martin Watts
 img: "http://vignette1.wikia.nocookie.net/zelda/images/3/35/Skull_Kid_(Hyrule_Warriors).png"
+featured: false
 ---
 
 ### Heading
