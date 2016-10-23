@@ -2,8 +2,9 @@
 layout: post
 title:  "The Nintendo 64 is now over 20 years old, but the impact that Nintendo's first fully 3D video game console had on the industry is still felt today."
 date:   2016-06-19 00:12:45 +0100
-category: news
+category: article
 tags: [mario]
+featured: true
 ---
 __The Nintendo 64 is now over 20 years old, but the impact that Nintendo's first fully 3D video game console had on the industry is still felt today.__
 

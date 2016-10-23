@@ -418,11 +418,11 @@ a {
     color: #3e8100; }
 
 hr {
-  border-bottom: 1px solid #1e2022;
+  border-bottom: 2px solid #c9d6de;
   border-left: 0;
   border-right: 0;
   border-top: 0;
-  margin: 1.4em 0; }
+  margin: 2.8em 0; }
 
 #logo {
   width: 75px;
@@ -695,6 +695,30 @@ body {
     height: 130px;
     background-size: cover;
     background-position: top right; }
+
+.related-post {
+  margin: 0 0 1.4em 0; }
+
+.related-post__title {
+  font-family: "proxima-nova", sans-serif; }
+
+.related-post__meta {
+  font-family: "proxima-nova", sans-serif;
+  font-size: 0.75em;
+  color: #52616a;
+  list-style-type: none;
+  margin: 0;
+  padding: 0; }
+  .related-post__meta li {
+    display: inline-block; }
+    .related-post__meta li::before {
+      content: ' | ';
+      padding: 0 5px; }
+    .related-post__meta li:first-child::before {
+      content: '';
+      padding: 0; }
+    .related-post__meta li a {
+      color: #52616a; }
 
 .game-info {
   background-color: #D0021B;

@@ -27,16 +27,37 @@
 // Related posts
 
 .related-post {
-
+  margin: 0 0 $base-spacing 0;
 }
 
 .related-post__title {
-
+  font-family: $heading-font;
 }
 
-.related-post__list {
+.related-post__meta {
+  font-family: $heading-font;
+  font-size: 0.75em;
+  color: $dark-grey;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  & li {
+    display: inline-block;
+    &::before {
+      content: ' | ';
+      padding: 0 5px;
+    }
+    &:first-child {
+      &::before {
+        content: '';
+        padding: 0;
+      }
+    }
+    & a {
+      color: $dark-grey;
+    }
+  }
 }
-
 
 // Game meta
 
