@@ -157,11 +157,11 @@
     margin: 0 0 ($base-spacing / 4) 0;
   }
   &__name {
-    display: inline-block;
     font-size: 0.75em;
-    font-family: $heading-font;
-    margin: 0;
-    //padding: ($base-spacing / 2) ($base-spacing / 2) 0 ($base-spacing / 2);
+    color: $color-beta;
+    &:hover {
+      color: shade($color-beta, 25%);
+    }
   }
   &:last-child {
     margin: 0;

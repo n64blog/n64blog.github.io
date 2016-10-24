@@ -9,6 +9,12 @@
     display: inline-block;
     margin-right: 10px;
   }
+  & li a {
+    color: $color-delta;
+    &:hover {
+      color: darken($color-delta, 20);
+    }
+  }
   @include media-above('medium') {
     padding: 0;
     float: right;
@@ -17,12 +23,6 @@
       text-align: right;
       display: block;
       margin-right: 0px;
-      & a {
-        color: $color-delta;
-        &:hover {
-          color: darken($color-delta, 20);
-        }
-      }
     }
   };
 }

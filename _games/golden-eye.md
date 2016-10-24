@@ -1,25 +1,25 @@
 ---
 layout: game
-title: "The Legend of Zelda: Ocarina of Time"
+title: "GoldenEye 007"
 meta-name: ""
 meta-description: ""
 meta-keyword: ["1","2"]
-developer: ["Nintendo EAD"]
+developer: ["Rare"]
 publisher: ["Nintendo"]
-release-jpn: 1998-11-21
-release-na: 1998-11-23
-release-eu: 1998-12-11
+release-jpn: 1997-8-25
+release-na: 1997-8-25
+release-eu: 1997-8-25
 genre: ["Action Adventure"]
 minplayers: 1
-maxplayers: 1
+maxplayers: 4
 cartridge: 32
 controllerpak: "no"
 rumble: "yes"
 expansion: "no"
 transfer: "no"
-tags: [zelda-oot]
+tags: [goldeneye]
 aka:
-boxart: "/assets/boxart/ocarina.jpg"
+boxart: "/assets/boxart/goldeneye.jpg"
 ---
 
 Text about {{ page.title }} goes here

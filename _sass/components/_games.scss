@@ -13,14 +13,23 @@
 }
 
 .games-card {
-  width: 23%;
   float: left;
   margin: 1%;
+  width: 48%;
+  @include media-above('medium') {
+    width: 23%;
+  };
   &__boxart {
+    display: block;
     width: 100%;
-    height: 130px;
-    background-size: cover;
-    background-position: top right;
+    margin: 0 0 ($base-spacing / 4) 0;
+  }
+  &__name {
+    font-size: 0.85em;
+    color: $color-beta;
+    &:hover {
+      color: shade($color-beta, 25%);
+    }
   }
 }
 

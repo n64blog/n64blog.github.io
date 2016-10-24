@@ -403,12 +403,14 @@ h4 {
   font-size: 1.5em; }
 
 h5 {
-  font-size: 1em;
-  text-transform: uppercase; }
+  font-size: 1em; }
 
 p {
   font-size: 1em;
   margin: 0 0 1.4em; }
+
+h1 + p {
+  font-family: "proxima-nova", sans-serif; }
 
 a {
   color: #52AC00;
@@ -423,6 +425,18 @@ hr {
   border-right: 0;
   border-top: 0;
   margin: 2.8em 0; }
+
+blockquote {
+  font-family: "proxima-nova", sans-serif;
+  font-size: 1.5em;
+  font-weight: 600;
+  color: #F8BF28;
+  background-color: #1e2022;
+  padding: 0.93333em 1.4em;
+  margin-left: 0;
+  text-indent: -6px; }
+  blockquote p {
+    margin: 0; }
 
 #logo {
   width: 75px;
@@ -528,6 +542,10 @@ body {
   .site-nav li {
     display: inline-block;
     margin-right: 10px; }
+  .site-nav li a {
+    color: #F8BF28; }
+    .site-nav li a:hover {
+      color: #b48406; }
   @media (min-width: 720px) {
     .site-nav {
       padding: 0;
@@ -536,11 +554,7 @@ body {
       .site-nav li {
         text-align: right;
         display: block;
-        margin-right: 0px; }
-        .site-nav li a {
-          color: #F8BF28; }
-          .site-nav li a:hover {
-            color: #b48406; } }
+        margin-right: 0px; } }
 
 .featured {
   display: block;
@@ -665,10 +679,10 @@ body {
     display: block;
     margin: 0 0 0.35em 0; }
   .related-game__name {
-    display: inline-block;
     font-size: 0.75em;
-    font-family: "proxima-nova", sans-serif;
-    margin: 0; }
+    color: #D0021B; }
+    .related-game__name:hover {
+      color: #9c0214; }
   .related-game:last-child {
     margin: 0; }
 
@@ -687,14 +701,21 @@ body {
       padding-left: 4.2em; } }
 
 .games-card {
-  width: 23%;
   float: left;
-  margin: 1%; }
+  margin: 1%;
+  width: 48%; }
+  @media (min-width: 720px) {
+    .games-card {
+      width: 23%; } }
   .games-card__boxart {
+    display: block;
     width: 100%;
-    height: 130px;
-    background-size: cover;
-    background-position: top right; }
+    margin: 0 0 0.35em 0; }
+  .games-card__name {
+    font-size: 0.85em;
+    color: #D0021B; }
+    .games-card__name:hover {
+      color: #9c0214; }
 
 .related-post {
   margin: 0 0 1.4em 0; }

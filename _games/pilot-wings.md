@@ -1,25 +1,25 @@
 ---
 layout: game
-title: "Wave Race 64"
+title: "Pilot Wings 64"
 meta-name: ""
 meta-description: ""
 meta-keyword: ["1","2"]
-developer: ["Nintendo EAD"]
-publisher: ["Nintendo","Nintendodsfsdg"]
+developer: ["Nintendo, Paradigm Simulation"]
+publisher: ["Nintendo"]
 release-jpn: 1996-6-23
 release-na: 1996-9-29
 release-eu: 1997-3-1
-genre: ["3D platformer"]
+genre: ["Amateur flight simulation"]
 minplayers: 1
-maxplayers: 2
-cartridge: 8
-controllerpak: yes
+maxplayers: 1
+cartridge: 32
+controllerpak: "no"
 rumble: "no"
 expansion: "no"
 transfer: "no"
-tags: [waverace]
-boxart: "http://www.mobygames.com/images/covers/l/78637-wave-race-64-kawasaki-jet-ski-nintendo-64-front-cover.png"
+tags: [pilot-wings]
 aka:
+boxart: "/assets/boxart/pilot-wings.jpg"
 ---
 
 Brum Broooooom
