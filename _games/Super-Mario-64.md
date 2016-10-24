@@ -5,21 +5,21 @@ meta-name: ""
 meta-description: ""
 meta-keyword: ["1","2"]
 developer: ["Nintendo EAD"]
-publisher: ["Nintendo","Nintendodsfsdg"]
+publisher: ["Nintendo"]
 release-jpn: 1996-6-23
 release-na: 1996-9-29
 release-eu: 1997-3-1
-genre: ["3D platformer"]
+genre: ["3D Platformer"]
 minplayers: 1
-maxplayers: 2
-cartridge: 8
-controllerpak: yes
+maxplayers: 1
+cartridge: 32
+controllerpak: "no"
 rumble: "no"
 expansion: "no"
 transfer: "no"
-tags: [mario]
-boxart: "https://gamefiles.alphacoders.com/boxart/original/front/216-1.jpg"
+tags: [mario-64]
 aka:
+boxart: "/assets/boxart/mario-64.jpg"
 ---
 
 Whereas Mario's previous adventures had typically been confined to 2D scrolling environments, Super Mario 64 gave players unbridled freedom to explore 3D game worlds in full 360-degree analog control.

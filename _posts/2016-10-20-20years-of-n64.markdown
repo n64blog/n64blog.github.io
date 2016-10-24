@@ -3,7 +3,7 @@ layout: post
 title:  "The Nintendo 64 is now over 20 years old, but the impact that Nintendo's first fully 3D video game console had on the industry is still felt today."
 date:   2016-06-19 00:12:45 +0100
 category: article
-tags: [mario]
+tags: [mario-64, pilot-wings, zelda-oot, goldeneye]
 featured: true
 ---
 __The Nintendo 64 is now over 20 years old, but the impact that Nintendo's first fully 3D video game console had on the industry is still felt today.__
@@ -19,6 +19,8 @@ The N64 was first announced in 1993 under the codename Project Reality, as part 
 It was incredibly ambitious for the time: Nintendo -- and most of the gaming and computing industries for that matter -- had incredibly limited experience in developing 3D games. Nintendo formed what it called a “Dream Team" of development and publishing partners to create software for the system, including Williams (Midway) and Acclaim. While these were big names in the industry, the omission of heavy hitters such as Konami and Squaresoft was an early sign of the N64’s eventual mixed success.
 
 However, none of this was apparent to the outside world. Nintendo cleverly drip-fed information about the system over the next three years of its development and used bold advertising to keep anticipation high. In fact, when Nintendo announced in 1995 that it was going to delay the release of the N64 until 1996, it negatively impacted the sales of the competing Sony PlayStation and SEGA Saturn over the Christmas period -- primarily because the N64 would cost less and arguably do more in consumers' eyes.
+
+> 'Now more than 20 years after it was released, millions of people around the world are still enjoying the N64 in a variety of ways.'
 
 When the N64 was finally released in Japan on 23 June 1996, it only had three launch games: Super Mario 64, Pilot Wings 64, and the Japanese-exclusive, Saikyō Habu Shōgi. In hindsight, it seems laughably small, but at the time it simply didn't matter because Super Mario 64 was all Nintendo needed.
 

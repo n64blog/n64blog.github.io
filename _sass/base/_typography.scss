@@ -38,12 +38,16 @@ h4 {
 
 h5 {
   font-size: 1em;
-  text-transform: uppercase;
+  //text-transform: uppercase;
 }
 
 p {
   font-size: 1em;
   margin: 0 0 $base-spacing;
+}
+
+h1 + p {
+  font-family: $heading-font;
 }
 
 a {
@@ -64,4 +68,18 @@ hr {
   border-right: 0;
   border-top: 0;
   margin: ($base-spacing * 2) 0;
+}
+
+blockquote {
+  font-family: $heading-font;
+  font-size: 1.5em;
+  font-weight: 600;
+  color: $color-delta;
+  background-color: $black;
+  padding: ($base-spacing / 1.5) ($base-spacing);
+  margin-left: 0;
+  text-indent: -6px;
+  & p {
+    margin: 0;
+  }
 }
