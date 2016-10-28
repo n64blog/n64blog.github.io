@@ -1,7 +1,7 @@
 {% for post in site.posts limit:1 %}
   {% if post.featured == true %}
   <article class="featured">
-    <h2 class="featured__title">{{ post.title }}</h2>
+    <h2 class="featured__title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
     <a class="featured__link" href="{{ post.url }}">Read more</a>
   </article>
   {% endif %}
