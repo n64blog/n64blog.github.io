@@ -123,7 +123,7 @@
   float: left;
   width: 100%;
   @include media-above('medium'){
-    width: calc(70% - #{$base-spacing});
+    width: calc(75% - #{$base-spacing});
     margin-right: $base-spacing;
   };
 
@@ -133,7 +133,7 @@
   float: left;
   width: 100%;
   @include media-above('medium'){
-    width: 30%;
+    width: 25%;
   };
 }
 

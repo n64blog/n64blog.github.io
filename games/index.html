@@ -1,9 +1,10 @@
 ---
 layout: default
+title: 'Games'
 ---
 
 <div class="games-container">
-  <h1 class="games-title">Games</h1>
+  <h1 class="games-title">{{ page.title }}</h1>
   {% for game in site.games %}
   <article class="games-card">
     <a href="{{ game.url }}">
