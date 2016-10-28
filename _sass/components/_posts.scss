@@ -12,8 +12,11 @@
     margin: ($base-spacing * -1) 0 ($base-spacing * 2) 0;
     padding: ($base-spacing * 4) ($base-spacing * 7) ($base-spacing * 4) ($base-spacing * 3);
   };
-  &__title {
+  &__title a {
     color: $white;
+    &:hover {
+      opacity: 0.75;
+    }
   }
   &__link {
     color: $white;
