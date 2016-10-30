@@ -21,8 +21,7 @@ tags: [pilot-wings]
 aka:
 boxart: "/assets/boxart/pilot-wings.jpg"
 ---
-
-**Released alongside Super Mario 64, Pilotwings 64 was always destined to be merely known as the other launch title for the N64.**
+Released alongside Super Mario 64, Pilotwings 64 was always destined to be merely known as the other launch title for the N64.
 
 While it may not have been as revolutionary as Mario's first 3D adventure, Pilotwings 64 nevertheless did a great job of showing off the N64's power and unique features. Developed by Paradigm Simulation, one of Nintendo's Dream Team development partners, it was the only other game ready for the N64’s North American launch in September 1996.
 
