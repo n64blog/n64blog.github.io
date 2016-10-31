@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "The Nintendo 64 is now 20 years old"
-author:  "Martin Watts"
-date:   2016-06-19 00:12:45 +0100
+title: "The Nintendo 64 is now 20 years old"
+meta-title: "The Nintendo 64 is now 20 years old"
+author: "Martin Watts"
+date: 2016-06-19 00:12:45 +0100
 category: article
 tags: [mario-64, pilot-wings, zelda-oot, goldeneye]
 featured: true
