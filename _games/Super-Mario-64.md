@@ -1,9 +1,9 @@
 ---
 layout: game
 title: "Super Mario 64"
-meta-name: ""
-meta-description: ""
-meta-keyword: ["1","2"]
+meta-name: "Super Mario 64"
+meta-description: "Super Mario 64 is a 3D platforming game that was released alongside the Nintendo 64. It is the first Super Mario game to feature full 3D gameplay."
+meta-keyword: ["super mario 64","Nintendo 64, super mario"]
 developer: ["Nintendo EAD"]
 publisher: ["Nintendo"]
 release-jpn: 1996-6-23
