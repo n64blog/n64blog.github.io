@@ -14,6 +14,8 @@ European N64 owners were unfortunately saddled with an unoptimised 50hz version 
 
 N64 games on Wii U have a tendency to output a darker/dimmer image than the original hardware, although they do look a lot sharper. Nintendo UK has released a trailer, which we've included below, so you can see for yourself.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a6G-gYZtlwg" frameborder="0" allowfullscreen></iframe>
+
 The game will cost £8.99/€9.99 and will be fully playable off-TV via the Wii U GamePad's screen.
 
-Source: [http://www.nintendolife.com/news/2016/10/nintendo_confirms_that_upcoming_european_release_of_f-zero_x_is_the_60hz_version](http://www.nintendolife.com/news/2016/10/nintendo_confirms_that_upcoming_european_release_of_f-zero_x_is_the_60hz_version "Nintendo Life")
+Source: [Nintendo Life]("http://www.nintendolife.com/news/2016/10/nintendo_confirms_that_upcoming_european_release_of_f-zero_x_is_the_60hz_version")
