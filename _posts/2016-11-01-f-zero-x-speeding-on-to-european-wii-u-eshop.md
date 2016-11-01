@@ -3,7 +3,7 @@ layout: post
 title: "F-Zero X is speeding on to European Wii U eShop this week"
 meta-title: "F-Zero X is speeding on to European Wii U eShop this week"
 author: "Martin Watts"
-date: 2016-11-1 17:00:00 +0100
+date: 2016-11-1 13:00:00 +0100
 category: news
 tags: [f-zero-x]
 featured: false
