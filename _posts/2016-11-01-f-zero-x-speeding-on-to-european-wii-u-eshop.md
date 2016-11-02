@@ -15,7 +15,7 @@ European N64 owners were unfortunately saddled with an unoptimised 50hz version 
 
 N64 games on Wii U have a tendency to output a darker/dimmer image than the original hardware, although they do look a lot sharper. Nintendo UK has released a trailer, which we've included below, so you can see for yourself.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a6G-gYZtlwg" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/a6G-gYZtlwg" frameborder="0" allowfullscreen></iframe>
 
 The game will cost £8.99/€9.99 and will be fully playable off-TV via the Wii U GamePad's screen.
 
