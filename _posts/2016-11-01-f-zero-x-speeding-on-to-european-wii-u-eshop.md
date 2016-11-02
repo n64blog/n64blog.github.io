@@ -7,6 +7,7 @@ date: 2016-11-1 13:00:00 +0100
 category: news
 tags: [f-zero-x]
 featured: false
+img: '/assets/post/f-zero-line-up.png'
 ---
 Nintendo UK has confirmed that F-Zero X will be available to purchase from its Wii U eShop on Thursday 3 November. Better yet, it's the vastly superior NTSC 60hz version.
 
