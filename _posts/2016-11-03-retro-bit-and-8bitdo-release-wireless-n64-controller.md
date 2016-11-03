@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Retro-Bit and 8Bitdo announce wireless N64 controller"
-meta-title: "Retro-Bit and 8Bitdo announce wireless N64 controller"
+title: "Retro-Bit and 8Bitdo release wireless N64 controller"
+meta-title: "Retro-Bit and 8Bitdo release wireless N64 controller"
 author: "Martin Watts"
 date: 2016-11-3 20:00:00 +0100
 category: news
@@ -9,7 +9,7 @@ tags: []
 featured: false
 img: ''
 ---
-It's the first wireless N64 controller in the world, according to 8bitdo's website. Except, it isn't.
+It's the first wireless N64 controller in the world according to 8bitdo's website. Except, it isn't.
 
 It's a confusing statement, given that Retro-Bit already released a wireless N64 controller a few years back called the Wireless Super Retro 64 Controller. And not even that was the first; there were a few models of wireless controllers available during the N64's heyday (although they weren't very good).
 
