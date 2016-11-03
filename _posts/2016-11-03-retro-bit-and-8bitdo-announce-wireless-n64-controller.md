@@ -17,7 +17,7 @@ Not only that, but this new controller doesn't even work with the N64. However, 
 
 ![8bitdo wireless N64 controller](/assets/post/8bitdo-wireless-n64-controller.png)
 
-So what does it (currently) do? Well, it's compatible with MAC OSX, Windows, iOS, Android and the Wii U. So you can use it to play N64 games through an emulator on certain systems and devices.
+So what does it (currently) do? Well, it's compatible with MAC OSX, Windows, iOS, Android and the Wii U. So you can use it to play N64 games through an emulator on certain systems and devices, as well as other games (although you may need to configure it first).
 
 The controller is supposedly designed to look and feel just like Nintendo's official controller. It's not clear from the controller's product page whether it is compatible with N64 memory cards and rumble packs.
 
