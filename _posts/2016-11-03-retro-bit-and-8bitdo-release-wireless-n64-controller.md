@@ -7,7 +7,6 @@ date: 2016-11-3 20:00:00 +0100
 category: news
 tags: []
 featured: false
-img: ''
 ---
 It's the first wireless N64 controller in the world according to 8bitdo's website. Except, it isn't.
 
@@ -23,4 +22,4 @@ The controller is supposedly designed to look and feel just like Nintendo's offi
 
 You can buy the controller from 8bitdo's website for $49.99 (excluding postage and packaging).
 
-Source: [8bitdo]("http://www.8bitdo.com/n64/")
+Source: [8bitdo](http://www.8bitdo.com/n64/)
