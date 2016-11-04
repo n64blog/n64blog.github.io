@@ -19,4 +19,4 @@ N64 games on Wii U have a tendency to output a darker/dimmer image than the orig
 
 The game will cost £8.99/€9.99 and will be fully playable off-TV via the Wii U GamePad's screen.
 
-Source: [Nintendo Life]("http://www.nintendolife.com/news/2016/10/nintendo_confirms_that_upcoming_european_release_of_f-zero_x_is_the_60hz_version")
+Source: [Nintendo Life](http://www.nintendolife.com/news/2016/10/nintendo_confirms_that_upcoming_european_release_of_f-zero_x_is_the_60hz_version)
