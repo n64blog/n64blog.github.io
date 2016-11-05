@@ -7,6 +7,7 @@ date: 2016-11-3 20:00:00 +0100
 category: news
 tags: []
 featured: false
+img: '/assets/post/8bitdo-wireless-n64-gamepad.jpg'
 ---
 It's the first wireless N64 controller in the world according to 8bitdo's website. Except, it isn't.
 
