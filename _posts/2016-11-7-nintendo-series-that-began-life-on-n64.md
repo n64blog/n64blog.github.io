@@ -20,7 +20,7 @@ For a series that is now one of Nintendo’s biggest sellers, Super Smash Bros. 
 
 The series is the brainchild of Masahiro Sakurai, who is also the creator of the Kirby series. Whilst working at HAL Laboratory in the late 1990s, Sakurai came up with an idea for a new type of fighting game and developed a prototype (with the help of the late Satoru Iwata) called Kakuto-Geemu Ryuoh (Dragon King: The Fighting Game). This prototype was conceptually very similar to the final Super Smash Bros. N64 game, but didn’t feature any Nintendo characters.
 
-![Super Smash Bros. 64 intro cinematic](/assets/post/super-smash-bros-64-intro.jpg)
+![Super Smash Bros. 64 intro cinematic](/assets/post/super-smash-bros-64-intro.JPG)
 
 Nintendo hadn’t authorised the creation of the prototype, meaning that Sakurai didn’t have permission insert its characters; a catch-22, as Sakurai felt that including the likes of Mario and Link would get Nintendo to approve it. 
 
