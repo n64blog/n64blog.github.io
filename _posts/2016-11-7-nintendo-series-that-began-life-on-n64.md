@@ -16,6 +16,7 @@ Nintendo’s move into 3D gaming with the N64 was an exciting and somewhat exper
 How did these series come to be and what are they like now? Let’s find out!
 
 ##Super Smash Bros.
+
 For a series that is now one of Nintendo’s biggest sellers, Super Smash Bros. has remarkably humble origins.
 
 The series is the brainchild of Masahiro Sakurai, who is also the creator of the Kirby series. Whilst working at HAL Laboratory in the late 1990s, Sakurai came up with an idea for a new type of fighting game and developed a prototype (with the help of the late Satoru Iwata) called Kakuto-Geemu Ryuoh (Dragon King: The Fighting Game). This prototype was conceptually very similar to the final Super Smash Bros. N64 game, but didn’t feature any Nintendo characters.
@@ -31,6 +32,7 @@ Released in 1999, it sold nearly 2 million copies, impressive given that only 5.
 Since its N64 debut, Super Smash Bros. has been released on every Nintendo home console to date. The latest game in the series is Super Smash Bros. for Wii U, which came out in 2014. The first handheld version, Super Smash Bros. for 3DS, was also released the same year.
 
 ##Mario Party
+
 There have been 15 Mario Party games since the original N64 game came out in 1998. Either Nintendo is obsessed with making Mario Party games no matter the cost, or – more likely – this series is still a big money earner for the company.
 
 Mario Party began as a partnership between Nintendo and Hudson Soft, the development studio that created Bomberman. The concept was ideal for the N64 too: a multiplayer-centric game with mini-games that utilised the N64 controller’s analog joystick in a variety of ways.
@@ -44,6 +46,7 @@ It actually became a controversy in the United States, and Nintendo ended up hav
 Despite this, Mario Party went on to sell over 1 million copies. Nintendo and Hudson Soft developed another two Mario Party games for the N64 (doing away with the joystick-rotating concept in the process). Every Nintendo home console to date has had a Mario Party game released for it, and the series has also been developed for handheld systems. The latest release in the series is Mario Party: Star Rush for the Nintendo 3DS. Around 40 million Mario Party games have been sold to date.
 
 ##Paper Mario
+
 Its working title of Super Mario RPG 2 suggested that Paper Mario was a direct sequel to Square’s Super Mario RPG for the Super Nintendo Entertainment System (SNES). However, Paper Mario was developed by Intelligent Systems, and neither its story nor setting are directly linked to the events of the SNES game.
 
 When the game was released in 2000 (2001 for North America and Europe), it garnered critical acclaim from reviewers, making it the 6th highest rated game on N64 according to review-aggregating website, Metacritic.
@@ -55,6 +58,7 @@ Paper Mario: The Thousand-Year Door, the first sequel to Paper Mario was release
 The latest game to be released in series is Paper Mario: Color Splash, which came out on the Wii U in 2016.
 
 ##Animal Crossing
+
 The first time we got to experience living in a virtual town of anthropomorphised animals was in 2004, when Animal Crossing was released for the GameCube.
 
 But that wasn’t the first Animal Crossing game in the series. Three years earlier, Dōbutsu no Mori (Animal Forest) was released exclusively in Japan for the N64.
