@@ -67,6 +67,6 @@ The game was originally intended for the 64DD, but was moved to the standard N64
 
 ![K.K. Slider in Animal Forest for the N64](/assets/post/animal-forest-kk-slider.jpg)
 
-In terms of gameplay, Animal Forest is very similar to the GameCube version, which was essentially an enhanced port of the original game. The N64 version is notable for not having a number of recurring characters found in the later games, such as Kapp’n, Mayor Tortimer and the Able Sisters.
+In terms of gameplay, Animal Forest is very similar to the GameCube version, which is essentially an enhanced port of the original game. The N64 version is notable for not having a number of recurring characters found in the later games, such as Kapp’n, Mayor Tortimer and the Able Sisters.
 
 Since its original N64 release, the Animal Crossing series has proved very popular with gamers. In particular, the handheld games, Animal Crossing: Wild World and Animal Crossing: New Leaf (the latest game, excluding spin-offs) have both sold more than 10 million copies each.
