@@ -53,13 +53,13 @@ When the game was released in 2000 (2001 for North America and Europe), it garne
 
 ![Paper Mario with Lady Boo](/assets/post/paper-mario-n64.jpg)
 
-Paper Mario: The Thousand-Year Door, the first sequel to Paper Mario was released in 2004, utilises the same gameplay style as the first game. Later games, such as Super Paper Mario and Paper Mario: Sticker Star retain the same visual style, but feature lighter role-playing elements.
+Paper Mario: The Thousand-Year Door, the first sequel to Paper Mario, was released in 2004 and utilises the same gameplay style as the first game. Later games, such as Super Paper Mario and Paper Mario: Sticker Star retain the same visual style, but feature lighter role-playing elements.
 
 The latest game to be released in series is Paper Mario: Color Splash, which came out on the Wii U in 2016.
 
 ## Animal Crossing
 
-The first time we got to experience living in a virtual town of anthropomorphised animals was in 2004, when Animal Crossing was released for the GameCube.
+The first time in the West we got to experience living in a virtual town of anthropomorphised animals was in 2004, when Animal Crossing was released for the GameCube.
 
 But that wasn’t the first Animal Crossing game in the series. Three years earlier, Dōbutsu no Mori (Animal Forest) was released exclusively in Japan for the N64.
 
