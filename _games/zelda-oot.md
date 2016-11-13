@@ -17,7 +17,7 @@ controllerpak: "no"
 rumble: "yes"
 expansion: "no"
 transfer: "no"
-tags: [zelda-oot]
+tags: [legend-of-zelda-ocarina-of-time]
 aka:
 boxart: "/assets/boxart/ocarina.jpg"
 ---
