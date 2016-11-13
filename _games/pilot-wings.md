@@ -17,7 +17,7 @@ controllerpak: "no"
 rumble: "no"
 expansion: "no"
 transfer: "no"
-tags: [pilot-wings]
+tags: [pilotwings-64]
 aka:
 boxart: "/assets/boxart/pilot-wings.jpg"
 ---
