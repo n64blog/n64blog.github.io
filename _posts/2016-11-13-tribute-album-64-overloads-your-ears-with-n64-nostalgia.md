@@ -9,7 +9,7 @@ tags: [cruisn-world, super-mario-64, legend-of-zelda-ocarina-of-time, buck-bumbl
 featured: false
 img: '/assets/post/tribute-album-64-header.jpg'
 ---
-Over 200 musicians from around the world have teamed up to produce an incredible compilation of 87 N64 game covers.
+Over 200 musicians from around the world have teamed up to produce Tribute Album 64, an incredible compilation of 87 N64 game covers.
 
 A wide range of N64 games are represented on the album. You'll find classic tunes from popular titles such as Super Mario 64 and The Legend of Zelda: Ocarina of Time, as well as music from lesser known games such as Buck Bumble and Cruis'n World. It's the ultimate listening experience for any N64 fan!
 
