@@ -17,4 +17,4 @@ Better yet, the album is [completely free to download from Bandcamp](https://tri
 
 ![Tribute Album 64 album cover](/assets/post/tribute-album-64.jpg)
 
-Source: [Tribute Album 64]("https://tributealbum64.bandcamp.com/")
+Source: [Tribute Album 64](https://tributealbum64.bandcamp.com/)
