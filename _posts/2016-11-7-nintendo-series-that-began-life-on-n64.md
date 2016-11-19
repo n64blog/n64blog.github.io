@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-sidebar
 title: "Nintendo series that began life on the N64"
 meta-title: "Nintendo series that began life on the N64"
 meta-description: "Meta Description"
