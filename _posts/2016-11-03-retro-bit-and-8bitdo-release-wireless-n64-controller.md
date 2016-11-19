@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-sidebar
 title: "Retro-Bit and 8Bitdo release wireless N64 controller"
 meta-title: "Retro-Bit and 8Bitdo release wireless N64 controller"
 meta-description: "Meta Description"

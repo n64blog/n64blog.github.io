@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-sidebar
 title: "F-Zero X is speeding on to European Wii U eShop this week"
 meta-title: "F-Zero X is speeding on to European Wii U eShop this week"
 meta-description: "Meta Description"
