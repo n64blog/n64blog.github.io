@@ -2,6 +2,8 @@
 layout: post
 title: "Retro-Bit and 8Bitdo release wireless N64 controller"
 meta-title: "Retro-Bit and 8Bitdo release wireless N64 controller"
+meta-description: "Meta Description"
+meta-keyword: "Keyword 1, Keyword 2"
 author: "Martin Watts"
 date: 2016-11-3 20:00:00 +0100
 category: news

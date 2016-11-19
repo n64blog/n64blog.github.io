@@ -2,6 +2,8 @@
 layout: post
 title: "F-Zero X is speeding on to European Wii U eShop this week"
 meta-title: "F-Zero X is speeding on to European Wii U eShop this week"
+meta-description: "Meta Description"
+meta-keyword: "Keyword 1, Keyword 2"
 author: "Martin Watts"
 date: 2016-11-1 13:00:00 +0100
 category: news

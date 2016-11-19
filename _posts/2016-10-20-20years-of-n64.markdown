@@ -2,6 +2,8 @@
 layout: post
 title: "The Nintendo 64 is now 20 years old"
 meta-title: "The Nintendo 64 is now 20 years old"
+meta-description: "Meta Description"
+meta-keyword: "Keyword 1, Keyword 2"
 author: "Martin Watts"
 date: 2016-06-19 00:12:45 +0100
 category: article

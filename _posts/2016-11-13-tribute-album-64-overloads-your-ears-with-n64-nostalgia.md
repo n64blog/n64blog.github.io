@@ -2,6 +2,8 @@
 layout: post
 title: "Tribute Album 64 overloads your ears with N64 nostalgia"
 meta-title: "Tribute Album 64 overloads your ears with N64 nostalgia"
+meta-description: "Meta Description"
+meta-keyword: "Keyword 1, Keyword 2"
 author: "Martin Watts"
 date: 2016-11-7 11:00:00 +0100
 category: news

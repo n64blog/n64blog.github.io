@@ -2,6 +2,8 @@
 layout: post
 title: "Nintendo series that began life on the N64"
 meta-title: "Nintendo series that began life on the N64"
+meta-description: "Meta Description"
+meta-keyword: "Keyword 1, Keyword 2"
 author: "Martin Watts"
 date: 2016-11-6 16:15:00 +0100
 category: article
@@ -23,7 +25,7 @@ The series is the brainchild of Masahiro Sakurai, who is also the creator of the
 
 ![Super Smash Bros. 64 intro cinematic](/assets/post/super-smash-bros-64-intro.JPG)
 
-Nintendo hadn’t authorised the creation of the prototype, meaning that Sakurai didn’t have permission insert its characters; a catch-22, as Sakurai felt that including the likes of Mario and Link would get Nintendo to approve it. 
+Nintendo hadn’t authorised the creation of the prototype, meaning that Sakurai didn’t have permission insert its characters; a catch-22, as Sakurai felt that including the likes of Mario and Link would get Nintendo to approve it.
 
 He took the decision to include the characters anyway and ask for forgiveness later. It was the right move: he was given a small budget to develop the prototype into a full game for a Japan-only release.
 
