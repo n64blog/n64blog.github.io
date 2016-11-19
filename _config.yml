@@ -8,10 +8,8 @@
 # Site settings
 title: N64 blog
 email: n64blog@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Indulge your nostalgia for the Nintendo 64 by exploring the console's games, hardware and peripherals. Includes latest N64 news.
+keywords: "n64 blog, nintendo 64, n64, n64 games, n64 website"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://n64blog.com" # the base hostname & protocol for your site
 twitter_username: n64blog
