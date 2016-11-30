@@ -46,9 +46,9 @@ layout: default
         {% endfor %}
 
         <dt>Released</dt>
-        <dd>JPN: {{ page.release-jpn | date: "%-d %B %Y"}}</dd>
-        <dd>US: {{ page.release-na | date: "%-d %B %Y"}}</dd>
-        <dd>EU: {{ page.release-eu | date: "%-d %B %Y"}}</dd>
+        <dd>JPN: {{ page.release-jpn | date: "%B %Y"}}</dd>
+        <dd>US: {{ page.release-na | date: "%B %Y"}}</dd>
+        <dd>EU: {{ page.release-eu | date: "%B %Y"}}</dd>
 
         <dt>Genre</dt>
         {% for genre in page.genre %}
