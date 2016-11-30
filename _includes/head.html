@@ -3,7 +3,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.meta-title %}{{ page.meta-title | escape }} | {{ site.title }}{% else %}{{ page.title | escape }} | {{ site.title | escape }}{% endif %}</title>
+  <title>{% if page.meta-title %}{{ page.meta-title | escape }} | {{ site.title }}{% elsif page.title %}{{ page.title | escape }} | {{ site.title | escape }}{% else%}N64 Blog{% endif %}</title>
   <meta name="description" content="{% if page.meta-description %}{{ page.meta-description }}{% else %}{{ site.description }}{% endif %}">
   <meta name="keywords" content="{% if page.meta-keyword %}{{ page.meta-keyword }}{% else %}{{ site.keywords }}{% endif %}">
 
