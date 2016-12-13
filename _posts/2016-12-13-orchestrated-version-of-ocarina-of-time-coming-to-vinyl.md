@@ -5,7 +5,7 @@ meta-title: "An orchestrated version of the Ocarina of Time soundtrack is coming
 author: "Martin Watts"
 date: 2016-12-13 13:00:00 +0100
 category: news
-tags: [the-legend-of-zelda-ocarina-of-time]
+tags: [zelda-oot]
 featured: false
 img: '/assets/post/legend-of-zelda-ocarina-of-time-artwork.jpg'
 ---
