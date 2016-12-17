@@ -18,8 +18,8 @@ rumble: "no"
 expansion: "no"
 transfer: "no"
 tags: [pilotwings-64]
-aka:
-boxart: "/assets/boxart/pilot-wings.jpg"
+aka: ""
+boxart: /assets/boxart/pilotwings-64.jpg
 ---
 Released alongside Super Mario 64, Pilotwings 64 was always destined to be merely known as the other launch title for the N64.
 

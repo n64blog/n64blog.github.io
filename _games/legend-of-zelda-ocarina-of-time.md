@@ -18,8 +18,8 @@ rumble: "yes"
 expansion: "no"
 transfer: "no"
 tags: [legend-of-zelda-ocarina-of-time]
-aka:
-boxart: "/assets/boxart/ocarina.jpg"
+aka: ""
+boxart: /assets/boxart/legend-of-zelda-ocarina-of-time.jpg
 ---
 
 Still widely considered to be one of greatest games of all time, 1998's The Legend of Zelda: Ocarina of Time is one of the most important milestones in video game history.
