@@ -2,21 +2,21 @@
 layout: game
 title: "The Legend of Zelda: Ocarina of Time"
 meta-name: "The Legend of Zelda: Ocarina of Time"
-meta-description: "The Legend of Zelda: Ocarina of Time is a 1998 action-adventure game for the Nintendo 64. It is widely considered to be one of the greatest games of all time."
-meta-keyword: ["ocarina of time","legend of zelda","nintendo 64","n64","link"]
-developer: ["Nintendo EAD"]
-publisher: ["Nintendo"]
+meta-description: "The Legend of Zelda: Ocarina of Time is an action-adventure game for the Nintendo 64 released in 1998. It is widely considered to be one of the greatest video games of all time."
+meta-keyword: "legend of zelda ocarina of time, ocarina of time, zelda n64, nintendo 64"
+developer: Nintendo EAD
+publisher: Nintendo
 release-jpn: 1998-11-21
 release-na: 1998-11-23
 release-eu: 1998-12-11
-genre: ["Action Adventure"]
+genre: Action-adventure
 minplayers: 1
 maxplayers: 1
-cartridge: 32
-controllerpak: "no"
-rumble: "yes"
-expansion: "no"
-transfer: "no"
+cartridge: 256
+controllerpak: no
+rumble: yes
+expansion: no
+transfer: no
 tags: [legend-of-zelda-ocarina-of-time]
 aka: ""
 boxart: /assets/boxart/legend-of-zelda-ocarina-of-time.jpg
