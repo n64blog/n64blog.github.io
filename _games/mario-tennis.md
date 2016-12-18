@@ -22,4 +22,10 @@ aka: ""
 boxart: /assets/boxart/mario-tennis.jpg
 ---
 
-Mario and Co. hit the court for a nice friendly tennis tournament.  Or at least, that was the original intention; it's very clear about a minute into Mario Tennis' cinematic opening that the bitter rivalries of the Mushroom Kingdom are still just as heated as they've always been. And what better way to settle a score than your thrash your arch-nemesis at tennis?  Mario Tennis is another excellent multiplayer game in the N64's library, and it's a surprisingly accurate depiction of the sport, despite having the portly plumber's mark all over it. There's a side mode that features power-ups in a similar vein to Mario Kart 64, but otherwise this game doesn't really stray from the real-life formula of serves, slices and top-spins.  There's an extensive cast of characters for you to choose from, all of which fit into different play style categories such as power, technique and speed. While the single-player mode presents you with the up exciting chore of winning the tennis championship with every single character, it's the multiplayer where this game truly shines.
+Mario and Co. hit the court for a nice friendly tennis tournament.
+
+Or at least, that was the original intention; it's very clear about a minute into Mario Tennis' cinematic opening that the bitter rivalries of the Mushroom Kingdom are still just as heated as they've always been. And what better way to settle a score than your thrash your arch-nemesis at tennis?
+
+Mario Tennis is another excellent multiplayer game in the N64's library, and it's a surprisingly accurate depiction of the sport, despite having the portly plumber's mark all over it. There's a side mode that features power-ups in a similar vein to Mario Kart 64, but otherwise this game doesn't stray from the real-life formula of serves, slices and top-spins.
+
+There's an extensive cast of characters for you to choose from, all of which fit into different play style categories such as power, technique and speed. While the single-player mode presents you with the unexciting chore of winning the tennis championship with every single character, it's the multiplayer where this game truly shines.
