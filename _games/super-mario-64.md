@@ -17,7 +17,7 @@ controllerpak: no
 rumble: no
 expansion: no
 transfer: no
-tags: [mario-64]
+tags: [super-mario-64]
 aka: ""
 boxart: /assets/boxart/mario-64.jpg
 ---
