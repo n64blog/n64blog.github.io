@@ -2,8 +2,8 @@
 layout: post
 title: "Tribute Album 64 overloads your ears with N64 nostalgia"
 meta-title: "Tribute Album 64 overloads your ears with N64 nostalgia"
-meta-description: "Meta Description"
-meta-keyword: "Keyword 1, Keyword 2"
+meta-description: "Check out this incredible compilation of 87 N64 game soundtrack covers. Includes music from The Legend of Zelda: Ocarina of Time and Super Mario 64."
+meta-keyword: "tribute album 64, n64 music covers, n64 soundtrack, n64 music"
 author: "Martin Watts"
 date: 2016-11-7 11:00:00 +0100
 category: news
