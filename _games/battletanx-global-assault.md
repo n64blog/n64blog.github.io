@@ -22,8 +22,8 @@ aka: ""
 boxart: /assets/boxart/battletanx-global-assault.jpg
 ---
 
-Save the world by blowing up parts of it in a wide range of tanks.
+Save the world by blowing it up using a wide range of tanks.
 
-This sequel to 1998's BattleTanx adopts a more global theme and gives you the opportunity to battle it out across North America and Europe, blowing up important landmarks along the way. The game features a campaign mode that be played with up to two players, as well as a number of four-player deathmatch modes.
+This sequel to 1998's BattleTanx adopts a more global theme and gives you the opportunity to battle it out across North America and Europe and destroy important landmarks along the way. The game features a campaign mode that be played with up to two players, as well as a number of four-player deathmatch modes.
 
 The game features highly destructible environments, and you can use this to forge unorthodox paths to the objective in many missions.
