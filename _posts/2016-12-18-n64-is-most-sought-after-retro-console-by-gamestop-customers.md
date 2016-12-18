@@ -2,6 +2,8 @@
 layout: post
 title: "N64 is most sought after retro console by GameStop customers"
 meta-title: "N64 is most sought after retro console by GameStop customers"
+meta-description: "A recent survey carried out by North American gaming retailer GameStop has revealed that the N64 is the most sought after retro console by its customers."
+meta-keyword: "n64 console, nintendo 64, gamestop, retrogaming"
 author: "Martin Watts"
 date: 2016-12-18 21:00:00 +0100
 category: news
