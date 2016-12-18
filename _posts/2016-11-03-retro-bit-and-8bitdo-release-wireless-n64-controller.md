@@ -2,8 +2,8 @@
 layout: post-no-sidebar
 title: "Retro-Bit and 8Bitdo release wireless N64 controller"
 meta-title: "Retro-Bit and 8Bitdo release wireless N64 controller"
-meta-description: "Meta Description"
-meta-keyword: "Keyword 1, Keyword 2"
+meta-description: "It's the first wireless N64 controller in the world according to 8bitdo's website. Except, it isn't."
+meta-keyword: "wireless n64 controller, 8bitdo n64 controller, n64 controller for pc, n64 controller"
 author: "Martin Watts"
 date: 2016-11-3 20:00:00 +0100
 category: news
