@@ -9,7 +9,7 @@ tags: [super-mario-64, legend-of-zelda-ocarina-of-time]
 featured: false
 img: '/assets/post/n64-console-and-controller.jpg'
 ---
-Gaming retailer, GameStop, recently conducted a survey of its loyalty programme members, asking them which retro consoles they’re most interested in. Understandably, Nintendo systems ranked highly, but the one that came out above all the rest in first position -- quite surprisingly -- was the N64.
+Gaming retailer GameStop recently conducted a survey of its loyalty programme members, asking them which retro consoles they’re most interested in. Understandably, Nintendo systems ranked highly, but the one that came out above all the rest in first position -- quite surprisingly -- was the N64.
 
 Since October, GameStop has started to sell and accept trade-ins of retro gaming products at its North American stores. Given the ever-increasing prices of retro games on eBay due to demand and the recent sales success of the Mini NES Classic Edition system, it’s easy to see why GameStop has embraced retro in the way it has.
 
