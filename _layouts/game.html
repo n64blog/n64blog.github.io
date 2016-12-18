@@ -46,10 +46,16 @@ layout: default
         {% endfor %}
 
         <dt>Released</dt>
+        {% if page.release-jpn %}
         <dd>JPN: {{ page.release-jpn | date: "%B %Y"}}</dd>
+        {% endif %}
+        {% if page.release-na  %}
         <dd>US: {{ page.release-na | date: "%B %Y"}}</dd>
+        {% endif %}
+        {% if page.release-eu  %}
         <dd>EU: {{ page.release-eu | date: "%B %Y"}}</dd>
-
+        {% endif %}
+        
         <dt>Genre</dt>
         {% for genre in page.genre %}
         <dd>{{ genre }}</dd>
