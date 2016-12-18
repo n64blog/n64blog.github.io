@@ -2,8 +2,8 @@
 layout: post-no-sidebar
 title: "Nintendo series that began life on the N64"
 meta-title: "Nintendo series that began life on the N64"
-meta-description: "Meta Description"
-meta-keyword: "Keyword 1, Keyword 2"
+meta-description: "The Nintendo 64 introduced us to a lot of popular game series for the very first time. But do you know which games?"
+meta-keyword: "mario tennis n64, mario party 64, super smash bros 64, animal crossing n64"
 author: "Martin Watts"
 date: 2016-11-6 16:15:00 +0100
 category: article
