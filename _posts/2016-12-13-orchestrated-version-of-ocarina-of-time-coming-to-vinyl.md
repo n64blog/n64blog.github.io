@@ -2,6 +2,8 @@
 layout: post
 title: "An orchestrated version of the Ocarina of Time soundtrack is coming to vinyl"
 meta-title: "An orchestrated version of the Ocarina of Time soundtrack is coming to vinyl"
+meta-description: "A new version of Koji Kondo's original score for The Legend of Zelda: Ocarina of Time by the Slovak National Symphony Orchestra will be released on vinyl in 2017."
+meta-keyword: "legend of zelda ocarina of time album, hero of time vinyl lp, slovak national symphony orchestra, iam8bit, materia collective"
 author: "Martin Watts"
 date: 2016-12-13 13:00:00 +0100
 category: news

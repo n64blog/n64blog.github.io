@@ -24,7 +24,7 @@ boxart: /assets/boxart/body-harvest.jpg
 
 2016 may not have been a good year for you depending on your political preferences or because we lost a lot of influential people. But despite everything that has happened, it's far better than the equivalent year in Body Harvest's fictional universe, in which aliens have reduced mankind to the brink of extinction following 100 years of periodic invasions.
 
-The aliens -- who are once again hungry for humans -- have returned. The remaining human survivors, knowing they've no chance of stopping their hunters in their present situation, have developed a time machine that will send genetically enhanced soldiers back in time to alter the course of history in their favour. Unfortunately, only one of those soldiers, Adam Drake (played by you), makes it alive, and it's up to you to single-handedly take on hordes of ravenous bugs.
+The aliens have returned, and they're hungry. The remaining human survivors, knowing they've no chance of stopping their hunters in their present situation, have developed a time machine that will send genetically enhanced soldiers back in time to alter the course of history in their favour. Unfortunately, only one of these soldiers, Adam Drake (played by you), makes it to the time machine alive. Therefore, it's up to you to single-handedly greet the ravenous invaders with deadly firepower at key points in Earth's history.
 
 Developed by DMA Design, the studio that would later become Rockstar North, Body Harvest is clearly a spiritual predecessor to the hugely successful Grand Theft Auto III. The game features numerous open world environments that are early examples of the 3D sandbox design utlised by many modern games.
 

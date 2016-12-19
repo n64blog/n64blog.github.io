@@ -26,6 +26,6 @@ Paradigm Entertainment earned its wings as a video game developer with N64 launc
 
 The game's story focuses on four pilots and their battle against a fictional terrorist organisation. Players can choose from a selection of four aircraft which each have their own specialisms and attributes.
 
-Paradigm's previous experience with developing flight simulation software is apparent, although the controls in this game are understandably simplified for the sake of the gameplay. While the game doesn't stand out for having exceptional gameplay or features, the most noticeable issue is the frame rate that's sluggish even when very little is happening on screen.
+Paradigm's previous experience with developing flight simulation software is apparent, although the controls in this game are understandably simplified for the sake of the gameplay. The game doesn't stand out for having exceptional gameplay or features, but the sluggish frame rate is certainly noticeable, even when very little is happening on screen.
 
 In addition to the single-player campaign, the game has a two-player deathmatch mode.

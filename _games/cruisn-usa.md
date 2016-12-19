@@ -24,6 +24,6 @@ boxart: /assets/boxart/cruisn-usa.jpg
 
 Set off on the great North American road trip and race your way to a podium finish in a number of iconic US locations.
 
-Cruis'n USA is a port of an earlier arcade game, which is part of reason why it wasn't well-received at launch. N64 owners were led to believe that this port would be exactly the same as the arcade experience; it didn't, nor did it really showcase the power of the N64.
+Cruis'n USA is a port of an earlier arcade game, which is part of reason why it wasn't well-received at launch. N64 owners were led to believe that this port would be exactly the same as the arcade experience; it wasn't, nor did it really showcase the power of the N64.
 
-If you can see past its faults and don't mind a racing game that's feels a bit mindless compared to the N64's more accomplished racing game, then Cruis'n USA is certainly worth a try.
+If you can see past its faults and don't mind a racing game that's feels a bit mindless compared to the N64's more accomplished racing games, then Cruis'n USA is certainly worth a try.
