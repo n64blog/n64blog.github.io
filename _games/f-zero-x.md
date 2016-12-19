@@ -26,4 +26,4 @@ Break the sound barrier in this high-speed and technically deep futuristic racin
 
 With F-Zero X, Nintendo sacrified graphical detail to achieve a consistent 60 frames per second, making the game feel incredibly fast.
 
-The single-player mode tasks you with competing in races against 29 other AI-controlled racers. The game can be played with up to 4 people in splitscreen; it maintains a solid frame rate too.
+The single-player mode tasks you with competing in races against 29 AI-controlled racers. The game can be played with up to 4 people in splitscreen, and it manages to maintain a solid frame rate in this mode too.

@@ -3,7 +3,7 @@ layout: game
 title: "Super Mario 64"
 meta-name: "Super Mario 64"
 meta-description: "Super Mario 64 is a 3D platforming game that was released alongside the Nintendo 64. It is the first Super Mario game to feature full 3D gameplay."
-meta-keyword: "super mario 64, Nintendo 64, super mario"
+meta-keyword: "super mario 64, super mario n64, mario n64 game, n64 platforming game"
 developer: Nintendo EAD
 publisher: Nintendo
 release-jpn: 1996-6-23
@@ -17,9 +17,9 @@ controllerpak: no
 rumble: no
 expansion: no
 transfer: no
-tags: [mario-64]
+tags: [super-mario-64]
 aka: ""
-boxart: /assets/boxart/mario-64.jpg
+boxart: /assets/boxart/super-mario-64.jpg
 ---
 
 Whereas Mario's previous adventures had typically been confined to 2D scrolling environments, Super Mario 64 gave players unbridled freedom to explore 3D game worlds in full 360-degree analog control.

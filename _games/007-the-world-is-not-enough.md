@@ -24,7 +24,7 @@ boxart: /assets/boxart/007-the-world-is-not-enough.jpg
 
 EA was quick to acquire the James Bond licence after it saw the immense success Rare had with GoldenEye 007.
 
-The first game the publisher released was based on the film Tomorrow Never Dies, although it was only available for the Sony PlayStation. However, this game was a third-person shooter (as opposed to a first-person shooter like GoldenEye 007), and overall it was poorly received by critics and players at the time.
+The first game EA developed was based on the film Tomorrow Never Dies, which was released exclusively for the Sony PlayStation. As a third-person shooter, it was quite a departure from GoldenEye 007 (and nowhere near as impressive in terms of gameplay and design), resulting in it being unable to live up to critics and players' expectations.
 
 With The World Is Not Enough, EA recruited developer Eurocom to make a game that was similar in design to Rare's hit game. Based on the 19th James Bond film of the same name, the game is a first-person shooter that also tasks players with completing mission objectives.
 
