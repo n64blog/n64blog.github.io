@@ -8,7 +8,7 @@ author: "Martin Watts"
 date: 2016-06-19 00:12:45 +0100
 category: article
 tags: [super-mario-64, pilotwings-64, zelda-oot, goldeneye]
-featured: true
+featured: false
 ---
 The Nintendo 64 is now over 20 years old, but the impact that Nintendo's first fully 3D video game console had on the industry is still felt today.
 
