@@ -16,7 +16,8 @@
   float: left;
   margin: 1%;
   width: 48%;
-  @include media-above('medium') {
+  min-height: 180px;
+  @include media-above('small') {
     width: 23%;
   };
   &__boxart {
