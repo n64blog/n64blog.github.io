@@ -69,8 +69,11 @@ Dash must zip through Tatooine’s Mos Eisley at high speeds while barging enemy
 
 What makes this part of the game so good is that it feels really fast. Dash’s Speeder Bike seems to jump from 0 to 300 mph just by tapping the acceleration button -- which is great until you realise you're racing through a heavily built-up area.
 
-![Skyhook battle from Star Wars: Shadows of the Empire for the N64.](/assets/post/star-wars-shadows-of-the-empire-n64-speeder-bike.jpg)
+![Skyhook battle from Star Wars: Shadows of the Empire for the N64.](/assets/post/star-wars-shadows-of-the-empire-n64-skyhook-battle.jpg)
 
 ### Blowing up a space station
 
 Not to be outdone by Luke Skywalker, Dash Rendar is also fully competent at single-handedly wiping out large space stations. As with all space structures in Star Wars, the Skyhook installation in Shadows of the Empire can only be destroyed by shooting the reactor core inside it, which means some fancy flying is required.
+
+## Want to know more about Shadows of the Empire?
+Check out our [Shadows of the Empire retrospective](/article/2016/12/19/shadows-of-the-empire-a-star-wars-story.html).
