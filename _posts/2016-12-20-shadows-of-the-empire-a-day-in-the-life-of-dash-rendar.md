@@ -75,5 +75,5 @@ What makes this part of the game so good is that it feels really fast. Dash’s 
 
 Not to be outdone by Luke Skywalker, Dash Rendar is also fully competent at single-handedly wiping out large space stations. As with all space structures in Star Wars, the Skyhook installation in Shadows of the Empire can only be destroyed by shooting the reactor core inside it, which means some fancy flying is required.
 
-## Want to know more about Shadows of the Empire?
+### Want to know more about Shadows of the Empire?
 Check out our [Shadows of the Empire retrospective](/article/2016/12/19/shadows-of-the-empire-a-star-wars-story.html).
