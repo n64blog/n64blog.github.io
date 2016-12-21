@@ -41,7 +41,7 @@ Fighting an AT-ST is a fiddly affair, as you really want to shoot its head (and 
 
 ## Shooting TIE Fighters in the asteroid field
 
-Whereas Han, Chewie and Leia used the asteroid belt to hide from the pursuing Imperials in The Empire Strikes Back, Dash Rendar isn’t a wimp, and instead he chooses to shoot his way.
+Whereas Han, Chewie and Leia used the asteroid belt to hide from the pursuing Imperials in The Empire Strikes Back, Dash Rendar isn’t a wimp, and instead he chooses to shoot his way out.
 
 This part of the game feels very reminiscent of the TIE Fighter attack that Luke and Han fend off in A New Hope. Using the Outrider’s trusty blaster cannons, you have to mow down as many TIEs as you can, while also looking out for special red asteroids that contain hidden Challenge Points.
 
