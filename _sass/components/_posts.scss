@@ -125,6 +125,11 @@
     margin-right: $base-spacing;
   };
 
+  & :first-child {
+    font-family: $heading-font;
+    font-weight: bold;
+  }
+
 }
 
 .post-content__meta {
