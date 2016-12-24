@@ -1,0 +1,15 @@
+{
+  "name": "n64-gamepage-automation",
+  "version": "1.0.0",
+  "description": "Parses a strictly formatted tsv file of N64 games to produce Markdown file.",
+  "main": "create-md-files.js",
+  "repository": "https://github.com/guypursey/n64-script",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guy Pursey <guypursey@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "4.0.5"
+  }
+}

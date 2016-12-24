@@ -9,7 +9,7 @@ tags: [star-wars-shadows-of-the-empire]
 featured: true
 img: '/assets/post/star-wars-shadows-of-the-empire-artwork.jpg'
 ---
-_To <s>cash in</s> on celebrate Rogue One: A Star Wars Story’s release in cinemas this month, we’re taking a closer look at two N64 Star Wars games that also tell unique stories set in between the Star Wars films. This week, we’re delving into Star Wars: Shadows of the Empire._
+**To <s>cash in on</s> celebrate Rogue One: A Star Wars Story’s release in cinemas this month, we’re taking a closer look at two N64 Star Wars games that also tell unique stories set in between the Star Wars films. This week, we’re delving into Star Wars: Shadows of the Empire.**
 
 ![Dash Rendar in Star Wars: Shadows of the Empire for the N64.](/assets/post/star-wars-shadows-of-the-empire-n64-dash-rendar.jpg)
 
@@ -31,7 +31,7 @@ The video game, which released for the N64 in 1996 in North America (1997 in Eur
 
 While the game does feature the likes of Luke Skywalker and Princess Leia, you only play as a new minor character called Dash Rendar, who was created specifically for this new story. Overall, the plot follows the same general direction as that of the novel, but takes a few creative liberties because you’re restricted to Dash’s perspective. If you’re only interested in the story, then we suggest you just read the book, as it’s far more detailed.
 
-Shadows of the Empire is primarily a third-person shooter, but just like a Star Wars film it has a bit of everything. There are space battles, a Speeder Bike chase, and you even get to partake in the Battle of Hoth in a Snowspeeder. When Dash isn’t zipping around in a vehicle, he’s on foot, infiltrating Imperial bases and taking on enemies with a trusty blaster pistol -- he even gets to use a jetpack at times! This variety keeps the game interesting, especially as some of the on-foot sections can feel quite lengthy at times.
+Shadows of the Empire is primarily a third-person shooter, but just like a Star Wars film it has a bit of everything. There are space battles, a Speeder Bike chase, and you even get to partake in the Battle of Hoth in a Snowspeeder. When Dash isn’t zipping around in a vehicle, he’s on foot, infiltrating Imperial bases and taking on enemies with a trusty blaster pistol -- he even gets to use a jetpack! This variety keeps the game interesting, especially as some of the on-foot sections can feel quite lengthy at times.
 
 The game also does a great job of delivering a Star Wars experience that feels authentic. While the character and vehicle models have a low poly count, they’re surprisingly detailed for an early N64 game, and vehicles such as the AT-ST move exactly as they do in the films. In terms of the audio, the game features orchestral music from the Shadows of the Empire soundtrack, rather than synthesised music typically found in most N64 games.
 
