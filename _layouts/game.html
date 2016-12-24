@@ -7,20 +7,20 @@ layout: default
     <h1>{{ page.title }}</h1>
     {{ content }}
     <hr>
-    <h3>Related posts</h3>
+    <h3>In this post:</h3>
     {% for tags in page.tags %}
-    {% assign t = tags %}
-    {% for post in site.posts %}
-      {% if post.tags contains t %}
-      <article class="related-post">
-        <h4><a class="related-post__title" href="{{ post.url }}">{{ post.title }}</a></h4>
-        <ul class="related-post__meta">
-          <li>{{ post.category }}</li>
-          <li>{{ post.date | date: '%d %B %Y' }}</li>
-        </ul>
-      </article>
-      {% endif %}
-    {% endfor %}
+      {% assign t = tags %}
+      {% for post in site.posts %}
+        {% if post.tags contains t %}
+          <article class="related-post">
+            <h4><a class="related-post__title" href="{{ post.url }}">{{ post.title }}</a></h4>
+            <ul class="related-post__meta">
+              <li>{{ post.category }}</li>
+              <li>{{ post.date | date: '%d %B %Y' }}</li>
+            </ul>
+          </article>
+        {% endif %}
+      {% endfor %}
     {% endfor %}
   </div>
   <div class="post-content__meta">
