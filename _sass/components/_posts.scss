@@ -125,7 +125,7 @@
     margin-right: $base-spacing;
   };
 
-  & :first-child {
+  & p:first-child {
     font-family: $heading-font;
     font-weight: bold;
   }
