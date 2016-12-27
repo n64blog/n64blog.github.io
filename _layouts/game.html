@@ -6,6 +6,7 @@ layout: default
   <div class="post-content__body">
     <h1>{{ page.title }}</h1>
     {{ content }}
+
     {% comment %}Build related posts array{% endcomment %}
       {% assign related_posts = "" | split:"|" %}
       {% for tags in page.tags %}
@@ -21,6 +22,7 @@ layout: default
     {% if related_posts != empty %}
     <hr>
     <h3>In this post:</h3>
+
     {% for post in related_posts %}
       <article class="related-post">
         <h4><a class="related-post__title" href="{{ post.url }}">{{ post.title }}</a></h4>
@@ -31,6 +33,7 @@ layout: default
       </article>
     {% endfor %}
     {% endif %}
+
   </div>
   <div class="post-content__meta">
     <img class="game-info__boxart" src="{{ page.boxart }}" alt="" />
