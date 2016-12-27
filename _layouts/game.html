@@ -8,15 +8,15 @@ layout: default
     {{ content }}
 
     {% comment %}Build related posts array{% endcomment %}
-    {% assign related_posts = "" | split:"|"  %}
-    {% for tags in page.tags %}
-    {% assign t = tags %}
-    {% for post in site.posts %}
-    {% if post.tags contains t %}
-    {% assign related_posts = related_posts | push: post %}
-    {% endif %}
-    {% endfor %}
-    {% endfor %}
+      {% assign related_posts = "" | split:"|" %}
+      {% for tags in page.tags %}
+        {% assign t = tags %}
+        {% for post in site.posts %}
+          {% if post.tags contains t %}
+            {% assign related_posts = related_posts | push: post %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
     {% comment %}End building related posts array{% endcomment %}
 
     {% if related_posts != empty %}
