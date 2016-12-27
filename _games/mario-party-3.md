@@ -17,7 +17,7 @@ controllerpak: no
 rumble: yes
 expansion: no
 transfer: no
-tags: [mario-party 3]
+tags: [mario-party-3]
 aka: ""
 boxart: /assets/boxart/mario-party-3.jpg
 ---
