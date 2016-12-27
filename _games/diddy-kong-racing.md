@@ -21,7 +21,7 @@ tags: [diddy-kong-racing]
 aka: ""
 boxart: /assets/boxart/diddy-kong-racing.jpg
 ---
-Diddy Kong and his friends are planning to race around the island for a bit of fun -- or, at least, they were until an evil intergalactic pig-wizard turned up to spoil it all.
+Diddy Kong and his friends are planning to hold a racing tournament around the island owned by Timber the Tiger's parents. Or at least they were until an evil intergalactic pig-wizard turned up to spoil it all.
 
 Released just in time for Christmas in 1997, Diddy Kong Racing was a massive success for then Nintendo second-party, Rare.
 
@@ -29,6 +29,6 @@ In true Rare style, Diddy Kong Racing took the kart-racing concept first introdu
 
 Diddy Kong Racing was originally conceived as Pro-Am 64, a spiritual successor of sorts to Rare's earlier R.C. Pro-Am games. As the game's development got closer to its eventual release, Rare took the decision to rebrand the game to star Diddy Kong from the Donkey Kong Country series (a character which Rare had originally created) to increase its sales potential during the Christmas period.
 
-This game marks the first appearance of Banjo (from Banjo-Kazooie, which released the following year) and Conker, who later appeared in Conker's Bad Fur Day (albeit in a more adult form).
+This game marks the first appearance of Banjo (from [**Banjo-Kazooie**](/games/banjo-kazooie.html), which released the following year) and Conker, who later appeared in [**Conker's Bad Fur Day**](/games/conkers-bad-fur-day.html) (albeit in a more adult form).
 
-Roughly 4.5 million copies of Diddy Kong Racing were sold, making it the sixth best-selling N64 game of all time. Following its acquisition by Microsoft in 2002, Rare remade Diddy Kong Racing for the Nintendo DS in 2007. This version added touch-screen controls and an online multiplayer mode, but replaced Banjo and Conker with Dixie and Tiny Kong, as a result of Microsoft now owning the rights to them.
+Roughly 4.5 million copies of Diddy Kong Racing were sold, making it the sixth best-selling N64 game of all time. Following its acquisition by Microsoft in 2002, Rare remade Diddy Kong Racing for the Nintendo DS in 2007. This version added touch-screen controls and an online multiplayer mode, but replaced Banjo and Conker with Dixie and Tiny Kong, as a result of the original characters now belonging to Microsoft.
