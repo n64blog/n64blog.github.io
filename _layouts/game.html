@@ -6,22 +6,31 @@ layout: default
   <div class="post-content__body">
     <h1>{{ page.title }}</h1>
     {{ content }}
+    {% comment %}Build related posts array{% endcomment %}
+      {% assign related_posts = "" | split:"|" %}
+      {% for tags in page.tags %}
+        {% assign t = tags %}
+        {% for post in site.posts %}
+          {% if post.tags contains t %}
+            {% assign related_posts = related_posts | push: post %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    {% comment %}End building related posts array{% endcomment %}
+
+    {% if related_posts != empty %}
     <hr>
     <h3>In this post:</h3>
-    {% for tags in page.tags %}
-      {% assign t = tags %}
-      {% for post in site.posts %}
-        {% if post.tags contains t %}
-          <article class="related-post">
-            <h4><a class="related-post__title" href="{{ post.url }}">{{ post.title }}</a></h4>
-            <ul class="related-post__meta">
-              <li>{{ post.category }}</li>
-              <li>{{ post.date | date: '%d %B %Y' }}</li>
-            </ul>
-          </article>
-        {% endif %}
-      {% endfor %}
+    {% for post in related_posts %}
+      <article class="related-post">
+        <h4><a class="related-post__title" href="{{ post.url }}">{{ post.title }}</a></h4>
+        <ul class="related-post__meta">
+          <li>{{ post.category }}</li>
+          <li>{{ post.date | date: '%d %B %Y' }}</li>
+        </ul>
+      </article>
     {% endfor %}
+    {% endif %}
   </div>
   <div class="post-content__meta">
     <img class="game-info__boxart" src="{{ page.boxart }}" alt="" />
