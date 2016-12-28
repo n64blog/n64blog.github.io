@@ -1,0 +1,32 @@
+.site-footer {
+  @include clearfix;
+  padding: 0 0 ($base-spacing * 2) 0;
+  position: relative;
+  @include media-above('large') {
+    @include size(100%, 100%);
+    padding: 0 0 ($base-spacing * 2) ($base-spacing * 3);
+  };
+}
+
+.site-footer__links {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-family: $heading-font;
+
+  li {
+    display: inline-block;
+    font-size: 0.85em;
+    margin-right: 1em;
+  }
+
+  li a {
+    color: $dark-grey;
+
+    &:hover {
+      color: lighten($dark-grey, 10%);
+    }
+
+  }
+
+}
