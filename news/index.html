@@ -9,18 +9,12 @@ title: 'News'
   </div>
   {% for post in site.categories.news %}
     <article class="post-list__container">
-      <img class="post-list__img" src="{{ post.img }}" alt="" />
+      {% if post.img %}
+        <img class="post-list__img" src="{{ post.img }}" alt="" />
+      {% endif %}
       <h3 class="post-list__title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <p class="post-list__content">{{ post.content | strip_html | truncate:200 }} <a class="post-list__link" href="{{ post.url }}">Read more</a></p>
       <ul class="post-list__meta">
-      {% for tags in post.tags %}
-        {% assign t = tags %}
-        {% for game in site.games %}
-        {% if game.tags contains t %}
-          <li><a href="{{ game.url }}">{{ game.title }}</a></li>
-        {% endif %}
-        {% endfor %}
-        {% endfor %}
         <li>{{ post.category }}</li>
         <li>{{ post.date | date: '%d %B %Y' }}</li>
       </ul>
