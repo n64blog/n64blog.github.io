@@ -8,7 +8,7 @@ title: 'Games'
   {% for game in site.games %}
   <article class="games-card">
     <a href="{{ game.url }}">
-      <img class="games-card__boxart" src="{{ game.boxart }}" alt="" />
+      <img class="games-card__boxart" src="/assets/boxart/small/{{ game.boxart }}" alt="" />
       <h5><a class="games-card__name" href="{{ game.url }}">{{ game.title }}</a></h5>
     </a>
   </article>

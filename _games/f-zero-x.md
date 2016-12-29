@@ -19,7 +19,7 @@ expansion: no
 transfer: no
 tags: [f-zero-x]
 aka: ""
-boxart: /assets/boxart/f-zero-x.jpg
+boxart: f-zero-x.jpg
 ---
 
 Break the sound barrier in this high-speed and technically deep futuristic racing game.

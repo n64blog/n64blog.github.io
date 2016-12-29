@@ -19,7 +19,7 @@ expansion: no
 transfer: no
 tags: [body-harvest]
 aka: ""
-boxart: /assets/boxart/body-harvest.jpg
+boxart: body-harvest.jpg
 ---
 
 2016 may not have been a good year for you depending on your political preferences or because we lost a lot of influential people. But despite everything that has happened, it's far better than the equivalent year in Body Harvest's fictional universe, in which aliens have reduced mankind to the brink of extinction following 100 years of periodic invasions.

@@ -19,7 +19,7 @@ expansion: no
 transfer: no
 tags: [star-wars-shadows-of-the-empire]
 aka: ""
-boxart: /assets/boxart/star-wars-shadows-of-the-empire.jpg
+boxart: star-wars-shadows-of-the-empire.jpg
 ---
 
 Set in between The Empire Strikes Back and Return of the Jedi, Star Wars: Shadows of the Empire follows the exploits of Dash Rendar as he battles the Galactic Empire.

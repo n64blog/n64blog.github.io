@@ -19,8 +19,9 @@ expansion: no
 transfer: no
 tags: [mario-party-3]
 aka: ""
-boxart: /assets/boxart/mario-party-3.jpg
+boxart: mario-party-3.jpg
 ---
+
 Mario and friends return for yet another run round the board in search of stars.
 
 Mario Party 3 was the last game in the series to be released on the N64, and was also the last first-party release for the system.

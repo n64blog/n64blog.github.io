@@ -19,7 +19,7 @@ expansion: no
 transfer: no
 tags: [cruisn-usa]
 aka: ""
-boxart: /assets/boxart/cruisn-usa.jpg
+boxart: cruisn-usa.jpg
 ---
 
 Set off on the great North American road trip and race your way to a podium finish in a number of iconic US locations.

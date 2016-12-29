@@ -19,14 +19,14 @@ expansion: no
 transfer: no
 tags: [conkers-bad-fur-day]
 aka: ""
-boxart: /assets/boxart/conkers-bad-fur-day.jpg
+boxart: conkers-bad-fur-day.jpg
 ---
 
 The N64 earned a reputation from some critics back in the day for its over-reliance on cute 3D platforming games.
 
 So it came as something of a surprise when Rare approached Conker's Bad Fur Day by chucking out the tired kiddy trope and instead producing an adventure stuffed to the brim with vulgarity, foul language and a hefty amount of scatological humour.
 
-Originally known as Conker's Quest (and later temporarily renamed to Twelve Tales: Conker 64), the game underwent a transformation mid-development after early feedback claimed it was unoriginal and too similar to Rare's earlier 3D platforming game Banjo-Kazooie. As a result, the game took on a mature adult theme with the protagonist, Conker the Squirrel, now being a greedy, self-centred binge-drinker.
+Originally known as Conker's Quest (and later temporarily renamed to Twelve Tales: Conker 64), the game underwent a transformation mid-development after early feedback claimed it was unoriginal and too similar to Rare's earlier 3D platforming game [**Banjo-Kazooie**](/games/banjo-kazooie.html). As a result, the game took on a mature adult theme with the protagonist, Conker the Squirrel, now being a greedy, self-centred binge-drinker.
 
 Conker's adventure is anything but heroic too; he's just trying to get home after a heavy night down the local pub. What follows is a hilarious action-platforming quest filled with pop-culture parodies and crude humour.
 

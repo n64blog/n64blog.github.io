@@ -19,7 +19,7 @@ expansion: yes
 transfer: no
 tags: [donkey-kong-64]
 aka: ""
-boxart: /assets/boxart/donkey-kong-64.jpg
+boxart: donkey-kong-64.jpg
 ---
 
 Following the massive success of its Donkey Kong Country series for the Super Nintendo Entertainment System, it only made sense that Rare bring DK and friends to the N64.

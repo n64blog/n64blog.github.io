@@ -19,7 +19,7 @@ expansion: no
 transfer: no
 tags: [battletanx-global-assault]
 aka: ""
-boxart: /assets/boxart/battletanx-global-assault.jpg
+boxart: battletanx-global-assault.jpg
 ---
 
 Save the world by blowing it up using a wide range of tanks.

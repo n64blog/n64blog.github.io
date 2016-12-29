@@ -19,7 +19,7 @@ expansion: no
 transfer: no
 tags: [doom-64]
 aka: ""
-boxart: /assets/boxart/doom-64.jpg
+boxart: doom-64.jpg
 ---
 
 id Software's seminal first-person shooter series made its way to the N64 in 1997 as a spin-off sequel with different features.  Doom 64 is set after the events of Doom and Doom II. Despite the best efforts of the unnamed marine in the first two games, an evil creature has resurrected all the monsters that had previously been killed. Now you have to go through 32 new levels, putting an end to them once and for all. 
