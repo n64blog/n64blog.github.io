@@ -19,7 +19,7 @@ expansion: yes
 transfer: no
 tags: [007-the-world-is-not-enough]
 aka: ""
-boxart: /assets/boxart/007-the-world-is-not-enough.jpg
+boxart: 007-the-world-is-not-enough.jpg
 ---
 
 EA was quick to acquire the James Bond licence after it saw the immense success Rare had with GoldenEye 007.

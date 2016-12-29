@@ -19,8 +19,9 @@ expansion: no
 transfer: no
 tags: [banjo-kazooie]
 aka: ""
-boxart: /assets/boxart/banjo-kazooie.jpg
+boxart: banjo-kazooie.jpg
 ---
+
 Nintendo may have revolutionised the industry with Super Mario 64, but Rare completely outclassed its parent company's effort with its own 3D platformer, Banjo-Kazooie.
 
 Released in 1998, Banjo-Kazooie borrows a lot of the core ideas from Nintendo's first 3D Mario game: exploration, a mission-based structure and a number of worlds all connected through a single, interactive hub.

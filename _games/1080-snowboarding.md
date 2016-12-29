@@ -19,7 +19,7 @@ expansion: no
 transfer: no
 tags: [1080-snowboarding]
 aka: ""
-boxart: /assets/boxart/1080-snowboarding.jpg
+boxart: 1080-snowboarding.jpg
 ---
 
 When it came to developing 1080 Snowboarding, Nintendo approached it in a way similar to its earlier N64 racing game, Wave Race 64.

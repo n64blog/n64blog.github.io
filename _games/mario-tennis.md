@@ -19,7 +19,7 @@ expansion: no
 transfer: no
 tags: [mario-tennis]
 aka: ""
-boxart: /assets/boxart/mario-tennis.jpg
+boxart: mario-tennis.jpg
 ---
 
 Mario and Co. hit the court for a nice friendly tennis tournament.

@@ -2,7 +2,7 @@
 layout: default
 title: "Nintendo 64 games, news, accessories"
 ---
-
+<h1 class="site-title">N64 Blog</h1>
 {% include featured.html %}
 
 <section class="post-list">
@@ -15,7 +15,11 @@ title: "Nintendo 64 games, news, accessories"
       <h3 class="post-list__title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <p class="post-list__content">{{ post.content | strip_html | truncate:200 }} <a class="post-list__link" href="{{ post.url }}">Read more</a></p>
       <ul class="post-list__meta">
+        {% if post.category == 'article' %}
+        <li><a href="/articles">{{ post.category | capitalize }}</a></li>
+        {% else %}
         <li><a href="/{{ post.category }}">{{ post.category | capitalize }}</a></li>
+        {% endif %}
         <li>{{ post.date | date: '%d %B %Y' }}</li>
       </ul>
     </article>

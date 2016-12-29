@@ -2,9 +2,10 @@
 layout: default
 ---
 
+<h1 class="page-title">{{ page.title }}</h1>
+
 <section class="post-content">
   <div class="post-content__body">
-    <h1>{{ page.title }}</h1>
     {{ content }}
 
     {% comment %}Build related posts array{% endcomment %}
@@ -22,6 +23,7 @@ layout: default
     {% if related_posts != empty %}
     <hr>
     <h3>Related posts</h3>
+
     {% for post in related_posts %}
       <article class="related-post">
         <h4><a class="related-post__title" href="{{ post.url }}">{{ post.title }}</a></h4>
@@ -35,7 +37,7 @@ layout: default
 
   </div>
   <div class="post-content__meta">
-    <img class="game-info__boxart" src="{{ page.boxart }}" alt="" />
+    <img class="game-info__boxart" src="/assets/boxart/large/{{ page.boxart }}" alt="" />
     <section class="game-info">
       <dl>
         {% if page.developer.size == 1 %}

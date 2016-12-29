@@ -38,7 +38,6 @@ h4 {
 
 h5 {
   font-size: 1em;
-  //text-transform: uppercase;
 }
 
 p {
@@ -83,4 +82,25 @@ blockquote {
   & p {
     margin: 0;
   }
+}
+
+strong, b {
+  font-weight: bold;
+}
+
+.page-title {
+  color: $color-gamma;
+  margin: 0 0 $base-spacing 0;
+  @include media-above('large') {
+    padding: 0 0 0 ($base-spacing * 3);
+  };
+}
+
+.byline {
+  font-size: 1.25em;
+  font-weight: 100;
+  font-family: $heading-font;
+  @include media-above('large') {
+    padding: 0 0 0 ($base-spacing * 3);
+  };
 }

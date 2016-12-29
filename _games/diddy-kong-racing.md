@@ -2,7 +2,7 @@
 layout: game
 title: "Diddy Kong Racing"
 meta-name: "Diddy Kong Racing"
-meta-description: "Diddy Kong Racing is a kart-racing game developed by Rare for the N64. It was released in November 1997 and is the system's sixth best-selling game."
+meta-description: "Diddy Kong Racing is a kart-racing game developed by Rare for the N64. It was released in November 1997 and is the system&#x27;s sixth best-selling game. "
 meta-keyword: "diddy kong racing, n64, nintendo 64, rare, kart racing"
 developer: Rare
 publisher: Nintendo
@@ -19,8 +19,9 @@ expansion: no
 transfer: no
 tags: [diddy-kong-racing]
 aka: ""
-boxart: /assets/boxart/diddy-kong-racing.jpg
+boxart: diddy-kong-racing.jpg
 ---
+
 Diddy Kong and his friends are planning to hold a racing tournament around the island owned by Timber the Tiger's parents. Or at least they were until an evil intergalactic pig-wizard turned up to spoil it all.
 
 Released just in time for Christmas in 1997, Diddy Kong Racing was a massive success for then Nintendo second-party, Rare.

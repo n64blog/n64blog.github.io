@@ -2,21 +2,22 @@
 layout: default
 ---
 
+<h1 class="page-title">{{ page.title }}</h1>
+<p class="byline">by {{ page.author }}, {{ page.date | date: '%d %B %Y' }}</p>
+
 <section class="post-content">
-  <h1>{{ page.title }}</h1>
-  <p>by {{ page.author }}, {{ page.date | date: '%d %B %Y' }}</p>
   <div class="post-content__body">
     {{ content }}
   </div>
   <div class="post-content__meta">
     <section class="related-games">
-      <h4 class="related-games__heading">Mentioned</h4>
+      <h4 class="related-games__heading">In this post:</h4>
       {% for tags in page.tags %}
       {% assign t = tags %}
       {% for game in site.games %}
       {% if game.tags contains t %}
       <article class="related-game">
-        <a href="{{ game.url }}"><img class="related-game__img" src="{{ game.boxart }}" alt="" /></a>
+        <a href="{{ game.url }}"><img class="related-game__img" src="/assets/boxart/large/{{ game.boxart }}" alt="" /></a>
         <h5><a class="related-game__name" href="{{ game.url }}">{{ game.title }}</a></h5>
       </article>
 
