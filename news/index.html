@@ -3,10 +3,9 @@ layout: default
 title: 'News'
 ---
 
+<h2 class="page-title">{{ page.title }}</h2>
+
 <section class="post-list">
-  <div class="post-list__heading">
-    <h1>{{ page.title }}</h1>
-  </div>
   {% for post in site.categories.news %}
     <article class="post-list__container">
       {% if post.img %}

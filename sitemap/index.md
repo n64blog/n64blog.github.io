@@ -1,8 +1,7 @@
 ---
 layout: page
+title: 'Sitemap'
 ---
-
-# Sitemap
 
 #### [Homepage](/)
 A list of all the latest posts from the blog.

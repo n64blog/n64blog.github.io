@@ -10,10 +10,13 @@
   @include media-above('large') {
     @include size(100%, 100%);
     margin: ($base-spacing * -1) 0 ($base-spacing * 2) 0;
-    padding: ($base-spacing * 5) ($base-spacing * 12) ($base-spacing * 5) ($base-spacing * 3);
+    padding: ($base-spacing * 6) ($base-spacing * 1) ($base-spacing * 6) ($base-spacing * 3);
   };
   &__title a {
     color: $white;
+    @include media-above ('large'){
+      font-size: 3rem;
+    };
     &:hover {
       opacity: 0.75;
     }
@@ -99,9 +102,9 @@
 }
 
 
-// Post show
+// Post and page show
 
-.post-content {
+.post-content, .page-content {
   @include clearfix;
   margin: 0 0 ($base-spacing * 2) 0;
   padding: 0 0 ($base-spacing * 2) 0;
@@ -115,11 +118,6 @@
     max-width: 100%;
     display: block;
   }
-}
-
-.post-content__byline {
-  font-size: 1.25em;
-  font-weight: 100;
 }
 
 .post-content__body {
@@ -147,15 +145,10 @@
 
 .related-games {
   background-color: tint($medium-grey, 50);
-  //background-color: $color-gamma;
   padding: ($base-spacing) ($base-spacing) ($base-spacing) ($base-spacing);
-  //padding: 0 0 ($base-spacing / 2) 0;
   &__heading {
     font-size: 1.25em;
     color: $color-alpha;
-    //display: inline-block;
-    //background-color: $color-delta;
-    //padding: ($base-spacing / 2) ($base-spacing / 2) 0 ($base-spacing / 2);
     margin-bottom: ($base-spacing / 2);
   }
 }

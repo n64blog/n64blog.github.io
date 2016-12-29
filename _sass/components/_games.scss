@@ -7,9 +7,6 @@
 .games-container {
   @include clearfix;
   margin: -1%;
-  @include media-above('medium'){
-    padding-left: ($base-spacing * 3);
-  };
 }
 
 .games-card {
