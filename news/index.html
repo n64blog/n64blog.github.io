@@ -14,7 +14,7 @@ title: 'News'
       <h3 class="post-list__title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <p class="post-list__content">{{ post.content | strip_html | truncate:200 }} <a class="post-list__link" href="{{ post.url }}">Read more</a></p>
       <ul class="post-list__meta">
-        <li>{{ post.category }}</li>
+        <li>{{ post.category | capitalize }}</li>
         <li>{{ post.date | date: '%d %B %Y' }}</li>
       </ul>
     </article>
