@@ -38,7 +38,6 @@ h4 {
 
 h5 {
   font-size: 1em;
-  //text-transform: uppercase;
 }
 
 p {
@@ -83,6 +82,10 @@ blockquote {
   & p {
     margin: 0;
   }
+}
+
+strong, b {
+  font-weight: bold;
 }
 
 .page-title {
