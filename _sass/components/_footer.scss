@@ -1,7 +1,7 @@
 .site-footer {
   @include clearfix;
   display: block;
-  padding: 0 0 ($base-spacing * 2) 0;
+  padding: ($base-spacing * 2) 0 0;
   position: relative;
   @include media-above('large') {
     @include size(100%, auto);

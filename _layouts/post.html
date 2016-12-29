@@ -16,7 +16,7 @@ layout: default
       {% for game in site.games %}
       {% if game.tags contains t %}
       <article class="related-game">
-        <a href="{{ game.url }}"><img class="related-game__img" src="{{ game.boxart }}" alt="" /></a>
+        <a href="{{ game.url }}"><img class="related-game__img" src="/assets/boxart/large/{{ game.boxart }}" alt="" /></a>
         <h5><a class="related-game__name" href="{{ game.url }}">{{ game.title }}</a></h5>
       </article>
 
