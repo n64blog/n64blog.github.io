@@ -1,7 +1,6 @@
-.logo-container {
-  //width: 100%;
-  //display: block;
-  //@include clearfix;
+.logo-container h1 {
+  text-indent: -99999px;
+  position: absolute;
 }
 
 #logo {
@@ -23,14 +22,9 @@
   width: 100%;
 }
 
-#logo:hover .logo__controller {
-  //animation: colorchange 2s infinite;
-}
-
 #logo:hover {
   animation: padding 2s infinite;
 }
-
 
 @keyframes colorchange
 {
