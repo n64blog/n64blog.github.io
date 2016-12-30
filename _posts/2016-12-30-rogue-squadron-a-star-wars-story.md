@@ -7,7 +7,7 @@ meta-keyword: "star wars rogue squadron, rogue squadron n64, n64 star wars games
 author: "Martin Watts"
 date: 2016-12-30 14:55:00 +0100
 category: article
-tags: [star-wars-rogue-squadron, star-wars-shadows-of-the-empire]
+tags: [star-wars-rogue-squadron]
 featured: false
 img: '/assets/post/star-wars-rogue-squadron-n64-artwork.jpg'
 ---
