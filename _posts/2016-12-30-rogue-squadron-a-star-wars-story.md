@@ -15,7 +15,7 @@ img: '/assets/post/star-wars-rogue-squadron-n64-artwork.jpg'
 
 ![X-wings and Y-wings on Gerrard V in Star Wars: Rogue Squadron](/assets/post/star-wars-rogue-squadron-n64-x-wings-and-y-wings.jpg)
 
-Star Wars wouldn’t live up to its name if it weren’t for the grand battles depicted in each of its films. Which Star Wars fan hasn’t watched A New Hope's Death Star trench run scene or the Battle of Hoth from the Empire Strikes Back and thought about how “cool” it would be take part? It’s a weird thing to romanticise when you consider that there’s a high chance that you'd share the same fate as many of the pilots in those films, i.e., dying.
+Star Wars wouldn’t live up to its name if it weren’t for the grand battles depicted in each of its films. What Star Wars fan hasn’t watched A New Hope's Death Star trench run scene or the Battle of Hoth from the Empire Strikes Back and thought about how “cool” it would be take part? It’s a weird thing to romanticise when you consider that there’s a high chance that you'd share the same fate as many of the pilots in those films, i.e., dying.
 
 Thankfully, Star Wars isn’t real and, better yet, we have the luxury of being able to safely experience many of its more dangerous moments through the medium of video games. Star Wars: Rogue Squadron is one of these -- and an excellent example we might add.
 
