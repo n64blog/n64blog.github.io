@@ -21,3 +21,6 @@ markdown: kramdown
 collections:
   games:
     output: true
+
+gems:
+  - jekyll-redirect-from
