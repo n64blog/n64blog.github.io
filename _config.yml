@@ -24,3 +24,4 @@ collections:
 
 gems:
   - jekyll-redirect-from
+  - jekyll-sitemap
