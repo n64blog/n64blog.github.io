@@ -57,4 +57,4 @@ Shadows of the Empire may no longer be part of the official Star Wars canon but 
 - On-foot combat relies on an unreliable auto aim system.
 
 ### Want to experience another Star Wars story on your N64?
-Why not check out Factor 5 and LucasArts' technically impressive flight-combat game, [Star Wars: Rogue Squadron](/article/2016/12/30/rogue-squadron-a-star-wars-story.html)?
+Then check out Factor 5 and LucasArts' technically impressive flight-combat game, [Star Wars: Rogue Squadron](/article/2016/12/30/rogue-squadron-a-star-wars-story.html).
