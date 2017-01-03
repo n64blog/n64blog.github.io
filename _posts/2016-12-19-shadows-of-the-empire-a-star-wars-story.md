@@ -43,10 +43,6 @@ Despite these issues, Shadows of the Empire remains very much playable. And this
 
 Shadows of the Empire may no longer be part of the official Star Wars canon but that shouldn’t stop you from going back and experiencing it. It does a good job of connecting the dots between The Empire Strikes Back and Return of the Jedi. Not only that, but both the visuals and sound are impressive for a first-generation N64 game, and the varied gameplay makes it unlike a lot of other games on the system.
 
-### Want to experience another Star Wars story on your N64?
-
-Why not check out Factor 5 and LucasArts' technically impressive flight-combat game, [Star Wars: Rogue Squadron](/article/2016/12/30/rogue-squadron-a-star-wars-story.html)?
-
 ![IG-88 in Star Wars: Shadows of the Empire for the N64.](/assets/post/star-wars-shadows-of-the-empire-n64-ig88.jpg)
 
 ### What you may like about Star Wars: Shadows of the Empire:
@@ -59,3 +55,7 @@ Why not check out Factor 5 and LucasArts' technically impressive flight-combat g
 - Clunky controls and an awkward camera make on-foot movement imprecise and occasionally frustrating during difficult encounters.
 - It’s a relatively short game.
 - On-foot combat relies on an unreliable auto aim system.
+
+### Want to experience another Star Wars story on your N64?
+
+Why not check out Factor 5 and LucasArts' technically impressive flight-combat game, [Star Wars: Rogue Squadron](/article/2016/12/30/rogue-squadron-a-star-wars-story.html)?
