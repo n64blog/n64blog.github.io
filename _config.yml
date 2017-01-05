@@ -12,7 +12,7 @@ description: Indulge your nostalgia for the Nintendo 64 by exploring the console
 keywords: "n64 blog, nintendo 64, n64, n64 games, n64 website"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://n64blog.com" # the base hostname & protocol for your site
-twitter_username: n64blog
+twitter_username: N64Gamers
 github_username:  n64blog
 
 # Build settings

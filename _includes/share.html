@@ -1,0 +1,20 @@
+<div class="share-links">
+  <h5>Share:</h5>
+  <ul>
+    <li>
+      <a class="share-links__icon share-links__icon--twitter" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">
+        {% include icons/twitter.svg %}
+      </a>
+    </li>
+    <li>
+      <a class="share-links__icon share-links__icon--facebook" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">
+        {% include icons/facebook.svg %}
+      </a>
+    </li>
+    <li>
+      <a class="share-links__icon share-links__icon--reddit" href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}" rel="nofollow" target="_blank" title="Share on Google+">
+        {% include icons/reddit.svg %}
+      </a>
+    </li>
+  </ul>
+</div>

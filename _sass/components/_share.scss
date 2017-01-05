@@ -1,0 +1,64 @@
+.share-links {
+  @include clearfix;
+  margin: 0 0 $base-spacing;
+
+  h5 {
+    font-weight: bold;
+    color: $color-alpha;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  ul li {
+    position: relative;
+    display: inline-block;
+    float: left;
+    margin: 0;
+    padding: 0;
+  }
+
+  &__icon svg {
+    background-color: $medium-grey;
+    box-sizing: border-box;
+    padding: 10px;
+    @include size(40px);
+    fill: $white;
+  }
+
+  &__icon--twitter svg {
+    background-color: #1da1f2;
+  }
+
+  &__icon--twitter:hover svg {
+    background-color: darken(#1da1f2, 10%);
+  }
+
+  &__icon--facebook svg {
+    background-color: #3b5998;
+  }
+
+  &__icon--facebook:hover svg {
+    background-color: darken(#3b5998, 10%);
+  }
+
+  &__icon--reddit svg {
+    background-color: $color-beta;
+  }
+
+  &__icon--reddit:hover svg {
+    background-color: darken($color-beta, 10%);
+  }
+
+}
+
+.icon-label {
+  position: absolute;
+  top: 0;
+  @include size(1px);
+  text-indent: -99999px;
+  overflow: hidden;
+}
