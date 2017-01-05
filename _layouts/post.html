@@ -6,9 +6,13 @@ layout: default
 <p class="byline">by {{ page.author }}, {{ page.date | date: '%d %B %Y' }}</p>
 
 <section class="post-content">
+  {% include share.html %}
   <div class="post-content__body">
     {{ content }}
+    <br>
+    {% include share.html %}
   </div>
+
   <div class="post-content__meta">
     <section class="related-games">
       <h4 class="related-games__heading">In this post:</h4>
