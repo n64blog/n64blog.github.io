@@ -7,7 +7,7 @@ meta-keyword: "n64 new year's resolutions, donkey kong 64 101%, n64 box protecto
 author: "Martin Watts"
 date: 2017-1-8 14:00:00 +0100
 category: article
-tags: [banjo-kazooie, diddy-kong-racing, goldeneye-007, legend-of-zelda-ocarina-of-time, perfect-dark, snowboard kids, space-station-silicon-valley, super-mario-64, wetrix]
+tags: [banjo-kazooie, diddy-kong-racing, donkey-kong-64, goldeneye-007, legend-of-zelda-ocarina-of-time, perfect-dark, snowboard kids, space-station-silicon-valley, super-mario-64, wetrix]
 featured: false
 img: '/assets/post/nintendo-64-controller-in-hands.jpg'
 ---
