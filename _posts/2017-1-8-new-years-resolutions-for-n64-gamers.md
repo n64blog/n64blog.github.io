@@ -55,7 +55,7 @@ Thankfully, there are some excellent products you can buy to extend the life of 
 
 ![Mischief Makers N64 (PAL version) in a box protector.](/assets/post/mischief-makers-pal-box-protector.JPG)
 
-If your collection is unboxed then, there are still things you can do to protect your cartridges (exposing them to the elements can result in the cartridge pins suffering from oxidation). You can buy custom cases with reworked original box art that offer good protection and look great.
+If your collection is unboxed, then there are still things you can do to protect your cartridges (exposing them to the elements can result in the cartridge pins suffering from oxidation). You can buy custom cases with reworked original box art that offer good protection and look great.
 
 Naturally, this comes at a cost, and if you don’t have much cash to spend (especially after the massive expense that Christmas time can be), then why not set aside a drawer or storage box to neatly keep everything in?
 
