@@ -22,7 +22,7 @@ Dual-joystick controllers have long been the standard for playing first-person s
 
 ![Firing an AR34 in Perfect Dark's firing range.](/assets/post/perfect-dark-n64-firing-range.jpg)
 
-Thankfully, Perfect Dark features a fully-equipped shooting range, where you can practise your aim with its many weapons. It’s a great way to once again get used to the combination of the N64 controller’s analogue stick and C-buttons. You could mix things up by switching the controls so that you look/aim with the joystick -- a great way to train yourself for games that don’t use Perfect Dark’s standard control setup.
+Thankfully, Perfect Dark features a fully equipped shooting range, where you can practise your aim with its many weapons. It’s a great way to once again get used to the combination of the N64 controller’s analogue stick and C-buttons. You could mix things up by switching the controls so that you look/aim with the joystick -- a great way to train yourself for games that don’t use Perfect Dark’s standard control setup.
 
 ## 101% Donkey Kong 64
 Fully completing Donkey Kong 64 is a mammoth-sized task that requires a lot of dedication, patience and, above all, backtracking. It’s by far the biggest game on the N64 in terms of the sheer amount of collectibles you have find in order to achieve a perfect 101% completion.
