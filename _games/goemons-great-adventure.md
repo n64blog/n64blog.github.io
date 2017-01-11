@@ -19,7 +19,7 @@ expansion: no
 transfer: no
 tags: [goemons-great-adventure]
 aka: "Mystical Ninja 2 Starring Goemon"
-boxart: /assets/boxart/goemons-great-adventure.jpg
+boxart: goemons-great-adventure.jpg
 ---
 
 Konami’s second Ganbare Goemon game for the Nintendo 64 reverts to the 2D side-scrolling style of older titles in the series.
