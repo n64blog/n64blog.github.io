@@ -13,7 +13,7 @@ img: '/assets/post/nintendo-switch-grey-retail-box.jpg'
 ---
 This week, Nintendo finally unveiled its next video game system, the Nintendo Switch.
 
-In case you didn’t know, this new system is a home console/portable handheld hybrid, meaning you can play your games on the TV at home or take them on the go with you by playing on the system’s built-in screen. It even features two nifty little detachable controllers call Joy-Cons, which can be split between two players for multiplayer.
+In case you didn’t know, this new system is a home-console and portable-handheld hybrid, meaning you can play your games on the TV at home or take them on the go with you by playing on the system’s built-in screen. It even features two nifty little detachable controllers call Joy-Cons, which can be split between two players for multiplayer.
 
 ![Nintendo Switch red and blue system retail box](/assets/post/nintendo-switch-retail-box.jpg)
 
