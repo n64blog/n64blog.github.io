@@ -7,7 +7,7 @@ meta-keyword: "nintendo switch n64 games, nintendo switch n64 remasters, nintend
 author: "Martin Watts"
 date: 2017-1-15 12:00:00 +0100
 category: article
-tags: [1080 snowboarding, f-zero-x, goemons-great-adventure, pilotwings 64, super-mario-64, wave-race-64]
+tags: [1080-snowboarding, f-zero-x, goemons-great-adventure, pilotwings-64, super-mario-64, wave-race-64]
 featured: false
 img: '/assets/post/nintendo-switch-grey-retail-box.jpg'
 ---
