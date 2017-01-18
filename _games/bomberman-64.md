@@ -24,9 +24,7 @@ boxart: bomberman-64.jpg
 
 In his first N64 adventure, Bomberman finally broke free of the grid arena and got to explore the world in full 3D -- a first for the series!
 
-Bomberman's transition to 3D wasn't as masterful as Mario's, but
-
-it worked -- from a single-player perspective at least (although purists will likely disagree). Whereas traditional Bomberman games are all about strategically trapping and blowing up enemies, Bomberman 64 focuses more on exploration, light puzzle-solving and even platforming.
+Bomberman's transition to 3D wasn't as masterful as Mario's, but it worked -- from a single-player perspective at least (although purists will likely disagree). Whereas traditional Bomberman games are all about strategically trapping and blowing up enemies, Bomberman 64 focuses more on exploration, light puzzle-solving and even platforming.
 
 The platforming element is particularly noteworthy because Bomberman can't actually jump in this game. Instead, you have to line up his bombs a bit like stepping stones and bounce across them. Thankfully, this isn't something you have to rely on an awful lot, unless you want to find all of the game's secrets. This is just as well, as it can be a bit tricky for novice players to pull off.
 
