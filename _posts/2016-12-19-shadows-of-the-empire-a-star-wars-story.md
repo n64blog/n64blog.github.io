@@ -6,7 +6,7 @@ author: "Martin Watts"
 date: 2016-12-19 20:00:00 +0100
 category: article
 tags: [star-wars-shadows-of-the-empire]
-featured: true
+featured: false
 img: '/assets/post/star-wars-shadows-of-the-empire-artwork.jpg'
 ---
 **To <s>cash in on</s> celebrate Rogue One: A Star Wars Story’s release in cinemas this month, we’re taking a closer look at two N64 Star Wars games that also tell unique stories set in between the Star Wars films. This week, we’re delving into Star Wars: Shadows of the Empire.**
@@ -23,7 +23,7 @@ Of course, we all now know that Disney bought the rights to Star Wars in 2012 an
 
 Shadows of the Empire is one of these now non-canon stories, but it stands out from the rest because it was the most ambitious and extensive Star Wars multimedia project that Lucasfilm had worked on until that point in time. It’s set in between The Empire Strikes Back and Return of the Jedi, and tells you what the heroes and villains of the film trilogy were doing during this time.
 
-The project’s goal was to tell a new story in as many ways as possible without having to actually make a film. It incorporated almost everything that you would expect to see alongside the release of a blockbuster film: a novel, comics, a soundtrack, toys, a video game and more. 
+The project’s goal was to tell a new story in as many ways as possible without having to actually make a film. It incorporated almost everything that you would expect to see alongside the release of a blockbuster film: a novel, comics, a soundtrack, toys, a video game and more.
 
 The video game, which released for the N64 in 1996 in North America (1997 in Europe and Japan), was a major component of the overall Shadow of the Empire project, and influenced a great deal of its development. In fact, [Jon Knoles, the lead designer and artist on the game, was the one who suggested it take place in between the two films](http://www.gamasutra.com/view/news/114010/Classic_Postmortem_Star_Wars_Shadows_Of_The_Empire.php&sa=D&ust=1482145834599000&usg=AFQjCNGVgIj1eb4LVRCkf_qYbV0tRj7vBA). It was also released on PC a year later, and this version is more or less the same except that it has full-motion video cutscenes (whereas the N64 version only has lightly animated storyboards due to the limited storage capacity of N64 cartridges).
 
