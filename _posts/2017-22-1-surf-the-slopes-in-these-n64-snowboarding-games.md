@@ -12,7 +12,9 @@ featured: true
 img: ''
 ---
 
-The advent of 3D gaming in the mid to late ‘90s opened up a number of new possibilities in game design. In particular, the snowboarding game genre experienced explosive growth, when developers quickly realised how viable it now was thanks to the realistic 3D environments and physics they could create. Snowboarding games were new and fresh, and quickly attracted a lot of attention from gamers.
+The advent of 3D gaming in the mid to late ‘90s opened up a number of new possibilities in game design. Game developers quickly realised how viable snowboarding games now were thanks to the realistic 3D environments and physics they could create. 
+
+As a result, the genre experienced sudden growth, and because it seemed new and fresh, it quickly attracted a lot of attention from gamers.
 
 In total, five snowboarding games were developed for the Nintendo 64. While that may not seem like a lot, they’re all quite different from one another, not to mention that one of them -- 1080 Snowboarding, which was developed by Nintendo itself -- was arguably the best snowboarding game of that generation of game systems.
 
