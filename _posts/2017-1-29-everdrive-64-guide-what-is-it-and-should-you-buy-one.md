@@ -73,11 +73,11 @@ With an EverDrive 64 you can play the system while keeping your collection on di
 
 ### The quality of N64 emulation on PC is still pretty poor ###
 
-The N64 was a complex system, and not all of its games can currently be emulated accurately on a PC. Because the EverDrive 64 enables you to play these games on an original N64, they run just as did back in the day.
+The N64 was a complex system, and not all of its games can currently be emulated accurately on a PC. Because the EverDrive 64 enables you to play these games on an original N64, they run just as they did back in the day.
 
 ## What else can the EverDrive 64 do? ## 
 
-The EverDrive 64 isn’t region-locked, meaning that you can play Japanese (NTSC-J), North American (NTSC) and European/Australian (PAL) games on any system. Over 80 N64 games were only ever released in Japan, so there’s a good chance there are a lot of titles you’ve never played.
+The EverDrive 64 isn’t region-locked, meaning that you can play Japanese (NTSC-J), North American (NTSC) and European/Australian (PAL) ROMs through it on any system. Over 80 N64 games were only ever released in Japan, so there’s a good chance there are a lot of titles you’ve never played.
 
 ![Getter Love! Panda Love Unit intro screen for N64](/assets/post/getter-love-intro.jpg)
 
@@ -109,7 +109,7 @@ The EverDrive 64 does not and cannot (currently, at least) act as a memory card;
 
 ## Should I buy one? ##
 
-We feel that the EverDrive 64 is a way to help futureproof your N64. So long as N64 emulation remains inconsistent in terms of quality and original games continue to attract absurdly high prices, an EverDrive 64 is a great way for you to enjoy N64 games the way they were meant to be, and for reasonable cost too.
+We feel that the EverDrive 64 is a way to help futureproof your N64. So long as N64 emulation remains inconsistent in terms of quality and original games continue to attract absurdly high prices, an EverDrive 64 is a great way for you to enjoy N64 games the way they were meant to be, and for a reasonable price too.
 
 ## And what about you? ##
 
