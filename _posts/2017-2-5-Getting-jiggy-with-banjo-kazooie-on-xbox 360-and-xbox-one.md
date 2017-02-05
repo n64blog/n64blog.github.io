@@ -29,7 +29,7 @@ The Xbox 360 version (which is also playable on Xbox One):
 
 - is displayed in up to 1080p resolution (widescreen) and runs at a locked 30 frames per second
 - features high-resolution textures and improved draw distance
-- includes the previously removed “Stop ‘n’ Swop” feature, which also features in Banjo-Tooie and enables you to unlock features in Banjo-Kazooie: Nuts & Bolts
+- includes the previously removed “Stop ‘n’ Swop” feature, which also features in Banjo-Tooie and enables you to unlock things in Banjo-Kazooie: Nuts & Bolts
 - has online leaderboards where you can compare your progress against your friends
 - removes the requirement to collect each world’s 100 musical notes in a single life or run.
 
@@ -37,7 +37,7 @@ The musical note fix makes the biggest difference to the overall experience. In 
 
 ![Banjo-Kazooie save file screen (Xbox 360)](/assets/post/banjo-kazooie-xbox-360-save-file-screen.png)
 
-Apparently, this was how it was meant to work in the original N64 version, but hardware limitations at the time prevented the development team from implementing a system that could keep track of the current number of notes across multiple worlds. Regardless, this change doesn’t dumbs down the game, and rather it just streamlines it, which is ideal for those of us who have since grown up and taken on a number of life commitments in the process.
+Apparently, this was how it was meant to work in the original N64 version, but hardware limitations at the time prevented the development team from implementing a system that could keep track of the current number of notes across multiple worlds. Regardless, this change doesn’t dumbs down the game, and rather it just streamlines it. It is ideal for those of us who have since grown up and taken on a number of life commitments in the process.
 
 ## Beauty is in the eye of the beholder ##
 
@@ -57,17 +57,16 @@ Putting the visuals and features aside, the real reason you should play Banjo-Ka
 
 Part of it is down to the fact that Banjo-Kazooie doesn’t really guide you on what to do next. It’s about diving into a world, taking a look around and trying things out. Such a formula naturally creates frustration at times -- you’ll miss something or have absolutely no idea what you need to do. But when you do work something out for yourself or overcome a challenging part, you feel a great sense of reward (such as when I was elated to [defeat that bloody Mr Vile at his own mini-game](https://clips.twitch.tv/n64chap/InquisitiveWoodpeckerTheThing)).
 
+## Want to learn more about Banjo-Kazooie for Xbox 360 and Xbox One? ##
+
+Why not check out our stream? [Follow us on Twitch](https://www.twitch.tv/n64chap) to receive a notification when we’re next live. You can also follow us on [Twitter](http://twitter.com/n64gamers), where we’re able to give advance notice of when we’ll be streaming. If you want to see earlier broadcasts, we’ve also got recorded versions up on Twitch and [YouTube](https://www.youtube.com/channel/UCoGRm4SateQRxYjTQrGP3NQ).
+
+![Gruntilda's Lair as seen in Banjo-Kazooie for Xbox 360](/assets/post/banjo-kazooie-xbox-360-gruntilda-lair-vine-climbing.png)
+
+Alternatively, you can try it out for yourself, provided you have an Xbox 360 or Xbox One that is. When it comes to the Xbox One, I recommend buying Rare Replay. That way you also get Banjo-Tooie and Perfect Dark in remastered form, as well as spruced-up ports of Conker’s Bad Fur Day, Blast Corps, Killer Instinct Gold and Jet Force Gemini. It’s not a bad deal given Rare Replay’s relatively low asking price.
 
 ## Held B to skip all this boring dialogue? ##
 
 ![Banjo-Kazooie musical intro sequence (Xbox 360 version)](/assets/post/banjo-kazooie-xbox-360-musical-intro.png)
 
-What I’m saying is nothing short of blasphemy on a blog dedicated to N64, but the remastered version of Banjo-Kazooie for the Xbox 360 and Xbox One is without a doubt the best version of the game. That’s primarily because Rare didn’t tamper too much with the original formula when transferring it across more modern systems; the gameplay is virtually identical, with the exception of the musical note system, which has been streamlined for the better.
-
-## Want to learn more about Banjo-Kazooie for Xbox 360 and Xbox One? ##
-
-Why not check out our stream? [Follow us on Twitch](https://www.twitch.tv/n64chap) to receive a notification when we’re next live. You can also follow us on [Twitter](www.twitter.com/n64gamers), where we’re able to give advance notice of when we’ll be streaming. If you want to see earlier broadcasts, we’ve also got recorded versions up on Twitch and [YouTube](https://www.youtube.com/channel/UCoGRm4SateQRxYjTQrGP3NQ).
-
-![Gruntilda's Lair as seen in Banjo-Kazooie for Xbox 360](/assets/post/banjo-kazooie-xbox-360-gruntilda-lair-vine-climbing.png)
-
-Alternatively, you can try it out for yourself, provided you have an Xbox 360 or Xbox One that is. When it comes to the Xbox One, I recommend buying Rare Replay. That way you also get Banjo-Tooie and Perfect Dark in remastered form, as well as spruced-up ports of Conker’s Bad Fur Day, Blast Corps, Killer Instinct Gold and Jet Force Gemini. It’s not a bad deal given Rare Replay’s relatively low asking price!
+What I’m saying is nothing short of blasphemy on a blog dedicated to N64, but the remastered version of Banjo-Kazooie for the Xbox 360 and Xbox One is without a doubt the best version of the game. That’s primarily because Rare didn’t tamper too much with the original formula when transferring it across to the vastly more powerful Xbox 360; the gameplay is virtually identical, with the exception of the musical note system, which has been streamlined for the better.
