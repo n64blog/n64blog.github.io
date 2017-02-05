@@ -29,7 +29,7 @@ The Xbox 360 version (which is also playable on Xbox One):
 
 - is displayed in up to 1080p resolution (widescreen) and runs at a locked 30 frames per second
 - features high-resolution textures and improved draw distance
-- includes the previously removed “Stop ‘n’ Swop” feature, which also features in Banjo-Tooie and enables you to unlock things in Banjo-Kazooie: Nuts & Bolts
+- includes the previously removed “Stop ‘n’ Swop” feature, which also appears in Banjo-Tooie and enables you to unlock things in Banjo-Kazooie: Nuts & Bolts
 - has online leaderboards where you can compare your progress against your friends
 - removes the requirement to collect each world’s 100 musical notes in a single life or run.
 
