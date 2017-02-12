@@ -81,7 +81,7 @@ It’s always nice to have the chance to go away somewhere with your partner, bu
 
 Goemon’s Great Adventure (Mystical Ninja 2 Starring Goemon to those of us in Europe) is our top choice here; it provides a lighthearted jaunt through a version of Feudal Japan where all Japanese folklore is true and historical accuracy isn't considered. Better yet, it’s a 2D platformer (with 3D visuals) that can be played co-operatively with another person.
 
-Love Impact
+### Love Impact ###
 
 One of Goemon’s Great Adventure’s oddest, yet most entertaining features is its giant robot battles that take place after you beat each region’s castle stage. Taking control of Impact, a giant, semi-autonomous clockwork robot, and his female counterpart, Miss Impact, seems incredibly apt given the occasion.
 
