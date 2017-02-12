@@ -28,6 +28,6 @@ Despite being the first in the series to embrace 3D visuals, pre-rendered sprite
 
 Mario Kart 64 features a number of different game modes. Grand Prix tasks either one or two players with winning four tournaments (across three engine-size categories). The points earned per each of the four races in an individual tournament are added up and used to determine the player(s)' final position.
 
-Otherwise, up to four players can face off against one another on any track in the game's versus mode. Battle mode adopts an arena-style deathmatch setting, in which players must use items to deplete each other's reserve of balloons.
+Otherwise, up to four players can face off against one another on any track in the game's Vs. Mode. Battle Mode adopts an arena-style deathmatch setting, in which players must use items to deplete each other's reserve of balloons.
 
 Mario Kart 64 sold nearly 10 million copies worldwide, making it the second best-selling game on the system. Although the game has never been remade, it has been re-released on Nintendo's Wii and Wii U systems in 2007 and 2016 respectively. Many of the game's tracks have reappeared (typically in an updated form) in later Mario Kart titles. 
