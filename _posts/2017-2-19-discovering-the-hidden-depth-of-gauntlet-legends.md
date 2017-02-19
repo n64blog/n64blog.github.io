@@ -27,7 +27,7 @@ For the uninitiated, Gauntlet Legends is a hack ‘n’ slash game where you and
 
 ![Skorne, the demonlord antagonist of Gauntlet Legends](/assets/images/games/gauntlet-legends/gauntlet-legends-n64-skorne.jpg)
 
-Each map features a wealth of secrets, as well as collectables in the form of food (health), gold and time-limited power-ups. Enemies spawn from “generators”: doorways on the map that will relentlessly pump out vile creatures until you destroy them. Even with four players the game can throw an staggering number of enemies at you.
+Each map features a wealth of secrets, as well as collectables in the form of food (health), gold and time-limited power-ups. Enemies spawn from “generators”: doorways on the map that will relentlessly pump out vile creatures until you destroy them. Even with four players the game can throw a staggering number of enemies at you.
 
 ### An all-star cast ###
 
