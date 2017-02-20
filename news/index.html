@@ -12,7 +12,11 @@ title: 'News'
         <img class="post-list__img" src="{{ post.img }}" alt="" />
       {% endif %}
       <h3 class="post-list__title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <p class="post-list__content">{{ post.content | strip_html | truncate:200 }} <a class="post-list__link" href="{{ post.url }}">Read more</a></p>
+      <p class="post-list__content">
+        {% assign desc = post.content | split: '</p>' %}
+        {{ desc.first | append: '</p>' | strip_html }}
+      </p>
+      <p><a class="post-list__link" href="{{ post.url }}">Read more</a></p>
       <ul class="post-list__meta">
         <li>{{ post.category | capitalize }}</li>
         <li>{{ post.date | date: '%d %B %Y' }}</li>
