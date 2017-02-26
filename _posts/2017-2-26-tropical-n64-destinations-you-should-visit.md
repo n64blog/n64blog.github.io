@@ -25,7 +25,7 @@ Sporting tall cliffs, golden yellow beaches and lush palm trees, Lost Island is 
 
 ![Hydro Thunder (N64 version) - Lost Island](/assets/post/hydro-thunder-n64-lost-island-postcard.png)
 
-Among many of the interesting things for visitors to see are gushing sky-blue waterfalls and small huts where a local tribe probably lives. It’s a shame how many people who come here opt to tour it via speedboat; it’s hard to take in the beautiful scenery when you’re zipping round the island at 80mph.
+Among many of the interesting things for visitors to see are gushing sky-blue waterfalls and small huts where a local tribe probably lives. It’s a shame how many people who come here opt to tour it via speedboat; it’s hard to take in the beautiful scenery when you’re zipping round the island at 150 mph.
 
 ## Perfect Dark – Carrington Villa ##
 
