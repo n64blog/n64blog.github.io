@@ -24,7 +24,7 @@ boxart: turok-dinosaur-hunter.jpg
 
 Acclaim Entertainment’s first game for the N64 was also one of its most significant for a number of reasons.
 
-GoldenEye 007 is widely regarded as the game that proved that the first-person shooter genre could work on home consoles, but really Turok: Dinosaur Hunter did it first. The key difference though is that Rare’s James Bond game revolutionised the whole genre beyond the template set out by Doom -- and had a four-player split-screen mode to boot -- whereas Turok merely evolved it.
+[**GoldenEye 007**](/games/goldeneye-007.html) is widely regarded as the game that proved that the first-person shooter genre could work on home consoles, but really Turok: Dinosaur Hunter did it first. The key difference though is that Rare’s James Bond game revolutionised the whole genre beyond the template set out by Doom -- and had a four-player split-screen mode to boot -- whereas Turok merely evolved it.
 
 The game’s concept arose from Acclaim’s business strategy at the time: develop games and then license related merchandise. The character of Turok actually first appeared in comics in the 1950s, before later being rebooted by Valiant Comics in 1993. Acclaim bought the comic publishing company in 1994 (renaming it Acclaim Comics for the time it owned it), acquiring the rights to Turok in the process.
 
