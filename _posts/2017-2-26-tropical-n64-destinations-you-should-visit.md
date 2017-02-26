@@ -11,11 +11,11 @@ tags: [donkey-kong-64, hydro-thunder, legend-of-zelda-majoras-mask, perfect-dark
 featured: false
 img: '/assets/post/Termina-postcard.png'
 ---
-Does it feel like a lifetime ago since you last went on a nice beach holiday? Well, fear not, for summer is almost here again!
+Does it feel like a lifetime ago since you last went on a nice beach holiday? Well, fear not, because your N64 has got you covered!
 
 ![Greetings from Termina postcard](/assets/post/Termina-postcard.png)
 
-But if you just can’t wait then you’ll pleased to know that there’s a way you can visit a number of tropical destinations without having to get off your couch or fork out for an expensive flight. All you need to do is hop on your N64 and whisk yourself off (well, metaphorically at least) to one of the many fantastical lands you can find in many games. 
+You can visit a number of tropical destinations without having to get off your couch or fork out for an expensive flight. All you need to do is hop on your N64 and whisk yourself off (well, metaphorically at least) to one of the many fantastical lands you can find in many games. 
 
 We’ve compiled a list of must-visit virtual locations that’ll have you feeling warm, relaxed and like you’re 1,000 miles away from home. So what are you waiting for?
 
