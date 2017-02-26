@@ -75,7 +75,7 @@ The island is home to a number of different biomes, and it’s certainly not for
 
 If you’re looking for adventure, treasure and a lifetime supply of bananas, then DK Island is most certainly worth the visit.
 
-Wave Race 64 - Southern Island
+## Wave Race 64 - Southern Island ##
 
 Relive the '90s on this jet-ski touring holiday around a delightful little island that’s surrounded by stunning, sky-blue water.
 
@@ -85,4 +85,4 @@ The resort, which is sponsored by Kawasaki Heavy Industries, is home to the year
 
 ## What's your favourite tropical destination in an N64 game? ##
 
-Let us know on [Twitter](www.twitter.com/n64gamers)!
+Let us know on [Twitter](http://www.twitter.com/n64gamers)!
