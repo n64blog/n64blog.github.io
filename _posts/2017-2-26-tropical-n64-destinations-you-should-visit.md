@@ -61,7 +61,7 @@ The real draw here is Holiday Island’s idyllic, golden-sand beach. There are m
 
 Holiday Island even has its own airport, meaning you can fly directly there. Also, once you’ve arrived, you can have a go at flying yourself. Soar through the sunny skies in a gyrocopter, a rocket belt or even the experimental Birdman suit.
 
-![Holiday Island at night - Pilotwings 64](/assets/post/pilotwings-64-holiday-island-night-postcard.png)
+![Holiday Island at night - Pilotwings 64](/assets/post/pilotwings-64-holiday-island-beach.png)
 
 With so much to do, you’ll be having too much fun to have a care in the world. With that said, the Holiday Island Tourist Office recommends you always keep an eye on the skies: the island is renowned for its unusually high number of aviation crashes due to the many reckless pilots who visit.
 
