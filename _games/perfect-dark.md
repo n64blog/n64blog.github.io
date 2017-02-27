@@ -15,7 +15,7 @@ maxplayers: 4
 cartridge: 256
 controllerpak: yes
 rumble: yes
-expansion: yes
+expansion: required
 transfer: no
 tags: [perfect-dark]
 aka: ""
