@@ -15,7 +15,7 @@ maxplayers: 4
 cartridge: 256
 controllerpak: no
 rumble: yes
-expansion: yes
+expansion: required
 transfer: no
 tags: [donkey-kong-64]
 aka: ""

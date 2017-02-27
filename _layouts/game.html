@@ -80,6 +80,35 @@ layout: default
         {% else %}
         <dd>{{ page.minplayers }} &ndash; {{ page.maxplayers }} players</dd>
         {% endif %}
+
+        {% if page.cartridge  %}
+        <dt>Cartridge size</dt>
+        <dd>{{ page.cartridge | divided_by: 8 | append: 'MB' }} <small>({{ page.cartridge }} megabits)</small></dd>
+        {% endif %}
+
+        {% if page.controllerpak == true  %}
+        <dt class="game-info__icon">{% include /icons/memory-pak.svg %}</dt>
+        <dd class="game-info__icon-caption">Controller Pak compatible</dd>
+        {% endif %}
+
+        {% if page.rumble == true  %}
+        <dt class="game-info__icon">{% include /icons/rumble-pak.svg %}</dt>
+        <dd class="game-info__icon-caption">Rumble Pak compatible</dd>
+        {% endif %}
+
+        {% if page.expansion == true  %}
+        <dt class="game-info__icon">{% include /icons/expansion-pak.svg %}</dt>
+        <dd class="game-info__icon-caption">Expansion Pak optional</dd>
+        {% elsif page.expansion == "required"  %}
+        <dt class="game-info__icon">{% include /icons/expansion-pak.svg %}</dt>
+        <dd class="game-info__icon-caption">Expansion Pak required</dd>
+        {% endif %}
+
+        {% if page.transfer == true  %}
+        <dt class="game-info__icon">{% include /icons/transfer-pak.svg %}</dt>
+        <dd class="game-info__icon-caption">Transfer Pak compatible</dd>
+        {% endif %}
+
       </dl>
     </section>
   </div>
