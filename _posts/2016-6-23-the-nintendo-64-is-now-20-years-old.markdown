@@ -5,7 +5,7 @@ meta-title: "The Nintendo 64 is now 20 years old"
 meta-description: "The Nintendo 64 is now 20 years old"
 meta-keyword: "nintendo 64, 20th anniversary, n64 launch date"
 author: "Martin Watts"
-date: 2016-6-23 12:00:00 +0100
+date: 2016-6-23 14:00:00 +0100
 category: article
 tags: [super-mario-64, pilotwings-64, zelda-oot, goldeneye]
 featured: false
