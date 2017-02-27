@@ -7,7 +7,7 @@ meta-keyword: "nintendo 64, 20th anniversary, n64 launch date"
 author: "Martin Watts"
 date: 2016-6-23 14:00:00 +0100
 category: article
-tags: [super-mario-64, pilotwings-64, zelda-oot, goldeneye]
+tags: [goldeneye-007, legend-of-zelda-ocarina-of-time, pilotwings-64, star-wars-rogue-squadron, super-mario-64]
 featured: false
 ---
 The Nintendo 64 is now over 20 years old, but the impact that Nintendo's first fully 3D video game console had on the industry is still felt today.
@@ -26,7 +26,7 @@ However, none of this was apparent to the outside world. Nintendo cleverly drip-
 
 > 'Now more than 20 years after it was released, millions of people around the world are still enjoying the N64 in a variety of ways.'
 
-When the N64 was finally released in Japan on 23 June 1996, it only had three launch games: Super Mario 64, Pilot Wings 64, and the Japanese-exclusive, Saikyō Habu Shōgi. In hindsight, it seems laughably small, but at the time it simply didn't matter because Super Mario 64 was all Nintendo needed.
+When the N64 was finally released in Japan on 23 June 1996, it only had three launch games: Super Mario 64, Pilotwings 64, and the Japanese-exclusive, Saikyō Habu Shōgi. In hindsight, it seems laughably small, but at the time it simply didn't matter because Super Mario 64 was all Nintendo needed.
 
 Super Mario 64 arguably had more of an impact on the games industry than the N64 itself did. It revolutionised the way we play games, providing full 360-degree analogue control for the first time. Mario's transition from 2D to 3D was flawless, and with this one title Nintendo had successfully laid the groundwork for not just its own games, but virtually every 3D video game that has followed since.
 
