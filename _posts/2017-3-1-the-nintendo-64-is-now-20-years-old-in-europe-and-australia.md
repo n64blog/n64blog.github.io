@@ -79,4 +79,4 @@ Share your favourite memories of the N64's release in Europe or Australia with u
 
 ## Want to know more about the history of the N64? ##
 
-We took a closer look at the impact and legacy of Nintendo's first 3D console last year in a post that marked the [20th anniversary of the N64's original release](/article/2016/06/18/20years-of-n64.html).
+We took a closer look at the impact and legacy of Nintendo's first 3D console last year in a post that marked the [20th anniversary of the N64's original release](/article/2016/06/23/the-nintendo-64-is-now-20-years-old.html).
