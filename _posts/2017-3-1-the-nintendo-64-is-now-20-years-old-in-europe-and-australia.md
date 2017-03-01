@@ -41,7 +41,7 @@ This didn't make too much of a difference provided the games were optimised for 
 
 Worryingly, Nintendo was one of the worst offenders in this regard, releasing inferior versions of games like Wave Race 64 and F-Zero X. The company has somewhat rectified this in recent years by releasing the North American NTSC versions for download from its Wii U eShop in Europe.
 
-## The games that Europe got ##
+## The games that the PAL regions got ##
 
 In total, 242 N64 games were officially released in PAL regions, although it's important to note that a couple of these titles, Snowboard Kids 2 and Starcraft 64, were only released in Australia. The PAL regions only got seven games that weren't released in North America, whereas North America got 61 that were never released Europe (59 when compared to Australia due to the above two games).
 
@@ -55,7 +55,7 @@ These titles were:
 - Rakugakids (also released in Japan)
 - Taz Express
 
-## The N64 in Europe today ##
+## The N64 in Europe and Australia today ##
 
 You only have to look at the prices on eBay to see that the N64 remains a popular choice for collectors based in Europe and Australia.
 
