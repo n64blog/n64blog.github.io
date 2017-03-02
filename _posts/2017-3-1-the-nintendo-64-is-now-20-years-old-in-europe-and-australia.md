@@ -35,7 +35,7 @@ The N64 that was released in Europe and Australia is the PAL version, which uses
 
 ![Wave Race 64 - Drake Lake course](/assets/images/games/wave-race-64/wave-race-64-drake-lake.jpg)
 
-This didn't make too much of a difference provided the games were optimised for the PAL N64. Sadly, many weren't, resulting in versions of games that that run 16% slower and are plagued by large black borders (to account for the larger screen resolution of PAL displays).
+This didn't make too much of a difference provided the games were optimised for the PAL N64. Sadly, many weren't, resulting in versions of games that run 16% slower and are plagued by large black borders (to account for the larger screen resolution of PAL displays).
 
 ![F-Zero X - Rainbow Road track](/assets/images/games/f-zero-x/f-zero-x-n64-rainbow-road.jpg)
 
