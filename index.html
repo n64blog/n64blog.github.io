@@ -16,7 +16,7 @@ redirect_from:
 {% include featured.html %}
 
 <section class="post-list">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     {% if post.featured == false %}
     <article class="post-list__container">
       {% if post.img %}
@@ -40,3 +40,13 @@ redirect_from:
     {% endif %}
   {% endfor %}
 </section>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="pagination__previous">Previous</a>
+  {% endif %}
+  <span class="pagination__page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="pagination__next">Next</a>
+  {% endif %}
+</div>

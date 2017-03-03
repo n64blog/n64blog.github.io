@@ -8,11 +8,11 @@ author: "Martin Watts"
 date: 2017-1-22 10:00:00 +0100
 category: article
 tags: [1080-snowboarding, big-mountain-2000, snowboard-kids, snowboard-kids-2, twisted-edge-extreme-snowboarding]
-featured: true
+featured: false
 img: ''
 ---
 
-The advent of 3D gaming in the mid to late ‘90s opened up a number of new possibilities in game design. Game developers quickly realised how viable snowboarding games now were thanks to the realistic 3D environments and physics they could create. 
+The advent of 3D gaming in the mid to late ‘90s opened up a number of new possibilities in game design. Game developers quickly realised how viable snowboarding games now were thanks to the realistic 3D environments and physics they could create.
 
 As a result, the genre experienced sudden growth, and because it seemed new and fresh, it quickly attracted a lot of attention from gamers.
 
@@ -69,4 +69,3 @@ In fact, one could argue that Twisted Edge Extreme Snowboarding’s trick system
 ## And what about you? ##
 
 What’s your favourite N64 snowboarding game? Let us know on [Twitter](www.twitter.com/n64gamers).
-
