@@ -5,17 +5,18 @@
   background-color: $color-beta;
   background-image: url(../assets/turok-hero.jpg);
   background-size: cover;
+  background-position: right;
   margin: ($base-spacing * -1) ($base-spacing * -1) ($base-spacing * 2) ($base-spacing * -1);
-  padding: ($base-spacing * 2) $base-spacing;
+  padding: ($base-spacing * 2) $base-spacing ($base-spacing * 2) $base-spacing;
   @include media-above('large') {
     @include size(100%, 100%);
     margin: ($base-spacing * -1) 0 ($base-spacing * 2) 0;
-    padding: ($base-spacing * 6) ($base-spacing * 1) ($base-spacing * 6) ($base-spacing * 3);
+    padding: ($base-spacing * 4) 30% ($base-spacing * 4) ($base-spacing * 3);
   };
   &__title a {
     color: $white;
     @include media-above ('large'){
-      font-size: 3rem;
+      font-size: 2rem;
     };
     &:hover {
       opacity: 0.75;
