@@ -1,0 +1,35 @@
+.pagination {
+  margin: 0 0 ($base-spacing * 2) 0;
+  padding: 0 0 ($base-spacing * 2) 0;
+  position: relative;
+  @include media-above('large') {
+    @include size(100%, 100%);
+    margin: 0 0 ($base-spacing * 2) 0;
+    padding: 0 ($base-spacing * 7) ($base-spacing * 2) ($base-spacing * 3);
+  };
+
+  &__page-number {
+    font-family: $heading-font;
+    margin-right: 1rem;
+  }
+
+  &__previous, &__next {
+    font-family: $heading-font;
+    padding: 0.75rem;
+    background-color: $color-alpha;
+    color: $white;
+    margin-right: 1rem;
+
+    &:hover {
+      color: $white;
+      background-color: $color-gamma;
+    }
+
+    &:active {
+      color: $white;
+      background-color: darken($color-gamma, 10%);
+    }
+
+  }
+
+}

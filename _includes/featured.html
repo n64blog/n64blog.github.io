@@ -1,3 +1,4 @@
+{% unless paginator.previous_page %}
 {% for post in site.posts %}
   {% if post.featured == true %}
   <article class="featured">
@@ -6,3 +7,4 @@
   </article>
   {% endif %}
 {% endfor %}
+{% endunless %}
