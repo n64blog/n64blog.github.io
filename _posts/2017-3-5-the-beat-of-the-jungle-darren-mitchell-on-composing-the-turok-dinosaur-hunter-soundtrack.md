@@ -15,7 +15,7 @@ Darren Mitchell’s involvement in the creation of one of the most significant N
 
 While teaching a few college courses during the mid-90s, he was approached by one of his students who gave him an ad from a local newspaper. Contained within it were the following fateful words:
 
-"Sound designer/composer wanted for Austin video game company. Send resume to…"
+_"Sound designer/composer wanted for Austin video game company. Send resume to…"_
 
 ![Fighting one of the Campaigner's soldiers in Turok: Dinosaur Hunter for N64](/assets/images/games/turok-dinosaur-hunter/turok-dinosaur-hunter-campaigner-soldier.jpg)
 
