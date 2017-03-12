@@ -15,7 +15,7 @@ The N64 gave us a lot of fun-filled adventures with loveable, memorable characte
 
 It’s inevitable that some games will be remembered more so than others. For example, games that both sold well and earned critical acclaim are more likely to stand out in our collective memory.
 
-![Rocket: Robot on Wheels for the Nintendo 64](/images/games/rocket-robot-on-wheels/rocket-robot-on-wheels-n64-first-ticket.jpg)
+![Rocket: Robot on Wheels for the Nintendo 64](/assets/images/games/rocket-robot-on-wheels/rocket-robot-on-wheels-n64-first-ticket.jpg)
 
 When it came to the N64 back in the late '90s, a lot of third-party games had a tough time competing with Nintendo’s own line-up. Fast-forward to the present, and pretty much only Nintendo and Rare’s back catalogue of games have been re-released or remastered. As a result, a lot of other N64 games have simply been consigned to the past.
 
