@@ -31,7 +31,7 @@ Pitched as a 3D collectathon platformer that draws inspiration directly from Sup
 
 The game sports a visual resemblance to The Legend of Zelda: Wind Waker, and will include five game worlds to explore (with more coming after release in the form of free DLC). There’s even split-screen and local co-op play.
 
-![Hat Kid on a scooter in A Hat in Time](assets/post/a-hat-in-time-scooter.jpg)
+![Hat Kid on a scooter in A Hat in Time](/assets/post/a-hat-in-time-scooter.jpg)
 
 A specific release date has not yet been announced, but we should hopefully see A Hat in Time launch this year. The game is currently only planned to come to PC. A beta release is currently available, but you’ll need to pre-order the game to play it.
 
