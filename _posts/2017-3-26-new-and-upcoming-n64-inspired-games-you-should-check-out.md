@@ -43,7 +43,7 @@ At first glance, Macbat 64: Journey of a Nice Chap looks to offer the most authe
 
 ![Jungle level from Macbat 64: Journey of a Nice Chap](/assets/post/macbat-64-jungle.jpg)
 
-Developed by Marcus Horn and his indie studio SIACTRO, the game is actually a sequel to Kiwi 64: a simple, one-level tribute to Banjo-Kazooie. This mini-game was warmly received by a lot people, which spurred on Marcus to make a bigger version of a game that captures the same essence of the N64 games he enjoyed as child.
+Developed by Marcus Horn and his indie studio SIACTRO, the game is actually a sequel to Kiwi 64: a simple, one-level tribute to Banjo-Kazooie. This mini-game was warmly received by a lot of people, which spurred on Marcus to make a bigger version of a game that captures the same essence of the N64 games he enjoyed as child.
 
 Macbat 64’s biggest influence is Conker’s Bad Fur Day, although not because of its offensive or scatological humour. Rather, it’s the way in which the eponymous hero encounters different, often weird scenarios. There’s even a kart-racing section!
 
