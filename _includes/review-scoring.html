@@ -1,0 +1,42 @@
+<div class="score-container">
+  {% if page.score < 26 %}
+  <h4>Bad</h4>
+  <div class="score">
+    <div class="score__bad"></div>
+  </div>
+  {% elsif page.score < 50 %}
+  <h4>Flawed</h4>
+  <div class="score">
+    <div class="score__flawed"></div>
+  </div>
+  {% elsif page.score < 75 %}
+  <h4>Good</h4>
+  <div class="score">
+    <div class="score__good"></div>
+  </div>
+  {% elsif page.score > 74 %}
+  <h4>Great</h4>
+  <div class="score">
+    <div class="score__great"></div>
+  </div>
+  {% endif %}
+</div>
+
+<div class="breakdown">
+  <div class="breakdown__the-good">
+    <ul>
+      {% for good in page.the-good %}
+      <li>{{ good }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="breakdown__the-bad">
+    <ul>
+      {% for bad in page.the-bad %}
+      <li>{{ bad }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<p class="scoring-policy">To learn more about how review N64 games see our <a href="/reviews/our-review-scoring-system.html">review scoring system page</a>. Because we focus on whether a game is still enjoyable to play today, we try to avoid discussing a game’s development history, impact or legacy in our reviews. For that information, you should visit our <a href="/games">game pages</a>.</p>
