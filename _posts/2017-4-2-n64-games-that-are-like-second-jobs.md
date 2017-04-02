@@ -74,7 +74,7 @@ Highly experienced train driver sought by Japanese rail network to operate local
 ### Skills you’ll require: ###
 - intricate knowledge of the Densha De Go! 64 custom train controller’s five speed and eight brake settings
 - impeccable timing and accuracy: you are expected to stop your train at very specific platform markers at the specified time or you will be heavily penalised
-- in-depth understanding of Japanese rail signals and warnings: again, you will be heavily penalised for failing to adhere.
+- in-depth understanding of Japanese rail signals and warnings: again, you will be heavily penalised for failing to adhere
 - ability to react incredibly quickly to sudden (unseen) hazards: as above, you will be heavily penalised if you do not.
 
 ![Densha de Go! 64 gameplay of snowy train route](/assets/images/games/densha-de-go-64/densha-de-go-64-snow-line.jpg)
