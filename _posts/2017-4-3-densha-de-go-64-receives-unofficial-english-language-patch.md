@@ -41,4 +41,4 @@ You can download the patch from the [Densha de Go! 64 translation page](http://w
 
 _Our thanks go to [SubDrag](https://twitter.com/SubDrag) for providing us with this news tip._
 
-Sources: [Shooters Forever forums]("http://shootersforever.com/forums_message_boards/viewtopic.php?t=7174"), [ROMhacking.net](http://www.romhacking.net/translations/2947/)
+Sources: [Shooters Forever forums](http://shootersforever.com/forums_message_boards/viewtopic.php?t=7174), [ROMhacking.net](http://www.romhacking.net/translations/2947/)
