@@ -13,7 +13,7 @@ img: '/assets/post/densha-de-go-english-language-patch-hero.jpg'
 ---
 Created by N64 ROM hacker "zoinkity" and translator "mikeryan", the patch translates all HUD and menu elements into English. What's truly impressive, however, is that English-language support for the North American version of the Nintendo 64 Voice Recognition Unit has also been added.
 
-![Densha de Go! 64 platform scoring screen](/images/games/densha-de-go-64/densha-de-go-64-platform-scoring-screen.jpg)
+![Densha de Go! 64 platform scoring screen](/assets/images/games/densha-de-go-64/densha-de-go-64-platform-scoring-screen.jpg)
 
 The patch first appeared on the Shooters Forever forum and ROMhacking.net on 1 April 2017 -- thankfully, it wasn't an April Fool's Day prank. You can use this patched version with a PC-based N64 emulator or on a flashcart device such as the [EverDrive 64](http://n64blog.com/article/2017/01/29/everdrive-64-guide-what-is-it-and-should-you-buy-one.html).
 
