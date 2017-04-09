@@ -31,6 +31,8 @@ redirect_from:
       <ul class="post-list__meta">
         {% if post.category == 'article' %}
         <li><a href="/articles">{{ post.category | capitalize }}</a></li>
+        {% elsif post.category == 'review' %}
+        <li><a href="/reviews">{{ post.category | capitalize }}</a></li>
         {% else %}
         <li><a href="/{{ post.category }}">{{ post.category | capitalize }}</a></li>
         {% endif %}
