@@ -1,6 +1,6 @@
 ---
 layout: game
-title: "WinBack: Covert Operations
+title: "WinBack: Covert Operations"
 meta-name: "WinBack: Covert Operations"
 meta-description: "WinBack: Covert Operations is a third-person shooter game for the Nintendo 64 and is one of the earliest examples of a 3D game that utilises a cover system. It was released in 1999."
 meta-keyword: "winback covert operations, operation winback, omega force, koei, nintendo 64, third person shooter"
