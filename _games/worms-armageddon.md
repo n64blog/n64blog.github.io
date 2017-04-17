@@ -28,4 +28,3 @@ It’s just as well that it was this game that made it, as it’s often consider
 Supporting up to four players, Worms Armageddon features turn-based combat involving limited 2D movement and a range of weaponry. The goal is to wipe out all opposing teams, either by reducing the hit points of their worms to zero or by knocking them off the battlefield.
 
 The game features a wealth of customisation options, enabling you, for example, to determine the weapons that players’ teams of worms will start with, turn duration, and even how powerful weapons are. It also features a random terrain generator, which offers an endless supply of stage layouts to battle on.
-text
