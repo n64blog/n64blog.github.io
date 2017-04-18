@@ -11,7 +11,11 @@ tags: [densha-de-go-64]
 featured: false
 img: '/assets/post/densha-de-go-english-language-patch-hero.jpg'
 ---
-Created by N64 ROM hacker "zoinkity" and translator "mikeryan", the patch translates all HUD and menu elements into English. What's truly impressive, however, is that English-language support for the North American version of the Nintendo 64 Voice Recognition Unit has also been added.
+**UPDATED:** zoinkity has released an updated version of the patch (v1.01), making the patch compatible with the EverDrive 64 V3. We've removed the mention of this from the original story below now that it has been resolved.
+
+![Densha de Go! 64 snowy train line](/assets/images/games/densha-de-go-64/densha-de-go-64-snow-line.jpg)
+
+**Original story:** Created by N64 ROM hacker "zoinkity" and translator "mikeryan", the patch translates all HUD and menu elements into English. What's truly impressive, however, is that English-language support for the North American version of the Nintendo 64 Voice Recognition Unit has also been added.
 
 ![Densha de Go! 64 platform scoring screen](/assets/images/games/densha-de-go-64/densha-de-go-64-platform-scoring-screen.jpg)
 
@@ -20,14 +24,6 @@ The patch first appeared on the Shooters Forever forum and ROMhacking.net on 1 A
 YouTuber ShiryuGL has uploaded the following video showing English gameplay:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bhei0uM72Ag" frameborder="0" allowfullscreen></iframe>
-
-## Known bug/error ##
-
-It's important to note that there's currently an issue that may affect some EverDrive 64 users. The game's title screen is meant to appear after the opening cinematic,  but some users are met with a black screen. It may be possible to get past this screen if you can still hear sound. If you can't hear anything then chances are you won't be able to get to the mode select screen.
-
-While zoinkity is currently in the process of identifying the problem, a cursory evaluation would suggest that EverDrive 64 V3 users aren't able to play the ROM at all (which means we've sadly not had the chance to play it yet). We'll update this post once we know more.
-
-![Densha de Go! 64 snowy train line](/assets/images/games/densha-de-go-64/densha-de-go-64-snow-line.jpg)
 
 ## What is Densha de Go! 64? ##
 
