@@ -11,7 +11,7 @@ tags: [densha-de-go-64]
 featured: false
 img: '/assets/post/densha-de-go-english-language-patch-hero.jpg'
 ---
-**UPDATED:** zoinkity has released an updated version of the patch (v1.01), making the patch compatible with the EverDrive 64 V3. We've removed the mention of this known issue from the original story below now that it has been resolved.
+**UPDATED 18 April 2017:** zoinkity has released an updated version of the patch (v1.01), making the patch compatible with the EverDrive 64 V3. We've removed the mention of this known issue from the original story below now that it has been resolved.
 
 ![Densha de Go! 64 snowy train line](/assets/images/games/densha-de-go-64/densha-de-go-64-snow-line.jpg)
 
