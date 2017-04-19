@@ -25,6 +25,6 @@ You can purchase the album from [iTunes](https://itunes.apple.com/album/id121906
 
 ![T-Rex boss fight in Turok: Dinosaur Hunter for N64.](/assets/images/games/turok-dinosaur-hunter/turok-dinosaur-hunter-n64-t-rex-boss-battle.jpg)
 
-Darren also composed the soundtrack to two more Turok games on the N64: the critically acclaimed Turok 2: Seeds of Evil and Turok: Rage Wars. He continues to produce music today and regularly posts updates to his [Facebook page](https://en-gb.facebook.com/Darren-Mitchell-Music-555961567800992/).
+Darren also composed the soundtrack to two more Turok games on the N64: the critically acclaimed Turok 2: Seeds of Evil and Turok: Rage Wars. He continues to produce music today and regularly posts updates to his [Facebook page](https://www.facebook.com/Darren-Mitchell-Music-555961567800992/).
 
 Source: [Darren Mitchell Music - Facebook](https://www.facebook.com/555961567800992/photos/a.1350895091640965.1073741828.555961567800992/1421577727906034/?type=3&theater)
