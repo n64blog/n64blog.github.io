@@ -69,11 +69,3 @@ Star Fox 64 may no longer be the audiovisual tour de force it was back in 1997, 
 
 If you’re only interested in experiencing the content and are not fussed about trying to get the highest score possible then Star Fox 64 may not hold your attention for very long, especially considering how basic the multiplayer mode is. Play Star Fox 64 as it was intended, however, and you’ll find this to be one of the most rewarding and surprisingly replayable titles on the N64.
 
-Multiple routes and secrets increase Star Fox 64’s replay value
-Charmingly presented with full voiceover and a cinematic feel
-Deep gameplay mechanics (for a rail shooter)
-
-Unable to save game progress
-Lack of mission select option
-Limited multiplayer mode seems like an afterthought
-
