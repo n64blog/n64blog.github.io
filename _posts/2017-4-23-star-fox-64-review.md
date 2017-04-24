@@ -58,7 +58,7 @@ Star Fox 64’s visuals are understandably dated, but the cinematic way in which
 
 The game’s dialogue is fully voiced, which is a nice touch given that very few N64 games feature it due to the storage limitations of ROM cartridges. It’s fair to say that these aren’t oscar-winning performances, but they’re endearing. There’s a reason why so many lines from this game are still being recited today.
 
-The soundtrack, on the other hand, shows it age. The synthesised orchestral tracks are well-suited to the game’s setting, and the way it ramps up alongside the action augments that feeling of immersion. The track compositions themselves are superb and memorable, but the overall sound quality may seem very basic if you’ve not played many early N64 games.
+The soundtrack, on the other hand, shows it age. The synthesised orchestral tracks are well-suited to the game’s setting, and the way they change to reflect what's happening on screen augments your feeling of immersion. The track compositions themselves are superb and memorable, but the overall sound quality may seem very basic if you’ve not played many early N64 games.
 
 ![Macbeth mission from Star Fox 64](/assets/images/games/star-fox-64/star-fox-64-macbeth.jpg)
 
