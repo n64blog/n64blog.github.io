@@ -9,7 +9,7 @@ tags: [star-wars-shadows-of-the-empire]
 featured: false
 img: '/assets/post/star-wars-shadows-of-the-empire-artwork.jpg'
 ---
-**To <s>cash in on</s> celebrate Rogue One: A Star Wars Story’s release in cinemas this month, we’re taking a closer look at two N64 Star Wars games that also tell unique stories set in between the Star Wars films. This week, we’re delving into Star Wars: Shadows of the Empire.**
+As the N64's first Star Wars game, Star Wars: Shadows of the Empire superbly showcased the adventure and action of the film saga  through varied gameplay and detailed 3D environments.
 
 ![Dash Rendar in Star Wars: Shadows of the Empire for the N64.](/assets/post/star-wars-shadows-of-the-empire-n64-dash-rendar.jpg)
 
