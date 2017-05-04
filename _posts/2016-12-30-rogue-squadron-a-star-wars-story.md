@@ -11,7 +11,7 @@ tags: [star-wars-rogue-squadron]
 featured: false
 img: '/assets/post/star-wars-rogue-squadron-n64-artwork.jpg'
 ---
-**To <s>cash in on</s> celebrate Rogue One: A Star Wars Story’s release in cinemas this month, we’re taking a closer look at two N64 Star Wars games that also tell unique stories set in between the Star Wars films. We recently revisited [Star Wars: Shadows of the Empire](/article/2016/12/20/shadows-of-the-empire-a-day-in-the-life-of-dash-rendar.html); this week, our blaster cannons are laser-focused on 1998’s Star Wars: Rogue Squadron.**
+Star Wars: Rogue Squadron is renowned for pushing the N64 to its technical limits with its stunning visuals and impressive audio. But it's also an immensely fun game that's remarkably replayable despite its short length.
 
 ![X-wings and Y-wings on Gerrard V in Star Wars: Rogue Squadron](/assets/post/star-wars-rogue-squadron-n64-x-wings-and-y-wings.jpg)
 
@@ -56,3 +56,7 @@ Rogue Squadron’s story is most certainly not one of the most exciting; ultimat
 - It’s a short game -- if you’re not a fan of retreading old ground then you’ll get bored of it quickly.
 - High-quality graphics mean that the frame rate occasionally suffers, making the game difficult to play at times.
 - Dogfighting is tricky and requires a lot of practice.
+
+## Want to learn more about other Star Wars games on the N64? ##
+
+Check out our post on [Star Wars: Shadows of the Empire](/article/2016/12/19/shadows-of-the-empire-a-star-wars-story.html).
