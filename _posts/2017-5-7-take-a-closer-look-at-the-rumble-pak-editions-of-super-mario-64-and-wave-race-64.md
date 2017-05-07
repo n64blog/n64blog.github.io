@@ -21,7 +21,7 @@ In addition to Rumble Pak support, there are also a few other minor differences 
 
 ## How is the Rumble Pak used in the Shindō Pak Taiō Versions? ##
 
-It's worth noting that the gameplay in both games is virtually identical, meaning it wasn't adapted or altered for Rumble Pak support.
+It's worth noting that the gameplay in both games is virtually identical to their respective original versions; nothing has been adapted or altered because of the Rumble Pak support.
 
 ### Super Mario 64 ###
 
