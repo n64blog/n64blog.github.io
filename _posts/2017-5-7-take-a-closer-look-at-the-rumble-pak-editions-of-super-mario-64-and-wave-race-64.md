@@ -21,6 +21,8 @@ In addition to Rumble Pak support, there are also a few other minor differences 
 
 ## How is the Rumble Pak used in the Shindō Pak Taiō Versions? ##
 
+It's worth noting that the gameplay in both games is virtually identical, meaning it wasn't adapted or altered for Rumble Pak support.
+
 ### Super Mario 64 ###
 
 As you might expect, the Rumble Pak vibrates both when hitting enemies and getting hit by them. Certain moves, such as the ground pound and forward dive, will also cause provide feedback. Playing with Mario’s face on the title screen also results in a hefty jolt when stretching and letting go of the portly plumber’s elastic facial features.
