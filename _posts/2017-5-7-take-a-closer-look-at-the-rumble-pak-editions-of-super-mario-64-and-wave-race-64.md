@@ -47,7 +47,7 @@ Both games include a new animated icon on their title screens highlighting the R
 
 ### Super Mario 64 ###
 
-- The Shindō Pak Taiō Version is in fact the international release of the game, albeit translated back into Japanese. As a result, it doesn’t feature the glitches and bugs present in the original Japanese version.
+- The Shindō Pak Taiō Version is in fact the international release of the game, albeit translated back into Japanese. As a result, it doesn’t feature the [glitches and bugs](https://tcrf.net/Super_Mario_64_(Nintendo_64)/Regional_and_Version_Differences/en#Glitches) present in the original Japanese version.
 - It also includes voice clips from the international release, which previously weren’t in the Japanese version.
 - The most notable difference is the inclusion of a title screen Easter egg. Pressing the Z-button fills the background with tiles that replicate Mario’s face multiple times.
 
