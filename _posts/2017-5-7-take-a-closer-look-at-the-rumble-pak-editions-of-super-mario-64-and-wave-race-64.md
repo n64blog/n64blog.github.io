@@ -2,7 +2,7 @@
 layout: post
 title: "Take a closer look at the Rumble Pak editions of Super Mario 64 and Wave Race 64"
 meta-title: "Take a closer look at the Rumble Pak editions of Super Mario 64 and Wave Race 64"
-meta-description: "Nintendo re-released tow of its best-selling N64 games, Super Mario 64 and Wave Race 64, in July 1997 with Rumble Pak support."
+meta-description: "The Super Mario 64 and Wave Race 64 Rumble Pak editions, known as Shindō Pak Taiō Versions, were only released in Japan in July 1997."
 meta-keyword: "super mario 64 shindo pak taio version, wave race 64 shindo pak taio version, super mario 64 rumble version, wave race 64 rumble version, n64 rumble pak games"
 author: "Martin Watts"
 date: 2017-5-7 14:00:00 +0100
