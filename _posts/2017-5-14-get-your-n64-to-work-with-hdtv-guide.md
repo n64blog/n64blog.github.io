@@ -109,4 +109,4 @@ If you have a PAL N64 then there’s a good chance that your system came with an
 
 ## Have we missed something? ##
 
-If this guide hasn’t helped solve your issue or we’ve missed out an important step then let us know on Twitter. We’ll happily ask the wider community of N64 gamers for their help on your behalf.
+If this guide hasn’t helped solve your issue or we’ve missed out an important step then let us know on [Twitter](http://twitter.com/n64gamers). We’ll happily ask the wider community of N64 gamers for their help on your behalf.
