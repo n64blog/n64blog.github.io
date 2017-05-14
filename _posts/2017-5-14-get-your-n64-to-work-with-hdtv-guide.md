@@ -35,7 +35,7 @@ Before getting started, make sure you have the following:
 - N64 RCA connector cable (preferred) or N64 RF adaptor cable
 - an N64 game -- the system doesn't have an OS, so it won't show a picture without a game cartridge inserted.
 
-### <a name="find">Find the right connection port on your TV</a> ###
+### <a name="find"></a>Find the right connection port on your TV ###
 
 Ideally, you will want to connect your N64 to your HDTV via RCA composite connectors (AV IN 2 in photo) or a SCART port (AV IN 1 in photo) (you will need an RCA-to-SCART plug to do this).
 
@@ -45,7 +45,7 @@ Alternatively, you can connect via the TV’s antenna socket, but you will need 
 
 ![Antenna socket on back of an LG LED TV](/assets/images/hardware/antenna-socket-lcd-tv.JPG)
 
-### <a name="noport">My TV doesn’t have the correct port to plug my N64 into</a> ###
+### <a name="noport"></a>My TV doesn’t have the correct port to plug my N64 into ###
 
 Many newer TVs no longer feature composite RCA or SCART connections. As a result, you will need to consider using either a converter/upscaler or, if you’re a real enthusiast, getting your hands on the elusive UltraHDMI N64 mod.
 
@@ -61,7 +61,7 @@ You can get a converter/upscaler for an affordable price, but you may find that 
 
 It’s worth checking to see if your TV has a “game mode” option. Many modern HDTVs will have built-in upscaling to present the best possible picture. While this is fine for standard video, it will introduce noticeable lag when it comes to video game consoles. 
 
-### <a name="hasport">My TV has the correct port, but doesn’t display the N64’s video output</a> ###
+### <a name="hasport"></a>My TV has the correct port, but doesn’t display the N64’s video output ###
 
 To put it simply, some newer TVs can’t process the signal that the N64 console outputs (or they process it incorrectly), despite having the correct ports.
 
