@@ -51,7 +51,7 @@ Many newer TVs no longer feature composite RCA or SCART connections. As a result
 
 ![NEET composite to HDMI converter (image credit: DoughtyJ)](/assets/images/hardware/neet-composite-to-hdmi-converter.jpg)
 
-(image credit: [DoughtyJ](www.twitter.com/DoughtyJ))
+(image credit: [DoughtyJ](http://twitter.com/DoughtyJ))
 
 Using a converter/upscaler is not ideal, as it will introduce lag. On a CRT TV, when you press a button on your controller, you’d see the resulting action of that button press happen almost immediately on-screen. Converters/upscalers process the video signal and, in doing so, can introduce a delay between your input and what happens on screen.
 
@@ -69,7 +69,7 @@ Therefore, you will need to consider getting a converter/upscaler to convert the
 
 ![NEET composite to HDMI converter (image credit: DoughtyJ)](/assets/images/hardware/neet-composite-to-hdmi-converter-output-port.jpg)
 
-(image credit: [DoughtyJ](www.twitter.com/DoughtyJ))
+(image credit: [DoughtyJ](http://twitter.com/DoughtyJ))
 
 As we’ve already highlighted above, using an upscaler is not ideal, as it will introduce lag. On a CRT TV, when you press a button on your controller, you see the resulting action of that button press happen almost immediately on-screen. Converters/upscalers process the video signal and, in doing so, can introduce a delay between input and display.
 
