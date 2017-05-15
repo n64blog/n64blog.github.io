@@ -34,6 +34,7 @@ Before getting started, make sure you have the following:
 - N64 power supply lead
 - N64 RCA connector cable (preferred) or N64 RF adaptor cable
 - an N64 game -- the system doesn't have an OS, so it won't show a picture without a game cartridge inserted.
+- an RCA-to-SCART plug (optional)
 
 ### <a name="find"></a>Find the right connection port on your TV ###
 
