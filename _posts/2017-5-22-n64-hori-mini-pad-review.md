@@ -27,7 +27,7 @@ One of the most noticeable things that sets the N64 Hori Mini Pad apart from the
 
 ![The N64 Hori Mini Pad's shoulder buttons](/assets/images/hardware/n64-hori-mini-pad-shoulder-buttons.jpg)
 
-These Z-buttons sit underneath the L and R buttons, and you only need to press one of these Z-buttons at a time (we assume there are two to give you a choice).The other buttons are positioned in the same way, albeit closer together due to N64 Hori Mini Pad being smaller.
+These Z-buttons sit underneath the L and R buttons, and you only need to press one of these Z-buttons at a time (we assume there are two to give you a choice). The other buttons are positioned in the same way, albeit closer together due to N64 Hori Mini Pad being smaller.
 
 It’s worth highlighting just how small the pad is both in comparison to the original N64 controller and in general. Gamers with large or long hands may find they have to claw their hands slightly to hold the pad and use all the buttons. Thankfully, the shoulder buttons are quite pronounced, meaning you can easily press them with the lower part of your index fingers if need be.
 
@@ -66,4 +66,4 @@ However, you won’t get favourable results with all games, typically first- and
 
 On top of this, the N64 Hori Mini Pad is not a cheap investment, nor is it easy to get hold of one. At the time of writing (May 2017), you can expect to pay around £75/€85/$100 USD for an unboxed N64 Hori Mini Pad on eBay (Buy It Now listing), and auction listings climb up to similar prices too. Moreover, most of these pads are still found in Japan, meaning you may end up having to pay an import/customs tax on top.
 
-The N64 Hori Mini Pad is an interesting part of N64 history, and an item that’s no doubt very appealing to hardcore collectors and enthusiasts. It looks and feels great, and solves the durability issue of the original N64 controller’s joystick, while introducing a whole new problem -- over-sensitivity. It’s still a great controller, but it’s fair to say that it doesn’t live up to its revered status in the N64 community, and you should definitely consider the caveats we’ve raised before purchasing one.
+The N64 Hori Mini Pad is an interesting part of N64 history, and an item that’s no doubt very appealing to hardcore collectors and enthusiasts. It looks and feels great, and solves the durability issue of the original N64 controller’s joystick, while introducing a whole new problem: over-sensitivity. It’s still a great controller, but it’s fair to say that it doesn’t live up to its revered status in the N64 community, and you should definitely consider the caveats we’ve raised before purchasing one.
