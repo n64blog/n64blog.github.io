@@ -8,8 +8,7 @@ author: "Martin Watts"
 date: 2017-3-5 10:00:00 +0100
 category: article
 tags: [turok-dinosaur-hunter, turok-2-seeds-of-evil]
-featured: true
-img: ''
+featured: false
 ---
 Darren Mitchell’s involvement in the creation of one of the most significant N64 games can be traced back to a single, lucky moment in his life.
 

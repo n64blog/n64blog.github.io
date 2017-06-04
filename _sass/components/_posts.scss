@@ -3,9 +3,9 @@
 .featured {
   display: block;
   background-color: $color-beta;
-  background-image: url(../assets/turok-hero.jpg);
+  background-image: url(../assets/winback-hero.jpg);
   background-size: cover;
-  background-position: right;
+  background-position: top left;
   margin: ($base-spacing * -1) ($base-spacing * -1) ($base-spacing * 2) ($base-spacing * -1);
   padding: ($base-spacing * 2) $base-spacing ($base-spacing * 2) $base-spacing;
   @include media-above('large') {
