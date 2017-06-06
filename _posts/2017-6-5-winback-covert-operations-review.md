@@ -12,7 +12,7 @@ date: 2017-5-6 20:30:00 +0100
 category: review
 tags: [winback-covert-operations]
 featured: true
-img: ''
+img: '/assets/post/winback-covert-operations-review-hero.jpg'
 ---
 
 WinBack: Covert Operations (known as Operation: WinBack in PAL territories) is a third-person cover shooter -- and one of the earliest examples of its kind.
