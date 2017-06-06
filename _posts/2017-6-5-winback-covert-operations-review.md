@@ -8,7 +8,7 @@ meta-title: "WinBack: Covert Operations (N64) review"
 meta-description: "WinBack: Covert Operations for the N64 is one of the earliest examples of a third-person cover shooter, but does it still play well today? Find out with our in-depth review"
 meta-keyword: "winback covert operations review, winback covert operations n64 review, operation winback review, operation winback n64 review"
 author: "Martin Watts"
-date: 2017-5-6 20:30:00 +0100
+date: 2017-6-5 20:30:00 +0100
 category: review
 tags: [winback-covert-operations]
 featured: true
