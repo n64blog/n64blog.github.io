@@ -61,5 +61,4 @@ WinBack: Covert Operations is a unique title within the N64 software library wit
  
 It’s disappointing because WinBack: Covert Operations provides some truly thrilling, adrenaline-inducing firefights at times. It requires a more tactical and considered approach than most shooters on the system, and so you may still want to check it out if you’re a real N64 enthusiast -- so long as you have the patience to overcome cumbersome controls and a disobedient camera.
  
- 
 
