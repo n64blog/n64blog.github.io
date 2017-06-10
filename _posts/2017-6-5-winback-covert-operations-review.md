@@ -27,7 +27,7 @@ The game features two endings; which one you get depends on how quickly you comp
 
 ![Enemy guards in WinBack: Covert Operations for N64](/assets/images/games/winback-covert-operations/winback-covert-operations-n64-enemy-guards.jpg)
  
-The game takes place across 27 stages, which typically task Jean-Luc with traversing from A to B (without dying) or battling a boss character. These stages feature plenty of objects for you to stand or crouch behind -- as you’d expect from a cover shooter -- and you need to take advantage of this cover if you’re to make it through the game.
+The game takes place across 32 stages, which typically task Jean-Luc with traversing from A to B (without dying) or battling a boss character. These stages feature plenty of objects for you to stand or crouch behind -- as you’d expect from a cover shooter -- and you need to take advantage of this cover if you’re to make it through the game.
  
 Cover is all the more crucial when you factor in that WinBack: Covert Operations’ controls are incredibly fiddly. You press A when facing cover to enter it, and use the stick to sidle left or right. You have to press another button to aim and temporarily lean out of cover, another one to crouch, another to lock your target, and yet another to then actually shoot them. You can manually aim using your gun’s laser sight to shoot enemies outside of the auto-lock’s range, but it’s fiddly and difficult to gauge.
 
