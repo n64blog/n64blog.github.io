@@ -3,8 +3,8 @@ layout: review
 score: 45
 the-good: ["Large, albeit basic environments to explore", "Stuffed full of pop culture references and parodies", "An interesting premise and unique gameplay design"]
 the-bad: ["Poor frame rate", "Movement across terrain is difficult and unpredictable", "Harsh save system", "Very basic visuals (although due to the scope of the game)"]
-title: "Body Harvest"
-meta-title: "Body Harvest"
+title: "Body Harvest review"
+meta-title: "Body Harvest review"
 meta-description: "DMA Design's open-world alien invasion game was ambitious for its time, but how does it fare today? Check out our in-depth review"
 meta-keyword: "body harvest review, body harvest n64 review, body harvest game review"
 author: "Martin Watts"
