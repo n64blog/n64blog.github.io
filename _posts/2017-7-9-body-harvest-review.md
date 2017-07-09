@@ -23,7 +23,7 @@ Developed by DMA Design -- now known as the development powerhouse Rockstar Nort
 
 Body Harvest's dystopian premise of the world having been harvested to the brink of extinction by man-eating aliens is immediately gripping. Playing as Adam Drake, a genetically enhanced super soldier, you travel back in time across multiple periods and locations during the past 100 years to halt the alien invaders at key points.
 
-Each location is an open-world environment, although you can't move quite as freely as that might suggest. The aliens have divided up these locations into self-contained sections (referred to as stages in game) using impenetrable shield walls. The only way to get from one area to the other is to destroy an alien processor, which appears at the end of the stage. Once you destroy of these, you then destroy the shield generator to completely free the area of the alien threat.
+Each location is an open-world environment, although you can't move quite as freely as that might suggest. The aliens have divided up these locations into self-contained sections (referred to as stages in game) using impenetrable shield walls. The only way to get from one area to the other is to destroy an alien processor, which appears at the end of the stage. Once you defeat all of these, you then destroy the shield generator to completely free the area of the alien threat.
 
 ![Adam Drake, protagonist of Body Harvest for N64.](/assets/images/games/body-harvest/body-harvest-n64-adam-drake-intro.jpg)
 
