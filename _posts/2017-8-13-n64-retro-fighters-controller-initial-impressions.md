@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-sidebar
 title: "N64 Retro Fighters Controller: initial impressions"
 meta-title: "N64 Retro Fighters Controller: initial impressions"
 meta-description: "Sporting a modern design and with overwhelming crowdfunding support, will the N64 Retro Fighters Controller prove a hit with N64 gamers?"
@@ -48,17 +48,13 @@ The N64 Retro Fighters Controller’s button layout will at least offer an impro
 
 ## What you’ve been saying about the N64 Retro Fighters Controller: ##
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Backed. 1st party controllers in good condition at a decent price are a rare find for me. If it sucks for $20, I&#39;ll use it on my PC emulator</p>&mdash; Ol&#39; Doc MegaSlush (@MEGASLUSHBOY) <a href="https://twitter.com/MEGASLUSHBOY/status/895816799660290048">August 11, 2017</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-    <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Backed. 1st party controllers in good condition at a decent price are a rare find for me. If it sucks for $20, I&#39;ll use it on my PC emulator</p>&mdash; Ol&#39; Doc MegaSlush (@MEGASLUSHBOY) <a href="https://twitter.com/MEGASLUSHBOY/status/895816799660290048">August 11, 2017</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">no. I love the simplicity of the 3 pronged controller and button are all placed very well already.</p>&mdash; Louis Duquet (@CabanonGH) <a href="https://twitter.com/CabanonGH/status/895712146272567296">August 10, 2017</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I backed, 20 bucks for a decent n64 controller is a frigging steal</p>&mdash; hechogamermx (@hechogamer) <a href="https://twitter.com/hechogamer/status/895657935866445825">August 10, 2017</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-    <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">no. I love the simplicity of the 3 pronged controller and button are all placed very well already.</p>&mdash; Louis Duquet (@CabanonGH) <a href="https://twitter.com/CabanonGH/status/895712146272567296">August 10, 2017</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-    <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I backed, 20 bucks for a decent n64 controller is a frigging steal</p>&mdash; hechogamermx (@hechogamer) <a href="https://twitter.com/hechogamer/status/895657935866445825">August 10, 2017</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-    <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I&#39;m not sure about the placement of the Z trigger</p>&mdash; Michael Nott (@BillBones84) <a href="https://twitter.com/BillBones84/status/895625767127797762">August 10, 2017</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I&#39;m not sure about the placement of the Z trigger</p>&mdash; Michael Nott (@BillBones84) <a href="https://twitter.com/BillBones84/status/895625767127797762">August 10, 2017</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## It’s still early days ##
 
