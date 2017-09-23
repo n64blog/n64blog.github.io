@@ -33,7 +33,7 @@ Goldfinger 64 reminds you what it was like to play GoldenEye 007 for the first t
 
 It’s clear that a lot of time, love and attention has gone into ensuring Goldfinger 64 recreates the film on which it’s based. Mission environments look strikingly similar to those seen in the film, and all the key dialogue is in there too. Understandably some creative liberties need to be taken for the sake of gameplay, and much like the original GoldenEye 007, there are missions that portrays events not shown in the film. But it always feels coherent, and the briefings make it clear why you’re doing what you’re doing. Not to mention it’s nice to be surprised by something completely new every now and then.
 
-Given that Goldfinger 64 is a community mod, and one that’s had a long and sometimes troubled development. It’s a little rough around the edges in places, but ultimately a very fun and rewarding game that is a welcome addition to the N64’s library two decades later. If you’re a fan of the N64 and GoldenEye 007 (who isn’t?) then you simply must play this game. 
+Goldfinger 64 is a community mod, and one that’s had a long and sometimes troubled development. It’s a little rough around the edges in places, but don't let that put you off. This game captures the essence of what made GoldenEye 007 so great and distils it into a new experience that nevertheless still feels like its own game. If you’re a fan of the N64 and GoldenEye 007 (who isn’t?) then you simply must play this game. 
 
 Visit the [Goldfinger 64 page on GoldenEye Vault](http://goldeneyevault.com/viewfile.php?id=349) to find out more about how you can play it.
 
