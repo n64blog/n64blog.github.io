@@ -17,7 +17,7 @@ Over 20 years since its original release, GoldenEye 007 gets the total conversio
 
 Released earlier this month over at [GoldenEye Vault](http://www.goldeneyevault.com), Goldfinger 64 features an entirely new single-player campaign, complete with objectives, sandbox environments and new music, sound effects and weapons. There’s even a full multiplayer mode containing 11 stages. 
 
-Mods and homebrew games on N64 are far and few between, but this latest mod reminds us that quality always trumps quantity. Developed by a small, albeit dedicated team of enthusiasts headed up by renowned N64 modder SubDrag, it’s good enough to have been an official release during the N64’s heyday. It even runs on original hardware through an EverDrive 64.
+Mods and homebrew games on N64 are far and few between, but this Goldfinger 64 reminds us that quality always trumps quantity. Developed by a small, albeit dedicated team of enthusiasts headed up by renowned N64 modder SubDrag, it’s good enough to have been an official release during the N64’s heyday. It even runs on original hardware through an EverDrive 64.
 
 Goldfinger strikes a good balance between old and new, retaining the core elements that made Rare’s original game so great, while also making its own mark at the same time. There’s an immediate sense of familiarity upon booting up the game, as you’re greeted by the classic Bond intro and the secret-file menu user interface.
 
