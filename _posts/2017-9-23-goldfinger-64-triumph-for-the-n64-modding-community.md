@@ -25,7 +25,7 @@ Goldfinger strikes a good balance between old and new, retaining the core elemen
 
 Each single-player mission comes with its own briefing, as per the original game, featuring dialogue that does a good job of portraying the classic Bond cast they represent. Gameplay is still objective based, and the number of objectives scales with the difficulty setting, providing replay value beyond a single playthrough.
 
-It’s only when you set off that you really start to notice the differences. For example, the environments in Goldfinger 64 are absolutely huge compared to GoldenEye 007 -- so much so that you’ll need an N64 Expansion Pak in order to play the game. It really plays on the sandbox design of the original, providing you with a lot of spaces to explore (many of which may not actually be relevant to the mission).
+It’s only when you set off that you really start to notice the differences. For example, the environments in Goldfinger 64 are absolutely huge compared to GoldenEye 007 -- so much so that you’ll need an N64 Expansion Pak in order to play the game. It really plays on the sandbox theme of the original game, providing you with a lot of spaces to explore (many of which may not actually be relevant to the mission).
 
 Goldfinger 64 reminds you what it was like to play GoldenEye 007 for the first time. After 20 years of playing it time and time again, it all became a routine. Goldfinger’s entirely new setting and design means you yet have have to work out and learn what to do. It’s noticeably cryptic at times, something which will no doubt appeal greatly to diehard fans of the original game.
 
