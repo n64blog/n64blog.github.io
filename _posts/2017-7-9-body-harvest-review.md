@@ -39,7 +39,7 @@ The game will regularly task you with secondary objectives, such as saving peopl
 
 ![Body Harvest N64 map screen](/assets/images/games/body-harvest/body-harvest-n64-map-screen.jpg)
 
-Lose too many humans during a single wave will spawn a super-powered mutant alien that will relentlessly hunt you down until one of you is dead.
+Losing too many humans during a single wave will spawn a super-powered mutant alien that will relentlessly hunt you down until one of you is dead.
 
 The death toll is tracked across all stages in a location via a meter on the HUD, so it's especially important to keep on top of it in the earlier stages. If it completely fills up before you destroy the shield generator, the aliens will automatically win, causing an apocalyptic lightning storm to ravage the land and instantly kill you.
 
