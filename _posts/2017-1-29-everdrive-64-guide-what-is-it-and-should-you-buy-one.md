@@ -85,7 +85,7 @@ You can also use the EverDrive 64 to:
 
 - boot up prototypes of unreleased games (although it’s worth noting that how well these work varies from game to game)
 - play 64DD games without needing the actual 64DD unit
-- play modded N64 games, such as games with changed control configurations, new content, or English-language patches (for Japanese titles).
+- play modded N64 games, such as games with changed control configurations, new content (such as the fantastic [Goldfinger 64](/news/2017/09/23/goldfinger-64-triumph-for-the-n64-modding-community.html), or English-language patches (for Japanese titles such as [Densha de Go! 64](/news/2017/04/03/densha-de-go-64-receives-unofficial-english-language-patch.html)).
 - remove the N64’s notorious anti-aliasing blur through patches
 - play homebrew games
 - play NES games through an emulator
