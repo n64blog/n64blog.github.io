@@ -11,7 +11,7 @@ tags: []
 featured: false
 img: '/assets/images/hardware/controller-pak/nintendo-64-controller-pak-front-and-back.jpg'
 ---
-N64 memory cards weren’t always the most reliable peripheral back in the day, and they’re certainly not getting any better with age. With so many games being dependent on them, today’s N64 gamers have no choice but to take a chance and hope for the best.
+N64 memory cards weren’t always the most reliable peripherals back in the day, and they’re certainly not getting any better with age. With so many games being dependent on them, today’s N64 gamers have no choice but to take a chance and hope for the best.
 
 ![N64 official Controller Pak - front and back](/assets/images/hardware/controller-pak/nintendo-64-controller-pak-front-and-back.jpg)
 
