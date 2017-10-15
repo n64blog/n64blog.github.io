@@ -17,7 +17,7 @@ N64 memory cards weren’t always the most reliable peripherals back in the day,
 
 The primary reason why Controller Paks, both official and third-party models, are becoming increasingly unreliable today is because they are typically powered by an internal CR2032 battery. Over time, these batteries die, preventing the Controller Pak from being able to retain any data.
 
-While it is possible to replace these batteries, it’s not simply a case of popping the back off the Controller Pak and swapping them out. The batteries are typically soldered into place, and so you’ll need to be reasonably proficient with a soldering iron if you want to replace the battery. And even then, this won’t permanently fix the problem.
+While it is possible to replace these batteries, it’s not simply a case of popping the back off the Controller Pak and swapping them out. The batteries are often soldered into place, and so you’ll need to be reasonably proficient with a soldering iron if you want to replace the battery. And even then, this won’t permanently fix the problem.
 
 - [View Nintendo Repair Hut’s Nintendo 64 Controller Pak replacement battery installation guide](https://www.nintendorepairhut.com/images/Nintendo_64_Controller_PAK_Replacement_Battery_Installation_Guide.pdf)
 
