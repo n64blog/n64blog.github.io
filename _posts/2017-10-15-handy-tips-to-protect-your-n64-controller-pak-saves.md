@@ -31,9 +31,10 @@ A lot of third-party companies produced their own N64 memory cards, some of whic
 
 Nintendo’s own Controller Pak isn’t perfect, but the fact that it was designed and produced by the same company that made the N64 console itself is a pretty big indicator that it will work. Of course, if the battery inside it is already dead then it won’t work, so try to buy from a seller who has recently tested it.
 
-## Alternatively... ##
+Alternatively...
 
-Invest in a battery-less modded Controller Pak
+## Invest in a battery-less modded Controller Pak ##
+
 There’s a little-known Controller Pak mod you can either buy or perform yourself that eliminates the need for an internal CR2032 battery.
 
 ![Lithium CR2032 battery, typically found in many N64 Controller Paks](/assets/images/hardware/controller-pak/lithium-cr2032-battery.jpg)
