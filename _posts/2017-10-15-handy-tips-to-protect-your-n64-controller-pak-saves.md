@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-sidebar
 title: "Handy tips to help you protect your N64 Controller Pak saves"
 meta-title: "Handy tips to help you protect your N64 Controller Pak saves"
 meta-description: "N64 Controller Paks aren't the most reliable accessories; read our top tips to reduce the risk of losing your precious game saves."
