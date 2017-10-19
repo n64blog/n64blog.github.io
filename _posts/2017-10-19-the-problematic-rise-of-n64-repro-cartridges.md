@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-sidebar
 title: "The problematic rise of N64 repro cartridges"
 meta-title: "The problematic rise of N64 repro cartridges"
 meta-description: "Repro N64 cartridges are becoming increasingly common. While they have some benefits, they also introduce a slew of problems. And how do you spot a repro cart?"
