@@ -31,7 +31,7 @@ Many sellers on sites such as eBay are cashing in on this by providing repro car
 
 ### They’re compatible with original hardware ###
 
-N64 emulation on PC is very mixed experience in terms of quality, depending on which games you want to play. As a result, playing N64 using an original console is still considered the best way to play.
+N64 emulation on PC is a very mixed experience in terms of quality, depending on which games you want to play. As a result, playing N64 using an original console is still considered the best way to play.
 
 ![A black Nintendo 64 with controller](/assets/post/n64-console-and-controller.jpg)
 
