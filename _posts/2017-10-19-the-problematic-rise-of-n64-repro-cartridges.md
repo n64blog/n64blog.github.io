@@ -39,7 +39,7 @@ N64 repro cartridges are designed to work in the same way as officially released
 
 ### A way to play modded, patched and translated games, as well as previously unreleased titles ###
 
-The N64’s modding and homebrew scene may be very small, but it’s been responsible for producing things such as English translations of Japanese games and full game conversions, such as the recently released Goldfinger 64.
+The N64’s modding and homebrew scene may be very small, but it’s been responsible for producing things such as English translations of Japanese games and full game conversions, such as the recently released [Goldfinger 64](/news/2017/09/23/goldfinger-64-triumph-for-the-n64-modding-community.html).
 
 ![Goldfinger 64 screenshot compilation](/assets/images/games/goldfinger-64/goldfinger-64-screenshot-selection.jpg)
 
