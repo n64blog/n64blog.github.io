@@ -51,7 +51,7 @@ There’s also a wealth of previously unreleased N64 games that have been uncove
 
 ### Lower build quality/lack of quality control ###
 
-N64 repro cartridges are not original N64 games that have been repurposed, although many of them do use original components, such a CIC chip (Checking Integrated Circuit) to get around the N64 console’s lockout capability (which prevents you playing pirated software or games from different regions). The quality of the labels will likely differ too, resulting in a game that may not look quite right.
+N64 repro cartridges are not original N64 games that have been repurposed, although many of them do use original components, such as CIC chips (Checking Integrated Circuit) to get around the N64 console’s lockout capability (which prevents you playing pirated software or games from different regions). The quality of the labels will likely differ too, resulting in a game that may not look quite right.
 
 ![The interior of an N64 cartridge](/assets/post/n64-game-cartridge-interior.jpg)
 
