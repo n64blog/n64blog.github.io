@@ -10,6 +10,8 @@ category: article
 tags: [donkey-kong-64, hydro-thunder, legend-of-zelda-majoras-mask, perfect-dark, pilotwings-64, wave-race-64]
 featured: false
 img: '/assets/post/Termina-postcard.png'
+redirect_to:
+  - http://www.n64today.com
 ---
 Does it feel like a lifetime ago since you last went on a nice beach holiday? Well, fear not, because your N64 has got you covered!
 
