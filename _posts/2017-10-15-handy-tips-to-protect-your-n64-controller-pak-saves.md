@@ -10,6 +10,8 @@ category: article
 tags: []
 featured: false
 img: '/assets/images/hardware/controller-pak/nintendo-64-controller-pak-front-and-back.jpg'
+redirect_to:
+  - http://n64today.com/2017/10/15/protect-n64-controller-pak-saves/
 ---
 N64 memory cards weren’t always the most reliable peripherals back in the day, and they’re certainly not getting any better with age. With so many games being dependent on them, today’s N64 gamers have no choice but to take a chance and hope for the best.
 
@@ -72,4 +74,3 @@ It would be overkill to buy an EverDrive 64 for just this feature -- it’s a pr
 ## Summary ##
 
 There isn’t a way to 100% guarantee you’ll never lose your N64 Controller Pak save data. Nevertheless, the tips we’ve given in this post should help to reduce the likelihood of losing your saves and enable you to continue enjoying Controller Pak-dependent N64 games for the foreseeable future.
-

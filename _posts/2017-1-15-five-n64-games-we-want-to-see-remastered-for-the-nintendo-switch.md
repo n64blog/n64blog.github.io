@@ -10,6 +10,8 @@ category: article
 tags: [1080-snowboarding, f-zero-x, goemons-great-adventure, pilotwings-64, super-mario-64, wave-race-64]
 featured: false
 img: '/assets/post/nintendo-switch-grey-retail-box.jpg'
+redirect_to:
+  - http://n64today.com/2017/09/15/nintendo-switch-n64-games-remakes/
 ---
 This week, Nintendo finally unveiled its next video game system, the Nintendo Switch.
 

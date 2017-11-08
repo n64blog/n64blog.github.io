@@ -13,6 +13,8 @@ category: review
 tags: [star-fox-64]
 featured: false
 img: '/assets/post/star-fox-64-review-hero.jpg'
+redirect_to:
+  - http://n64today.com/2017/04/23/star-fox-64-review/
 ---
 Star Fox 64 garnered praise in 1997 for its cinematic visual quality and for being the first N64 game to provide Rumble Pak support. Has this sheen rubbed off 20 years later? More importantly, is Star Fox 64 still fun to play?
 
@@ -68,4 +70,3 @@ Lastly, we should note that Star Fox 64 includes a multiplayer mode, but it’s 
 Star Fox 64 may no longer be the audiovisual tour de force it was back in 1997, but it’s still an incredibly fun game. It offers a deeper gameplay experience than your typical arcade-style shooter, and the variety of its missions (and the ways in which you can unlock them) make this a joy to play.
 
 If you’re only interested in experiencing the content and are not fussed about trying to get the highest score possible then Star Fox 64 may not hold your attention for very long, especially considering how basic the multiplayer mode is. Play Star Fox 64 as it was intended, however, and you’ll find this to be one of the most rewarding and surprisingly replayable titles on the N64.
-

@@ -10,6 +10,8 @@ category: article
 tags: [super-smash-bros, mario-party, paper-mario, animal-forest]
 featured: false
 img: '/assets/post/animal-forest-header.jpg'
+redirect_to:
+  - http://n64today.com/2017/01/01/nintendo-series-began-n64/
 ---
 The N64 introduced us to a lot of exciting concepts in gaming, such as analog joysticks, rumble packs and four-player splitscreen multiplayer. But did you know that it’s also the birthplace of many popular Nintendo video game series?
 

@@ -10,6 +10,8 @@ category: article
 tags: [densha-de-go-64, donkey-kong-64, harvest-moon-64, paperboy, starcraft-64]
 featured: false
 img: '/assets/post/n64-job-simulators-hero.jpg'
+redirect_to:
+  - http://n64today.com/2017/04/02/n64-simulation-games-like-second-jobs/
 ---
 If you’re the sort of person who enjoys games in which you work for no tangible reward then you’ll love these N64 job simulators.
 

@@ -10,6 +10,8 @@ category: article
 tags: [1080-snowboarding, big-mountain-2000, snowboard-kids, snowboard-kids-2, twisted-edge-extreme-snowboarding]
 featured: false
 img: '/assets/post/n64-snowboarding-games-hero.jpg'
+redirect_to:
+  - http://n64today.com/2017/01/22/n64-snowboarding-games/
 ---
 
 The advent of 3D gaming in the mid to late ‘90s opened up a number of new possibilities in game design. Game developers quickly realised how viable snowboarding games now were thanks to the realistic 3D environments and physics they could create.

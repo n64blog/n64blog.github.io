@@ -10,6 +10,8 @@ category: article
 tags: []
 featured: false
 img: '/assets/post/using-n64-with-hdtv-guide-hero.JPG'
+redirect_to:
+  - http://n64today.com/2017/05/14/n64-wont-connect-to-tv/
 ---
 It’s reassuring to know that so many N64 consoles still work 20 years later. But as TV technology changes, it’s becoming increasingly difficult to find a setup that your trusty N64 will work with.
 
@@ -60,7 +62,7 @@ You can get a converter/upscaler for an affordable price, but you may find that 
 
 #### Does your TV have a game mode? #####
 
-It’s worth checking to see if your TV has a “game mode” option. Many modern HDTVs will have built-in upscaling to present the best possible picture. While this is fine for standard video, it will introduce noticeable lag when it comes to video game consoles. 
+It’s worth checking to see if your TV has a “game mode” option. Many modern HDTVs will have built-in upscaling to present the best possible picture. While this is fine for standard video, it will introduce noticeable lag when it comes to video game consoles.
 
 ### <a name="hasport"></a>My TV has the correct port, but doesn’t display the N64’s video output ###
 

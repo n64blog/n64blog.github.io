@@ -10,12 +10,14 @@ category: news
 tags: [goldeneye-007]
 featured: false
 img: '/assets/images/games/goldfinger-64/goldfinger-64-screenshot-selection.jpg'
+redirect_to:
+  - http://n64today.com/2017/09/23/goldfinger-64-mod-n64/
 ---
 Over 20 years since its original release, GoldenEye 007 gets the total conversion mod treatment, resulting in a brand new game that feels both fresh and nostalgic at the same time.
 
 ![Highlights from GoldFinger 64 for the Nintendo 64](/assets/images/games/goldfinger-64/goldfinger-64-screenshot-selection.jpg)
 
-Released earlier this month over at [GoldenEye Vault](http://www.goldeneyevault.com), Goldfinger 64 features an entirely new single-player campaign, complete with objectives, sandbox environments and new music, sound effects and weapons. There’s even a full multiplayer mode containing 11 stages. 
+Released earlier this month over at [GoldenEye Vault](http://www.goldeneyevault.com), Goldfinger 64 features an entirely new single-player campaign, complete with objectives, sandbox environments and new music, sound effects and weapons. There’s even a full multiplayer mode containing 11 stages.
 
 Mods and homebrew games on N64 are far and few between, but this Goldfinger 64 reminds us that quality always trumps quantity. Developed by a small, albeit dedicated team of enthusiasts headed up by renowned N64 modder SubDrag, it’s good enough to have been an official release during the N64’s heyday. It even runs on original hardware through an EverDrive 64.
 
@@ -33,10 +35,10 @@ Goldfinger 64 reminds you what it was like to play GoldenEye 007 for the first t
 
 It’s clear that a lot of time, love and attention has gone into ensuring Goldfinger 64 recreates the film on which it’s based. Mission environments look strikingly similar to those seen in the film, and all the key dialogue is in there too. Understandably some creative liberties need to be taken for the sake of gameplay, and much like the original GoldenEye 007, there are missions that portrays events not shown in the film. But it always feels coherent, and the briefings make it clear why you’re doing what you’re doing. Not to mention it’s nice to be surprised by something completely new every now and then.
 
-Goldfinger 64 is a community mod, and one that’s had a long and sometimes troubled development. It’s a little rough around the edges in places, but don't let that put you off. This game captures the essence of what made GoldenEye 007 so great and distils it into a new experience that nevertheless still feels like its own game. If you’re a fan of the N64 and GoldenEye 007 (who isn’t?) then you simply must play this game. 
+Goldfinger 64 is a community mod, and one that’s had a long and sometimes troubled development. It’s a little rough around the edges in places, but don't let that put you off. This game captures the essence of what made GoldenEye 007 so great and distils it into a new experience that nevertheless still feels like its own game. If you’re a fan of the N64 and GoldenEye 007 (who isn’t?) then you simply must play this game.
 
 Visit the [Goldfinger 64 page on GoldenEye Vault](http://goldeneyevault.com/viewfile.php?id=349) to find out more about how you can play it.
 
-## Played Goldfinger 64 already? ## 
+## Played Goldfinger 64 already? ##
 
 How did you find it? Let us know on [Twitter](http://www.twitter.com/n64gamers) what you think of it!

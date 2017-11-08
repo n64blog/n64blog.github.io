@@ -9,6 +9,8 @@ date: 2016-6-23 14:00:00 +0100
 category: article
 tags: [goldeneye-007, legend-of-zelda-ocarina-of-time, pilotwings-64, star-wars-rogue-squadron, super-mario-64]
 featured: false
+redirect_to:
+  - http://n64today.com
 ---
 The Nintendo 64 is now over 20 years old, but the impact that Nintendo's first fully 3D video game console had on the industry is still felt today.
 

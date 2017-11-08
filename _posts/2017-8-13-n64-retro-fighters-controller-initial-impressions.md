@@ -10,6 +10,8 @@ category: article
 tags: []
 featured: false
 img: 'https://ksr-ugc.imgix.net/assets/017/668/209/1f84a3c29d813be6e7db99b293789eca_original.jpg?w=680&fit=max&v=1501100802&auto=format&q=92&s=7d2375071dd4cc3d39fce2ff10a4ff5c'
+redirect_to:
+  - http://n64today.com/2017/08/13/n64-retro-fighters-controller-initial-impressions/
 ---
 The overwhelmingly positive reaction to Retro Fighters’ [recent Kickstarter campaign to produce a new type of N64 controller](https://www.kickstarter.com/projects/1247448559/next-gen-n64-nintendo-64-controller) highlights once again the huge demand for a reliable, aftermarket joypad. Will the N64 Retro Fighters Controller finally provide the ideal solution N64 gamers have been crying out for?
 

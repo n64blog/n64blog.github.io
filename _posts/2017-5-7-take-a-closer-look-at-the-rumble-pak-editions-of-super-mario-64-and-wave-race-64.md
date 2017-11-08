@@ -10,6 +10,8 @@ category: article
 tags: [star-fox-64, super-mario-64, wave-race-64]
 featured: false
 img: '/assets/images/hardware/game-boxes/super-mario-64-and-wave-race-64-rumble-pak-editions.jpg'
+redirect_to:
+  - http://n64today.com/2017/04/30/super-mario-64-shindou-wace-race-64/
 ---
 Following the success of Star Fox 64 and the N64 Rumble Pak, Nintendo released revised versions of Super Mario 64 and Wave Race 64 to further showcase its force-feedback accessory.
 

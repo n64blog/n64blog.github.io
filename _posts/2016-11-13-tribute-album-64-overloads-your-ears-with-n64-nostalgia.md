@@ -10,6 +10,8 @@ category: news
 tags: [cruisn-world, super-mario-64, legend-of-zelda-ocarina-of-time, buck-bumble]
 featured: false
 img: '/assets/post/tribute-album-64-header.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 Over 200 musicians from around the world have teamed up to produce Tribute Album 64, an incredible compilation of 87 N64 game covers.
 

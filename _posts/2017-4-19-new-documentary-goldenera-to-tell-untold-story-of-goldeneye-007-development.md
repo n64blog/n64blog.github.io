@@ -10,6 +10,8 @@ category: news
 tags: [goldeneye-007]
 featured: false
 img: '/assets/post/goldeneye-007-n64-promo-art.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 Rollercoaster Films, the company behind GoldenEra, has launched an Indiegogo campaign to crowdfund the documentary, offering a selection of GoldenEye 007-themed rewards for backers.
 

@@ -10,6 +10,8 @@ category: news
 tags: [super-mario-64, legend-of-zelda-ocarina-of-time]
 featured: false
 img: '/assets/post/n64-console-and-controller.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 Gaming retailer GameStop recently conducted a survey of its loyalty programme members, asking them which retro consoles they’re most interested in. Understandably, Nintendo systems ranked highly, but the one that came out above all the rest in first position -- quite surprisingly -- was the N64.
 

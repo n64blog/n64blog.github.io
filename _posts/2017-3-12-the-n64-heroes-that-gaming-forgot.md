@@ -10,6 +10,8 @@ category: article
 tags: [banjo-kazooie, body-harvest, chameleon-twist, chameleon-twist-2, goemons-great-adventure, mischief-makers, mystical-ninja-starring-goemon, rocket-robot-on-wheels, super-mario-64]
 featured: false
 img: '/assets/post/forgotten-n64-heroes-hero.jpg'
+redirect_to:
+  - http://n64today.com/2017/03/12/forgotten-n64-heroes/
 ---
 The N64 gave us a lot of fun-filled adventures with loveable, memorable characters. It also gave us games with protagonists who've since been long forgotten.
 
@@ -58,7 +60,7 @@ Ultimately, Goemon got lost in translation -- the series’ inherently Japanese 
 A board game spin-off, Goemon: Mononoke Sugoroku, was released exclusively for the N64 in Japan, and the series has continued in its homeland (somewhat), but the chances of us seeing Goemon in the West again are looking slim.
 
 ## Marina (Mischief Makers) ##
-A robotic maid that grabs and shakes objects isn’t your typical template for a game protagonist (although it’s a worrying fit for a seedier medium in hindsight). 
+A robotic maid that grabs and shakes objects isn’t your typical template for a game protagonist (although it’s a worrying fit for a seedier medium in hindsight).
 
 ![Marina from Mischief Makers for the Nintendo 64](/assets/images/games/mischief-makers/mischief-makers-n64-marina-intro.jpg)
 

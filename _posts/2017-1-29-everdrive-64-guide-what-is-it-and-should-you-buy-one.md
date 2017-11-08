@@ -10,6 +10,8 @@ category: article
 tags: []
 featured: false
 img: '/assets/post/everdrive-64-in-n64-hero.jpg'
+redirect_to:
+  - http://n64today.com/2017/01/29/everdrive-64-guide/
 ---
 The glory days of the N64 may now seem like a distant memory, but there are still some companies out there supporting it -- at least in terms of hardware and accessories.
 
@@ -21,9 +23,9 @@ That’s why we’re taking a closer look this week at the EverDrive 64. It’s 
 
 ## What is the EverDrive 64? ##
 
-The EverDrive 64 is a flashcart: a bespoke N64 cartridge that has a built-in SD memory card slot. It was created by Igor “Krikzz” Golubovskiy in 2009. 
+The EverDrive 64 is a flashcart: a bespoke N64 cartridge that has a built-in SD memory card slot. It was created by Igor “Krikzz” Golubovskiy in 2009.
 
-## What does it do?## 
+## What does it do?##
 
 Using the SD memory card slot, you can load N64 game files (ROMs) onto the EverDrive 64 and play them on an N64 console. This way, you no longer need the original N64 cartridge to play the game, and you can play multiple games through just the EverDrive 64. It currently comes into two versions: V2.5 and V3 (although you may find older versions on eBay).
 
@@ -75,7 +77,7 @@ With an EverDrive 64 you can play the system while keeping your collection on di
 
 The N64 was a complex system, and not all of its games can currently be emulated accurately on a PC. Because the EverDrive 64 enables you to play these games on an original N64, they run just as they did back in the day.
 
-## What else can the EverDrive 64 do? ## 
+## What else can the EverDrive 64 do? ##
 
 The EverDrive 64 isn’t region-locked, meaning that you can play Japanese (NTSC-J), North American (NTSC) and European/Australian (PAL) ROMs through it on any system. Over 80 N64 games were only ever released in Japan, so there’s a good chance there are a lot of titles you’ve never played.
 
@@ -91,7 +93,7 @@ You can also use the EverDrive 64 to:
 - play NES games through an emulator
 - use GameShark cheat codes.
 
-## What's the difference between V2.5 and V3? ## 
+## What's the difference between V2.5 and V3? ##
 
 The V3 is the latest version of the EverDrive 64 and has a few additional features. With the V2.5, you have to reset your N64 system in order to save your game data; you don’t need to do this with the V3.
 
@@ -114,4 +116,3 @@ We feel that the EverDrive 64 is a way to help futureproof your N64. So long as 
 ## And what about you? ##
 
 Do you have an EverDrive 64? If so, what do you think of it? Let us know on [Twitter](www.n64gamers.com)!
-

@@ -10,6 +10,8 @@ category: news
 tags: [turok-dinosaur-hunter, turok-2-seeds-of-evil, turok-rage-wars]
 featured: false
 img: '/assets/post/turok-dinosaur-hunter-n64-game-artwork.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 After 20 years, Darren Mitchell, the composer of Turok: Dinosaur Hunter, has for the very first time released his personal CD of the game’s soundtrack for purchase.
 

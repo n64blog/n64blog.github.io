@@ -8,6 +8,8 @@ category: article
 tags: [star-wars-shadows-of-the-empire]
 featured: false
 img: '/assets/post/star-wars-shadows-of-the-empire-artwork.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 As the N64's first Star Wars game, Star Wars: Shadows of the Empire superbly showcased the adventure and action of the film saga  through varied gameplay and detailed 3D environments.
 

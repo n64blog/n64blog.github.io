@@ -10,6 +10,8 @@ category: article
 tags: [diddy-kong-racing, gauntlet-legends, goemons-great-adventure, mario-kart-64, perfect-dark]
 featured: false
 img: '/assets/post/goemons-great-adventure-hero.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 Who needs a dozen red roses or a fancy box of chocolates when you can spend Valentine’s Day playing classic N64 games with your significant other?
 
@@ -106,5 +108,3 @@ There is one slight snag though; the game is entirely in Japanese, and it’s in
 ## Tell us your plans ##
 
 Will you be spending Valentine's Day this year with your N64? Let us know on [Twitter](www.twitter.com/n64gamers).
-
-

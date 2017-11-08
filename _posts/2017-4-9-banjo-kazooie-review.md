@@ -13,6 +13,8 @@ category: review
 tags: [banjo-kazooie]
 featured: false
 img: '/assets/post/banjo-kazooie-n64-review-hero.jpg'
+redirect_to:
+  - http://n64today.com/2017/04/09/banjo-kazooie-review/
 ---
 
 From the moment you boot up Banjo-Kazooie and are greeted by its endearing musical intro, it’s clear that you’re in for a wonderful experience.

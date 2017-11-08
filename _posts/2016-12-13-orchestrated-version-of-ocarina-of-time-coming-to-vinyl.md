@@ -10,6 +10,8 @@ category: news
 tags: [legend-of-zelda-ocarina-of-time]
 featured: false
 img: '/assets/post/legend-of-zelda-ocarina-of-time-artwork.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 This newly recorded licensed version by the 64-piece Slovak National Symphony Orchestra uses Koji Kondo’s original score and is published by iam8bit and Materia Collective. It will be released as a two-disc vinyl LP titled “Hero of Time”.
 

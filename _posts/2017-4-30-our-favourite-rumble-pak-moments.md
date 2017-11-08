@@ -10,6 +10,8 @@ category: article
 tags: [goldeneye-007, legend-of-zelda-ocarina-of-time, legend-of-zelda-majoras-mask, star-fox-64, super-smash-bros]
 featured: false
 img: '/assets/images/hardware/rumble-pak/n64-rumble-pak-in-controller.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 Rumble functionality is something that we gamers take for granted nowadays, but back in the N64’s heyday it felt like a revolution.
 

@@ -8,6 +8,8 @@ category: article
 tags: [star-wars-shadows-of-the-empire]
 featured: false
 img: '/assets/post/star-wars-shadows-of-the-empire-artwork.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 Dash Rendar may be a minor character in the Star Wars universe, but he sure seems to get up to an awful lot on his adventures. As a result, Star Wars: Shadows of the Empire, the N64 game in which he stars, delivers the sort of variety and action you’d expect from a Star Wars film.
 

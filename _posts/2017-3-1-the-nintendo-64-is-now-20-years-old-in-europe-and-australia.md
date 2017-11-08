@@ -10,16 +10,18 @@ category: article
 tags: [airboarder-64, centre-court-tennis, f-1-world-grand-prix-ii, f-zero-x, f1-racing-championship, fifa-soccer-64, pilotwings-64, premier-manager-64, rakugakids, snowboard-kids-2, starcraft-64, star-wars-shadows-of-the-empire, super-mario-64, taz-express, turok-dinosaur-hunter, wave-race-64, wayne-gretzkys-3d-hockey]
 featured: false
 img: '/assets/post/n64-console-and-controller.jpg'
+redirect_to:
+  - http://n64today.com/2017/03/05/darren-mitchell-interview-turok/
 ---
 On 1 March 1997, gamers in Europe and Australia were finally able to get their hands on the Nintendo 64 after what had felt like an eternity.
 
 ![N64 console with controller](/assets/post/n64-console-and-controller.jpg)
 
-Japanese and North American gamers had gotten their hands on the system in June and September the prior year. And while social media may not have been around back then, extensive coverage in game magazines nevertheless reminded those of us in Europe and Australia that we were definitely missing out. 
+Japanese and North American gamers had gotten their hands on the system in June and September the prior year. And while social media may not have been around back then, extensive coverage in game magazines nevertheless reminded those of us in Europe and Australia that we were definitely missing out.
 
 ## The European and Australian launches ##
 
-Despite the wait, the European/Australian launch line-up did at least have a larger selection of day one games to choose from. 
+Despite the wait, the European/Australian launch line-up did at least have a larger selection of day one games to choose from.
 
 ![Dash Rendar in Star Wars: Shadows of the Empire for N64](/assets/images/games/star-wars-shadows-of-the-empire/star-wars-shadows-of-the-empire-n64-dash-rendar.jpg)
 

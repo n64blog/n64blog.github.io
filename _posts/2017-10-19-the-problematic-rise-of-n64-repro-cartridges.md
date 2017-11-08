@@ -10,6 +10,8 @@ category: article
 tags: []
 featured: false
 img: '/assets/post/n64-game-cartridge-interior.jpg'
+redirect_to:
+  - http://n64today.com/2017/10/19/n64-repro-cartridges-problematic-rise/
 ---
 Bootleg N64 games were very much a rarity during the N64’s prime. In recent years, however, repro cartridges have become increasingly common, resulting in a number of benefits and problems for those who collect and play N64 games.
 

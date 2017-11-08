@@ -10,6 +10,8 @@ category: news
 tags: [star-fox-64]
 featured: false
 img: '/assets/post/star-fox-64-promo-artwork.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 Released in Japan on 27 April 1997, Star Fox 64 delivered an immersive cinematic experience, and Nintendo heavily marketed it as such.
 
