@@ -6,6 +6,8 @@ meta-description: "We take a straightforward approach when it comes to our N64 g
 meta-keyword: "n64 game reviews, n64 reviews, nintendo 64 reviews, nintendo 64 game reviews"
 author: "Martin Watts"
 date: 2017-3-5 10:00:00 +0100
+redirect_to:
+  - http://n64today.com/category/reviews/
 ---
 
 Reviewing old games in a modern context isn’t an easy task.
