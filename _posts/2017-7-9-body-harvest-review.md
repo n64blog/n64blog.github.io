@@ -13,6 +13,8 @@ category: review
 tags: [body-harvest]
 featured: false
 img: '/assets/post/body-harvest-n64-review-hero.jpg'
+redirect_to:
+  - http://n64today.com/2017/07/09/body-harvest-review/
 ---
 
 Featuring a novel gameplay concept and large open-world environments,  there's nothing else quite like Body Harvest in the N64's software library.
@@ -59,7 +61,7 @@ This is further exacerbated by the way the game handles. The controls feel respo
 
 ![Fighting aliens in the hovercraft vehicle in Body Harvest for N64.](/assets/images/games/body-harvest/body-harvest-n64-alien-comet-hovercraft.jpg)
 
-Then there's the terrain itself, which at times is confoundingly difficult to traverse. Exploring off the beaten path is often far too treacherous because the way Adam interacts with the terrain is often unpredictable and inconsistent. In some instances you'll walk up a small hill with ease; other times you won't be able to. 
+Then there's the terrain itself, which at times is confoundingly difficult to traverse. Exploring off the beaten path is often far too treacherous because the way Adam interacts with the terrain is often unpredictable and inconsistent. In some instances you'll walk up a small hill with ease; other times you won't be able to.
 
 As a result, it's all too easy to inadvertently slip off a cliff into a pool of water (Adam's swimming ability is incredibly limited) and die. If you're lucky, you'll only end up a bit out of the way and losing a bit of time, although that's not ideal when you need to deal with an active harvester wave. Disembarking from a vehicle also carries risks, as Adam is sometimes flung in an unexpected direction -- not ideal when on thin paths.
 

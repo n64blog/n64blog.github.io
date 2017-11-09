@@ -10,6 +10,8 @@ category: article
 tags: [banjo-kazooie, super-mario-64, legend-of-zelda-ocarina-of-time, perfect-dark]
 featured: false
 img: '/assets/post/banjo-kazooie-xbox-360-musical-intro.png'
+redirect_to:
+  - http://n64today.com/2017/02/05/banjo-kazooie-xbox-360-definitive-version/
 ---
 Banjo-Kazooie is a timeless N64 game that didn’t need remastering. Nevertheless, Rare’s 2008 re-release is proof that you can make an already great game even greater with the right approach.
 
@@ -45,7 +47,7 @@ The re-release’s enhanced visuals aren’t groundbreakingly different, but the
 
 ![Freezeezy Peak from Banjo-Kazooie (Xbox 360 version)](/assets/post/banjo-kazooie-xbox-360-freezeezy-peak.png)
 
-The fact that the Xbox 360 version haven’t been drastically overhauled from a visual standpoint goes to show just how well the original graphics have aged. I’ve been playing the N64 version in tandem with my Xbox One game -- mainly so I can refresh my memory ahead of the stream, but also because I don’t have a game save on my [EverDrive 64](/article/2017/01/29/everdrive-64-guide-what-is-it-and-should-you-buy-one.html) cartridge yet -- and it’s remarkable how well it holds up against the newer edition. Of course, I should mention that I’m playing it on a CRT TV using an RGB-modded N64; plug that system into an LCD TV and suddenly it’s a stretched, blurry and dull mess. 
+The fact that the Xbox 360 version haven’t been drastically overhauled from a visual standpoint goes to show just how well the original graphics have aged. I’ve been playing the N64 version in tandem with my Xbox One game -- mainly so I can refresh my memory ahead of the stream, but also because I don’t have a game save on my [EverDrive 64](/article/2017/01/29/everdrive-64-guide-what-is-it-and-should-you-buy-one.html) cartridge yet -- and it’s remarkable how well it holds up against the newer edition. Of course, I should mention that I’m playing it on a CRT TV using an RGB-modded N64; plug that system into an LCD TV and suddenly it’s a stretched, blurry and dull mess.
 
 If you’re not used to the blocky, low-poly visuals of early 3D games, then you may think that Banjo-Kazooie looks primitive, especially when you compare it alongside modern games. That said, the colourful and vibrant cartoon-style visuals have certainly aged much better than virtually all of the N64’s more “realistic” offerings.
 

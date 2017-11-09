@@ -10,6 +10,8 @@ category: article
 tags: [banjo-kazooie, donkey-kong-64]
 featured: false
 img: '/assets/post/yooka-laylee-hero.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 Playtonic Games’ 3D platforming revival has all the charm and style -- and even some of the flaws -- of the N64 classics that inspired it. If you still play your N64 on a regular basis, then there’s a good chance you’ll have a greater appreciation of Yooka-Laylee than most.
 

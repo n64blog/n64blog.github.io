@@ -10,6 +10,8 @@ category: article
 tags: [star-wars-rogue-squadron]
 featured: false
 img: '/assets/post/star-wars-rogue-squadron-n64-game-over.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 **May the Force be with you -- because you’re gonna need it to have any hope of beating many of Star Wars: Rogue Squadron’s tougher missions.**
 

@@ -10,6 +10,8 @@ category: review
 tags: [banjo-kazooie, goemons-great-adventure, goldeneye-007, mario-party, perfect-dark, star-fox-64, star-wars-episode-1-battle-for-naboo, star-wars-rogue-squadron, super-mario-64]
 featured: false
 img: '/assets/images/hardware/n64-hori-mini-pad-front.jpg'
+redirect_to:
+  - http://n64today.com/2017/05/22/n64-hori-mini-pad-review/
 ---
 The N64 Hori Mini Pad is considered to be the holy grail of N64 controllers by many enthusiasts, but does it really live up to its reputation?
 

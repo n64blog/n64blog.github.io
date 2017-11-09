@@ -10,6 +10,8 @@ category: article
 tags: [gauntlet-legends]
 featured: false
 img: '/assets/post/discovering-the-hidden-depth-of-gauntlet-legends-hero.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 Gauntlet Legends’ arcade origins may give you the impression that it’s just another simplistic hack ‘n’ slash game, but there’s more to this adventure than you might think.
 
@@ -19,7 +21,7 @@ Ported from the arcade to the N64 in 1999, Gauntlet Legends was an ideal fit for
 
 But back in the day there would’ve been good reason to be skeptical about Gauntlet Legends’ quality. Midway Games was already well and truly in the habit of porting across arcade games to the N64, having released Cruis’n USA and Rampage World Tour in 1996 and 1998 respectively.
 
-Cruis’n USA proved to be a considerably downgraded experience compared to the original version, while Rampage World Tour (which is good mindless fun to be fair) is clearly a lazy port with free play turned on, thus removing any semblance of challenge. This isn’t the case when it comes to Gauntlet Legends. You could play this game having never known of its arcade origins beforehand and still be none the wiser. 
+Cruis’n USA proved to be a considerably downgraded experience compared to the original version, while Rampage World Tour (which is good mindless fun to be fair) is clearly a lazy port with free play turned on, thus removing any semblance of challenge. This isn’t the case when it comes to Gauntlet Legends. You could play this game having never known of its arcade origins beforehand and still be none the wiser.
 
 ## Enter the Gauntlet ##
 
@@ -84,4 +86,3 @@ The rewards are worth your time and effort though. This is primarily because you
 ![Four players teaming up in Gauntlet Legends for N64](/assets/images/games/gauntlet-legends/gauntlet-legends-n64-four-player.jpg)
 
 Gauntlet Legends is an accessible game that both veteran and novice gamers can enjoy. But don’t let that fool you into thinking that this game is a mindless trudge in which you just spam the attack button. When it comes to the combat, you’ll need to make tactical decisions about when you use special attacks and power-ups, and ensure you’re fully prepared before going into battle. Playing with friends provides more opportunities for tactical play, so get some mates round, form a party and go hunt some demons!
-

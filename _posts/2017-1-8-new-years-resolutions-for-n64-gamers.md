@@ -10,10 +10,12 @@ category: article
 tags: [banjo-kazooie, diddy-kong-racing, donkey-kong-64, goldeneye-007, legend-of-zelda-ocarina-of-time, perfect-dark, snowboard kids, space-station-silicon-valley, super-mario-64, wetrix]
 featured: false
 img: '/assets/post/nintendo-64-controller-in-hands.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 More than two decades may have passed since Mario first graced our tiny CRT TV screens in glorious 3D, but there are still plenty of people out there enjoying the N64.
 
-It’s easy to understand why: the N64 has a lot of great games that are always worth coming back to. But in 2017 (and every year in fact), we think it’s important to try something different when it comes to the N64. 
+It’s easy to understand why: the N64 has a lot of great games that are always worth coming back to. But in 2017 (and every year in fact), we think it’s important to try something different when it comes to the N64.
 
 That’s why we’ve come up with a list of New Year’s resolutions for all N64 gamers. Feel free to give these a go or, better yet, come up with your own resolutions and share them with us on [Twitter](www.twitter.com/N64Gamers).
 

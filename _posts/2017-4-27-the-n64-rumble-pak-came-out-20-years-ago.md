@@ -10,6 +10,8 @@ category: news
 tags: [legend-of-zelda-majoras-mask, legend-of-zelda-ocarina-of-time, star-fox-64]
 featured: false
 img: '/assets/images/hardware/rumble-pak/n64-rumble-pak.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 Nintendo’s force-feedback peripheral not only gave gamers a new level of immersion, but shook up the entire industry.
 

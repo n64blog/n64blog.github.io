@@ -10,6 +10,8 @@ category: article
 tags: [star-wars-rogue-squadron]
 featured: false
 img: '/assets/post/star-wars-rogue-squadron-n64-naboo-starfighter-tatooine.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 Star Wars: Rogue Squadron achieved a great deal of things. It was one of the first games to use the N64’s Expansion Pak add-on and, as a result, is one of the most visually stunning on the system. It features high-quality, interactive surround sound thanks to Factor 5’s MOsys FX tool. And, of course, it’s also an exceptionally fun game that delivers an authentic Star Wars experience.
 
@@ -40,7 +42,7 @@ But there was still the issue of cheat cartridges possibly unveiling it. To comb
 
 More than six months after the game’s release, LucasArts revealed the code needed to unlock the Naboo starfighter to the games press on 16 July 1999, which was actually a month after The Phantom Menace released in cinemas.
 
-## How do I unlock the Naboo starfighter? 
+## How do I unlock the Naboo starfighter?
 
 From Rogue Squadron’s title screen, go to the Options menu and select Passcodes. Then enter HALIFAX? using the character select wheel and then select Enter Code. When you do this, you will hear R2-D2 make a sound that suggests the code hasn’t worked -- ignore this, it’s a trap! Now enter !YNGWIE! and select Enter Code again. You’ll hear the same rejection sound, but if you go to the vehicle select screen in one of your save files, you’ll now see the Naboo starfighter to the left of the X-wing.
 

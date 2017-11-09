@@ -10,6 +10,8 @@ category: article
 tags: [banjo-kazooie, super-mario-64, super-smash-bros]
 featured: false
 img: '/assets/post/nintendo-64-games.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 Whether you’re a hardcore N64 enthusiast or a retro gamer who has an appreciation for a couple of the system’s games, there’s usually one item that stands out above the rest for some reason.
 
@@ -59,7 +61,7 @@ It was like completing a childhood goal for G when he finally managed to get hol
 
 ## Tom Charnock ([@TomLeeCee](http://www.twitter.com/TomLeeCee)) ##
 
-Retro game extraordinaire Tom Charnock was quick to respond to our question with what we feel is one of the best things you can buy for your N64: the EverDrive 64. If you’re not sure what it is, then the EverDrive 64 is a cartridge that enables you to load multiple games on it (you can find out more in our [recent EverDrive 64 guide](/article/2017/01/29/everdrive-64-guide-what-is-it-and-should-you-buy-one.html). 
+Retro game extraordinaire Tom Charnock was quick to respond to our question with what we feel is one of the best things you can buy for your N64: the EverDrive 64. If you’re not sure what it is, then the EverDrive 64 is a cartridge that enables you to load multiple games on it (you can find out more in our [recent EverDrive 64 guide](/article/2017/01/29/everdrive-64-guide-what-is-it-and-should-you-buy-one.html).
 
 Tom bought his EverDrive 64 back in 2013. “It was quite expensive, and I recall pestering the guy who supplies the EverDrives as I had to wait several months to receive it.” Little did Tom know that the creator, krikzz, was still making each cartridge by hand at that time!
 

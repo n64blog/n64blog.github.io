@@ -10,6 +10,8 @@ category: article
 tags: [star-wars-rogue-squadron]
 featured: false
 img: '/assets/post/star-wars-rogue-squadron-n64-artwork.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 Star Wars: Rogue Squadron is renowned for pushing the N64 to its technical limits with its stunning visuals and impressive audio. But it's also an immensely fun game that's remarkably replayable despite its short length.
 
@@ -33,7 +35,7 @@ In terms of gameplay, Rogue Squadron is an action-shooter game that’s relative
 
 ![Battle above Taloraan with an A-wing and blockade runner ship in Rogue Squadron N64.](/assets/post/star-wars-rogue-squadron-n64-battle-above-taloraan-blockade-runner.jpg)
 
-The development of Rogue Squadron was influenced by Star Wars: Shadows of the Empire -- in particular, the Battle of Hoth snowspeeder level -- which had released two years earlier for the N64. LucasArts brought in Factor 5 as a co-developer; the two companies had previously worked together on Indiana Jones’ Greatest Adventures and Star Wars: Rebel Assault II. 
+The development of Rogue Squadron was influenced by Star Wars: Shadows of the Empire -- in particular, the Battle of Hoth snowspeeder level -- which had released two years earlier for the N64. LucasArts brought in Factor 5 as a co-developer; the two companies had previously worked together on Indiana Jones’ Greatest Adventures and Star Wars: Rebel Assault II.
 
 Factor 5 developed a remarkable technical understanding of the N64’s inner workings, enabling it to deliver remarkable graphics and sound for the time, despite the system’s limitations. What’s truly astounding is that the entire game was released on a mere 16MB cartridge, which is all the more impressive when you factor in that it features over 80 minutes of recorded dialogue. It’s also worth noting that Rogue Squadron is renowned for having one of the [best hidden secrets in an N64 game](/article/2016/12/30/star-wars-rogue-squadron-best-kept-secret.html).
 

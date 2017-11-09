@@ -10,6 +10,8 @@ category: news
 tags: [turok-dinosaur-hunter, turok-2-seeds-of-evil, turok-3-shadow-of-oblivion, turok-rage-wars]
 featured: false
 img: '/assets/post/turok-dinosaur-hunter-n64-game-artwork.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 
 On 4 March 1997, Acclaim's first N64 game was launched,  signalling the birth of one of the N64's most iconic third-party game franchises.

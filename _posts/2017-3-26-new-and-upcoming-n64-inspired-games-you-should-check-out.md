@@ -10,6 +10,8 @@ category: article
 tags: [banjo-kazooie, conkers-bad-fur-day, diddy-kong-racing, goldeneye-007, super-mario-64]
 featured: false
 img: 'assets/post/a-hat-in-time-scooter.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 The N64 may have gone the way of the dodo, but its spirit can still be found in these 2017 games.
 

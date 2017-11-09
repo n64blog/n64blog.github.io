@@ -10,6 +10,8 @@ category: news
 tags: [super-mario-64, bomberman-64, banjo-kazooie, mario-party-3, diddy-kong-racing]
 featured: false
 img: '/assets/post/banjo-kazooie-xbla-freezeezy-peak-snowman.jpg'
+redirect_to:
+  - http://n64today.com
 ---
 **It’s once again the time of year to be festive and merry, consume too much turkey, and have one glass too many of Grandma’s sherry. If you’re a long-time N64 fan, then it may also be the perfect chance for you to once again dominate your family and friends in a GoldenEye 007 deathmatch.**
 
