@@ -20,6 +20,8 @@ transfer: no
 tags: [super-smash-bros]
 aka: ""
 boxart: super-smash-bros.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Universes collide as famous Nintendo characters do away with their kiddy image and engage in some hard-hitting fisticuffs.
