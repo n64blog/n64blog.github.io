@@ -20,6 +20,8 @@ transfer: no
 tags: [star-wars-shadows-of-the-empire]
 aka: ""
 boxart: star-wars-shadows-of-the-empire.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Set in between The Empire Strikes Back and Return of the Jedi, Star Wars: Shadows of the Empire follows the exploits of Dash Rendar as he battles the Galactic Empire.
