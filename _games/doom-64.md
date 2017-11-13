@@ -20,6 +20,11 @@ transfer: no
 tags: [doom-64]
 aka: ""
 boxart: doom-64.jpg
+redirect_to:
+  - http://n64today.com/2017/10/31/doom-64-review/
 ---
 
-id Software's seminal first-person shooter series made its way to the N64 in 1997 as a spin-off sequel with different features.  Doom 64 is set after the events of Doom and Doom II. Despite the best efforts of the unnamed marine in the first two games, an evil creature has resurrected all the monsters that had previously been killed. Now you have to go through 32 new levels, putting an end to them once and for all. 
+id Software's seminal first-person shooter series made its way to the N64 in 1997 as a spin-off sequel with different features.
+ 
+ Doom 64 is set after the events of Doom and Doom II. Despite the best efforts of the unnamed marine in the first two games, an evil creature has resurrected all the monsters that had previously been killed. Now you have to go through 32 new levels, putting an end to them once and for all.
+ 
