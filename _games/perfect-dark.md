@@ -20,6 +20,8 @@ transfer: no
 tags: [perfect-dark]
 aka: ""
 boxart: perfect-dark.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Rare's spiritual successor to GoldenEye 007 took everything that was great about James Bond's N64 adventure and built on it to deliver one of the most technically advanced and content-rich games on the system. It's fair to say that Perfect Dark outclasses GoldenEye 007 in virtually every area except for the theme.
