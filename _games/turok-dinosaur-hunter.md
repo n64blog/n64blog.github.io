@@ -20,6 +20,8 @@ transfer: no
 tags: [turok-dinosaur-hunter]
 aka: ""
 boxart: turok-dinosaur-hunter.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Acclaim Entertainment’s first game for the N64 was also one of its most significant for a number of reasons.
