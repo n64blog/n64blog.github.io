@@ -20,6 +20,8 @@ transfer: no
 tags: [rat-attack]
 aka: ""
 boxart: rat-attack.jpg
+redirect_to:
+  - http://n64today.com
 ---
 Despite its novel action-puzzle twist on vermin control, Rat Attack! was ignored and forgotten by the vast majority of N64 owners.
 
