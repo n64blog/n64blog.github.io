@@ -20,6 +20,8 @@ transfer: no
 tags: [gauntlet-legends]
 aka: ""
 boxart: gauntlet-legends.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 First released in arcades in 1998, Gauntlet Legends came to the N64 a year later, bringing its signature four-player, hack 'n' slash gameplay with it.
