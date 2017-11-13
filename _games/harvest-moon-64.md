@@ -20,6 +20,8 @@ transfer: no
 tags: [harvest-moon-64]
 aka: ""
 boxart: harvest-moon-64.jpg
+redirect_to:
+  - http://n64today.com
 ---
 Your late grandfather has left his farm to you. Now, it’s up to you to get it back up and running, and take on his responsibilities to the local village.
 
