@@ -20,6 +20,8 @@ transfer: no
 tags: [snowboard-kids-2]
 aka: ""
 boxart: snowboard-kids-2.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Snowboard Kids 2 is a faithful sequel that builds upon the foundation laid by the first game by introducing new gameplay mechanics.
