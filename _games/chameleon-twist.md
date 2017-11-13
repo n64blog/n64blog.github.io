@@ -20,6 +20,8 @@ transfer: no
 tags: [chameleon-twist]
 aka: ""
 boxart: chameleon-twist.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 A curious chameleon follows a rabbit down a magical hole, becoming anthropomorphised in the process. They must now use their elongated tongue in elaborate ways to traverse through six magical lands in a bid to get back home again.
