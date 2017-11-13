@@ -20,6 +20,8 @@ transfer: no
 tags: [mario-party-3]
 aka: ""
 boxart: mario-party-3.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Mario and friends return for yet another run round the board in search of stars.
