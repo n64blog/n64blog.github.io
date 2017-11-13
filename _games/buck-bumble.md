@@ -20,6 +20,8 @@ transfer: no
 tags: [buck-bumble]
 aka: ""
 boxart: buck-bumble.jpg
+redirect_to:
+  - http://n64today.com
 ---
 Game developers could get away with being a bit more experimental in the late ‘90s, and, as a result, we got treated to some wonderfully bizarre games. Argonaut Games' Buck Bumble is one such game.
 
