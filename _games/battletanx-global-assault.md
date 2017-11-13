@@ -20,6 +20,8 @@ transfer: no
 tags: [battletanx-global-assault]
 aka: ""
 boxart: battletanx-global-assault.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Save the world by blowing it up using a wide range of tanks.
