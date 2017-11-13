@@ -20,6 +20,8 @@ transfer: no
 tags: [blast-corps]
 aka: "Blast Dozer"
 boxart: blast-corps.jpg
+redirect_to:
+  - http://n64today.com
 ---
 A nuclear missile carrier has gone into autopilot mode and is taking the most direct route back to the safe detonation zone. It’s up to the Blast Corps demolition company to clear the way of buildings and other obstacles to prevent a nuclear winter.
 
