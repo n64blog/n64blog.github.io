@@ -20,6 +20,8 @@ transfer: no
 tags: [winback-covert-operations]
 aka: "Operation: WinBack"
 boxart: winback-covert-operations.jpg
+redirect_to:
+  - http://n64today.com/2017/06/05/winback-covert-operations-review/
 ---
 
 WinBack: Covert Operations’ legacy is understated: it’s features one of the earliest examples of a cover-based system in a third-person shooter, and is credited with influencing later games in the genre that employ a similar gameplay mechanic.
