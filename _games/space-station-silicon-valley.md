@@ -20,6 +20,8 @@ transfer: no
 tags: [space-station-silicon-valley]
 aka: ""
 boxart: space-station-silicon-valley.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Space Station Silicon Valley's odd premise may have you scratching your head, but it's fair to say that it's one of the most unique and entertaining games on the N64.
