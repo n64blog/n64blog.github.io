@@ -20,6 +20,8 @@ transfer: no
 tags: [worms-armageddon]
 aka: ""
 boxart: worms-armageddon.jpg
+redirect_to:
+  - http://n64today.com
 ---
 Worms Armageddon marked the loveable, warfaring worms’ first and only appearance on the N64.
 
