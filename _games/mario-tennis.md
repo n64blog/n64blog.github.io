@@ -20,6 +20,8 @@ transfer: no
 tags: [mario-tennis]
 aka: ""
 boxart: mario-tennis.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Mario and Co. hit the court for a nice friendly tennis tournament.
