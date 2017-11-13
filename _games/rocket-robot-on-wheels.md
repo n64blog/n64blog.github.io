@@ -20,6 +20,8 @@ transfer: no
 tags: [rocket-robot-on-wheels]
 aka: ""
 boxart: rocket-robot-on-wheels.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Sucker Punch Productions’ first-ever video game garnered critical acclaim from reviewers but didn’t attract very many sales.
