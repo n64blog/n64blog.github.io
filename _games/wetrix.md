@@ -20,6 +20,8 @@ transfer: no
 tags: [wetrix]
 aka: ""
 boxart: wetrix.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Terraform a plot of land to create lakes of water that you then evaporate with meteorites. Confused? Welcome to the crazy puzzle game that is Wetrix!
