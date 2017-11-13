@@ -20,6 +20,8 @@ transfer: no
 tags: [mystical-ninja-starring-goemon]
 aka: ""
 boxart: mystical-ninja-starring-goemon.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Konami’s second Ganbare Goemon game to be localised for the West was also the eponymous ninja’s first outing in 3D.
