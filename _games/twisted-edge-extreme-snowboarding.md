@@ -20,6 +20,8 @@ transfer: no
 tags: [twisted-edge-extreme-snowboarding]
 aka: "Twisted Edge Snowboarding, King Hill 64: Extreme Snowboarding"
 boxart: twisted-edge-extreme-snowboarding.jpg
+redirect_to:
+  - http://n64today.com
 ---
 Twisted Edge Extreme Snowboarding is a decent game that released at the wrong time.
 
