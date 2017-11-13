@@ -20,6 +20,8 @@ transfer: no
 tags: [f-zero-x]
 aka: ""
 boxart: f-zero-x.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Break the sound barrier in this high-speed and technically deep futuristic racing game.
