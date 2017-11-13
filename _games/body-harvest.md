@@ -20,6 +20,8 @@ transfer: no
 tags: [body-harvest]
 aka: ""
 boxart: body-harvest.jpg
+redirect_to:
+  - http://n64today.com/2017/07/09/body-harvest-review/
 ---
 
 2016 may not have been a good year for you depending on your political preferences or because we lost a lot of influential people. But despite everything that has happened, it's far better than the equivalent year in Body Harvest's fictional universe, in which aliens have reduced mankind to the brink of extinction following 100 years of periodic invasions.
