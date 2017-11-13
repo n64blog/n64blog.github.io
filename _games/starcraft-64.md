@@ -20,6 +20,8 @@ transfer: no
 tags: [starcraft-64]
 aka: ""
 boxart: starcraft-64.jpg
+redirect_to:
+  - http://n64today.com
 ---
 Blizzard Entertainment’s hit real-time strategy game brings the campaigns of the original PC version and the StarCraft: Brood War expansion pack to the N64.
  
