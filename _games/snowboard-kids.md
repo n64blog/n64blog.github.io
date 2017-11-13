@@ -20,6 +20,8 @@ transfer: no
 tags: [snowboard-kids]
 aka: ""
 boxart: snowboard-kids.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 "Mario Kart 64 with snowboards" would be an accurate way to sum up Snowboard Kids, but don't let that make you think this is just another derivative kart-racing clone in a different guise.
