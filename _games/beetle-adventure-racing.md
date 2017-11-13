@@ -20,6 +20,8 @@ transfer: no
 tags: [beetle-adventure-racing]
 aka: "HSV Adventure Racing"
 boxart: beetle-adventure-racing.jpg
+redirect_to:
+  - http://n64today.com
 ---
 Paradigm Entertainment defied both expectations and convention with this novel racing game that’s all about travelling off the beaten path.
 
