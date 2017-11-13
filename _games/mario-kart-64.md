@@ -20,6 +20,8 @@ transfer: no
 tags: [mario-kart-64]
 aka: ""
 boxart: mario-kart-64.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 The second instalment in Nintendo's popular kart-racing series was the first to feature four-player modes and 3D environments.
