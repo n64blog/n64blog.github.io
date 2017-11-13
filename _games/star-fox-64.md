@@ -20,6 +20,8 @@ transfer: no
 tags: [star-fox-64]
 aka: "Lylat Wars"
 boxart: star-fox-64.jpg
+redirect_to:
+  - http://n64today.com/2017/04/23/star-fox-64-review/
 ---
 Much like its predecessor had done for the SNES, Star Fox 64 showcased the N64's technical prowess, and went that little bit further by being the first game to support the N64 Rumble Pak.
 
