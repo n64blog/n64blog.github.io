@@ -20,6 +20,8 @@ transfer: no
 tags: [turok-2-seeds-of-evil]
 aka: ""
 boxart: turok-2-seeds-of-evil.jpg
+redirect_to:
+  - http://n64today.com
 ---
 Building on the success of its first N64 game, Acclaim Entertainment went all out with Turok 2: Seeds of Evil, making one of the most technically impressive third-party games on the N64 in the process.
 
