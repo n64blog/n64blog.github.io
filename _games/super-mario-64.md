@@ -20,6 +20,8 @@ transfer: no
 tags: [super-mario-64]
 aka: ""
 boxart: super-mario-64.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Whereas Mario's previous adventures had typically been confined to 2D scrolling environments, Super Mario 64 gave players unbridled freedom to explore 3D game worlds in full 360-degree analog control.
