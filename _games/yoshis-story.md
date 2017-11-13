@@ -20,6 +20,8 @@ transfer: no
 tags: [yoshis-story]
 aka: ""
 boxart: yoshis-story.jpg
+redirect_to:
+  - http://n64today.com
 ---
 Pitched as a sequel to the critically acclaimed Super Mario World 2: Yoshi’s Island, Yoshi’s Story didn’t deliver the same magic, but nevertheless gave N64 owners a charming 2D platforming experience.
 
