@@ -20,6 +20,8 @@ transfer: no
 tags: [big-mountain-2000]
 aka: "Snow Speeder"
 boxart: big-mountain-2000.jpg
+redirect_to:
+  - http://n64today.com
 ---
 First released in Japan in 1998 under the title Snow Speeder, Big Mountain 2000, for some bizarre reason, came to North America two years later.
 
