@@ -20,6 +20,8 @@ transfer: no
 tags: [hydro-thunder]
 aka: ""
 boxart: hydro-thunder.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 First released in arcade-cabinet form in 1999, Hydro Thunder made a splash landing on the N64 the following year.
