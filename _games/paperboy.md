@@ -20,6 +20,8 @@ transfer: no
 tags: [paperboy]
 aka: ""
 boxart: paperboy.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Atari’s arcade hit makes the transition to the third dimension in this quirky N64 remake.
