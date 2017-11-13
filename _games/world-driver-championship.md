@@ -20,6 +20,8 @@ transfer: no
 tags: [world-driver-championship]
 aka: ""
 boxart: world-driver-championship.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Building on the success of Top Gear Rally, Boss Game Studios pulled out all the stops to make World Driver Championship one of the N64’s most technically impressive racing games.
