@@ -20,6 +20,8 @@ transfer: no
 tags: [banjo-kazooie]
 aka: ""
 boxart: banjo-kazooie.jpg
+redirect_to:
+  - http://n64today.com/2017/04/09/banjo-kazooie-review/
 ---
 
 Nintendo may have revolutionised the industry with Super Mario 64, but Rare completely outclassed its parent company's effort with its own 3D platformer, Banjo-Kazooie.
