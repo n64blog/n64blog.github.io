@@ -20,6 +20,8 @@ transfer: no
 tags: [aerofighters-assault]
 aka: ""
 boxart: aerofighters-assault.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Paradigm Entertainment earned its wings as a video game developer with N64 launch game Pilotwings 64. But sadly it didn't achieve the same soaring success with Aerofighters Assault.
