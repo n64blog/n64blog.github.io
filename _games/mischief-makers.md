@@ -20,6 +20,8 @@ transfer: no
 tags: [mischief-makers]
 aka: ""
 boxart: mischief-makers.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Treasure’s first N64 game bucked the trend of 3D gameplay at the time, opting instead for a classic 2D side-scrolling design that featured innovative and unusual gameplay mechanics.
