@@ -20,6 +20,8 @@ transfer: no
 tags: [007-the-world-is-not-enough]
 aka: ""
 boxart: 007-the-world-is-not-enough.jpg
+redirect_to:
+  - http://n64today.com/category/reviews/
 ---
 
 EA was quick to acquire the James Bond licence after it saw the immense success Rare had with GoldenEye 007.
