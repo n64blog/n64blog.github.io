@@ -20,6 +20,8 @@ transfer: no
 tags: [bomberman-64]
 aka: "Baku Bomberman"
 boxart: bomberman-64.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 In his first N64 adventure, Bomberman finally broke free of the grid arena and got to explore the world in full 3D -- a first for the series!
