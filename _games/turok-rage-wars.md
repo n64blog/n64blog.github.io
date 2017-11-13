@@ -20,6 +20,8 @@ transfer: no
 tags: [turok-rage-wars]
 aka: ""
 boxart: turok-rage-wars.jpg
+redirect_to:
+  - http://n64today.com
 ---
 Acclaim’s Turok: Rage Wars took the characters and settings of its most popular franchise and inserted them into a multiplayer arena-shooter spin-off.
 
