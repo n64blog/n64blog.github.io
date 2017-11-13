@@ -20,6 +20,8 @@ transfer: no
 tags: [rampage-world-tour]
 aka: ""
 boxart: rampage-world-tour.jpg
+redirect_to:
+  - http://n64today.com
 ---
 Ported from the arcade to the N64 in 1998, Rampage World Tour gave players the chance to smash up buildings and devour innocent bystanders.
 
