@@ -20,6 +20,8 @@ transfer: no
 tags: [pilotwings-64]
 aka: ""
 boxart: pilotwings-64.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Released alongside Super Mario 64, Pilotwings 64 was always destined to be merely known as the other launch title for the N64.
