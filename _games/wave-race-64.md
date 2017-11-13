@@ -20,6 +20,8 @@ transfer: no
 tags: [wave-race-64]
 aka: ""
 boxart: wave-race-64.jpg
+redirect_to:
+  - http://n64today.com
 ---
 
 Sporting vibrant visuals and exceptional water physics, Wave Race 64 captured the 90s' obsession with personal watercraft and turned it into a fantastic racing game.
