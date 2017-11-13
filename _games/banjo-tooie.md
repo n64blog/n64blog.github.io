@@ -20,6 +20,8 @@ transfer: no
 tags: [banjo-tooie]
 aka: ""
 boxart: banjo-tooie.jpg
+redirect_to:
+  - http://n64today.com
 ---
 The direct sequel to Rare’s first 3D platforming hit dwarfs its predecessor with its sheer size, and takes on a very non-linear design.
 
